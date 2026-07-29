@@ -5,6 +5,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/images");
   eleventyConfig.addPassthroughCopy("src/assets/favicons");
   eleventyConfig.addPassthroughCopy("src/favicon.ico");
+  eleventyConfig.addPassthroughCopy("src/CNAME");
   eleventyConfig.addFilter("markdownify", (content) => markdownIt.renderInline(content));
 
   eleventyConfig.addFilter("byGeneration", (people, gen) => {
