@@ -1,0 +1,246 @@
+---
+layout: layouts/base.njk
+---
+
+<article class="person-page">
+
+  {# ── Page header ── #}
+  <header class="person-header">
+    <div class="person-header-inner">
+      <p class="person-breadcrumb"><a href="/people/">Ancestors</a> / {{ surname }}</p>
+      <h1 class="person-name">{{ name }}</h1>
+      {% if aka %}
+        <p class="person-aka">Also known as: {{ aka }}</p>
+      {% endif %}
+      <p class="person-dates">
+        {% if birth_year %}b. {{ birth_year }}{% if birth_place %} · {{ birth_place }}{% endif %}{% endif %}
+        {% if birth_year and death_year %} – {% endif %}
+        {% if death_year %}d. {{ death_year }}{% if death_place and death_place != birth_place %} · {{ death_place }}{% endif %}{% endif %}
+      </p>
+      {% if research_status %}
+        <span class="research-badge research-badge--{{ research_status | lower | replace(' ', '-') }}">
+          {{ research_status }}
+        </span>
+      {% endif %}
+    </div>
+  </header>
+
+  {# ── Research status banner ── #}
+  {% if brick_wall %}
+  <div class="brick-wall-banner">
+    <strong>Active Brick Wall</strong> — {{ brick_wall }}
+  </div>
+  {% endif %}
+
+  <div class="person-body">
+
+    {# ── Portrait ── #}
+    {% if portrait %}
+    <figure class="person-portrait">
+      <img src="{{ portrait.src }}" alt="{{ portrait.alt }}">
+      <figcaption>{{ portrait.caption }}</figcaption>
+    </figure>
+    {% endif %}
+
+    {# ── Vital facts ── #}
+    {% if vitals %}
+    <section class="person-section">
+      <h2>Vital Facts</h2>
+      <table class="vitals-table">
+        <thead>
+          <tr>
+            <th>Event</th>
+            <th>Date</th>
+            <th>Place</th>
+            <th>Status</th>
+            <th>Source</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for v in vitals %}
+          <tr class="vital-row vital-row--{{ v.status | lower | replace(' ', '-') }}">
+            <td>{{ v.event }}</td>
+            <td>{{ v.date }}</td>
+            <td>{{ v.place }}</td>
+            <td><span class="status-pill status-pill--{{ v.status | lower | replace(' ', '-') }}">{{ v.status }}</span></td>
+            <td class="source-cell">
+              {% if not v.inline_cited %}{% if v.source_keys %}{% cite v.source_keys %}
+              {% elif v.source_key %}{% cite v.source_key %}{% endif %}{% endif %}
+              {% if v.note %}<span class="source-note">{% if v.inline_cited %}{{ v.note | citeInline | safe }}{% else %}{{ v.note }}{% endif %}</span>{% endif %}
+              {% if not v.source_key and not v.source_keys and v.source %}{{ v.source }}{% endif %}
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </section>
+    {% endif %}
+
+    {# ── Family connections: Parents & Spouses ── #}
+    {% if family.parents or family.spouses %}
+    <section class="person-section">
+      <h2>Family</h2>
+
+      {% if family.parents %}
+      <div class="family-group">
+        <h3>Parents</h3>
+        <ul class="family-list">
+      {% for p in family.parents %}
+      <li>
+        {% if p.url %}<a href="{{ p.url }}">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}
+        {% if p.relationship %} <span class="family-role">({{ p.relationship }})</span>{% endif %}
+        {% if p.note %} — <em class="family-note">{% if p.inline_cited %}{{ p.note | citeInline | safe }}{% else %}{{ p.note }}{% endif %}</em>{% endif %}
+        {% if not p.inline_cited %}{% if p.source_keys %} {% cite p.source_keys %}{% elif p.source_key %} {% cite p.source_key %}{% endif %}{% endif %}
+      </li>
+      {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+
+      {% if family.spouses %}
+      <div class="family-group">
+        <h3>{% if family.spouses.length == 1 %}Spouse{% else %}Spouses{% endif %}</h3>
+        <ul class="family-list">
+          {% for s in family.spouses %}
+          <li>
+            {% if s.url %}<a href="{{ s.url }}">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}
+            {% if s.marriage_year %} — m. {{ s.marriage_year }}{% endif %}
+            {% if s.marriage_place %}, {{ s.marriage_place }}{% endif %}
+            {% if s.status %} <span class="family-role">({{ s.status }})</span>{% endif %}
+            {% if not s.inline_cited %}{% if s.source_keys %} {% cite s.source_keys %}{% elif s.source_key %} {% cite s.source_key %}{% endif %}{% endif %}
+            {% if s.note %} — <em class="family-note">{% if s.inline_cited %}{{ s.note | citeInline | safe }}{% else %}{{ s.note }}{% endif %}</em>{% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+
+    </section>
+    {% endif %}
+
+{# ── Marriages ── #}
+    {% if marriages %}
+    <section class="person-section">
+      <h2>Marriages</h2>
+      <table class="vitals-table marriages-table">
+        <thead>
+          <tr>
+            <th>Spouse</th>
+            <th>Date</th>
+            <th>Place</th>
+            <th>Status</th>
+            <th>Outcome</th>
+            <th>Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for m in marriages %}
+          <tr class="vital-row vital-row--{{ m.status | lower | replace(' ', '-') }}">
+            <td>
+              {% if m.url %}<a href="{{ m.url }}">{{ m.spouse }}</a>{% else %}{{ m.spouse }}{% endif %}
+              {% if m.order %}<span class="marriage-order">({{ m.order }})</span>{% endif %}
+            </td>
+            <td>{{ m.date | default("unknown") }}</td>
+            <td>{{ m.place | default("unknown") }}</td>
+            <td><span class="status-pill status-pill--{{ m.status | lower | replace(' ', '-') }}">{{ m.status }}</span></td>
+            <td class="outcome-cell">{{ m.outcome | default("") }}</td>
+            <td class="source-cell">
+              {% set item = m %}
+              {% include "components/note-excerpt.njk" %}
+              {% if not m.inline_cited %}{% if m.source_keys %} {% cite m.source_keys %}{% elif m.source_key %} {% cite m.source_key %}{% endif %}{% endif %}
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </section>
+    {% endif %}
+
+    {# ── Children (rendered after Marriages so each child can be read in context of the marriage that produced them) ── #}
+    {% if family.children %}
+    <section class="person-section">
+      <h2>Children</h2>
+      <div class="family-group">
+        <ul class="family-list">
+          {% for c in family.children %}
+          <li>
+            {% if c.url %}<a href="{{ c.url }}">{{ c.name }}</a>{% else %}{{ c.name }}{% endif %}
+            {%- if c.birth_date or c.birth_year %} (b. {{ c.birth_date or c.birth_year }}{% if c.birth_place %}, {{ c.birth_place }}{% endif %}{% if c.death_date or c.death_year %}; d. {{ c.death_date or c.death_year }}{% if c.death_place %}, {{ c.death_place }}{% endif %}{% endif %}){% endif %}
+            {% if c.note %} — <em class="family-note">{% if c.inline_cited %}{{ c.note | citeInline | safe }}{% else %}{{ c.note }}{% endif %}</em>{% endif %}
+            {% if not c.inline_cited %}{% if c.source_keys %} {% cite c.source_keys %}{% elif c.source_key %} {% cite c.source_key %}{% endif %}{% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </section>
+    {% endif %}
+
+    {# ── Narrative ── #}
+    {% if content %}
+    <section class="person-section person-narrative">
+      <h2>Research Narrative</h2>
+      {{ content | safe }}
+    </section>
+    {% endif %}
+
+    {# ── Timeline ── #}
+    {% if timeline %}
+    <section class="person-section">
+      <h2>Timeline</h2>
+      <ol class="person-timeline">
+        {% for event in timeline %}
+        <li class="timeline-event timeline-event--{{ event.type | default('general') }}">
+          <span class="timeline-date">{{ event.date }}</span>
+          <span class="timeline-desc">{% if event.inline_cited %}{{ event.description | citeInline | safe }}{% else %}{{ event.description }}{% endif %}</span>
+          {% if not event.inline_cited %}{% if event.source_key %}<span class="timeline-source">{% cite event.source_key %}</span>
+          {% elif event.source_keys %}<span class="timeline-source">{% cite event.source_keys %}</span>
+          {% elif event.source %}<span class="timeline-source">{{ event.source }}</span>{% endif %}{% endif %}
+        </li>
+        {% endfor %}
+      </ol>
+    </section>
+    {% endif %}
+
+    {# ── Open questions ── #}
+    {% if open_questions %}
+    <section class="person-section research-questions">
+      <h2>Open Research Questions</h2>
+      <ol class="questions-list">
+        {% for q in open_questions %}
+        <li class="question-item">
+          {% if q.question %}
+          <div class="question-item-header">
+            <span class="question-text">{{ q.question }}</span>
+            {% if q.priority %}<span class="question-priority priority-{{ q.priority | lower }}">{{ q.priority }}</span>{% endif %}
+          </div>
+          {% if q.notes %}<p class="question-notes">{{ q.notes }}</p>{% endif %}
+          {% else %}
+          {{ q }}
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ol>
+    </section>
+    {% endif %}
+
+    {# ── Repositories to search ── #}
+    {% if repositories %}
+    <section class="person-section">
+      <h2>Repository Targets</h2>
+      <ul class="repository-list">
+        {% for r in repositories %}
+        <li>
+          <strong>{{ r.name }}</strong>
+          {% if r.record_types %} — {{ r.record_types }}{% endif %}
+          {% if r.status %} <span class="repo-status">[{{ r.status }}]</span>{% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+
+  {% citeReferences %}
+
+  </div>{# end .person-body #}
+
+</article>

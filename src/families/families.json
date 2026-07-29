@@ -1,0 +1,4 @@
+{
+  "tags": ["families"],
+  "layout": "layouts/family-entry.njk"
+}

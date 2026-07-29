@@ -1,0 +1,4 @@
+{
+  "tags": ["people"],
+  "layout": "layouts/person.njk"
+}

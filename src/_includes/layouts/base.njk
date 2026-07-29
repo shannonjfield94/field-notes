@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if title %}{{ title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if description %}{{ description }}{% else %}{{ site.description }}{% endif %}">
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="48x48" href="/assets/favicons/favicon-48x48.png">
+  <link rel="icon" type="image/png" sizes="64x64" href="/assets/favicons/favicon-64x64.png">
+  <link rel="apple-touch-icon" sizes="128x128" href="/assets/favicons/favicon-128x128.png">
+  <link rel="icon" type="image/png" sizes="256x256" href="/assets/favicons/favicon-256x256.png">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="/" class="site-title">{{ site.title }}</a>
+      <p class="site-subtitle">Researching Family History One Record at a Time</p>
+    </div>
+
+<nav class="site-nav">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/people/">Our People</a></li>
+    <li><a href="/resources/">Resources</a></li>
+    <li><a href="/journal/">Journal</a></li>
+    <li><a href="/about/">About</a></li>
+    <li><a href="/contact/">Contact</a></li>
+  </ul>
+</nav>
+
+  </header>
+
+  <main class="site-main">
+    {{ content | safe }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <nav class="footer-nav">
+       <a href="/">Home</a> |
+       <a href="/people/">Our People</a> |
+       <a href="/resources/">Resources</a> |
+       <a href="/journal/">Journal</a> |
+       <a href="/about/">About</a> |
+       <a href="/contact/">Contact</a> |
+       <a href="/privacy/">Privacy Policy</a>
+      </nav>
+      <p>Research compiled by {{ site.author }}.</p>
+      <p class="footer-note">All conclusions are working hypotheses subject to revision as new evidence emerges. Source citations accompany all factual claims.</p>
+    </div>
+  </footer>
+
+</body>
+</html>

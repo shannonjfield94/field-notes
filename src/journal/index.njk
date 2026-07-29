@@ -1,0 +1,50 @@
+---
+layout: layouts/base.njk
+title: "Journal"
+---
+
+<main class="journal-index">
+  <div class="page-header">
+    <h1>Journal</h1>
+    <p class="page-intro">
+      Reflections on this research as it unfolds — discoveries, dead ends, and the occasional
+      reckoning with what the records actually say. Entries are listed newest first.
+    </p>
+  </div>
+
+  <div class="journal-list">
+    {%- for entry in collections.journal | reverse %}
+    {%- if entry.url != "/journal/" %}
+    <article class="journal-card">
+      <p class="journal-card__date">{{ entry.data.date_display }}</p>
+      <h2 class="journal-card__title">
+        <a href="{{ entry.url }}">{{ entry.data.title }}</a>
+      </h2>
+      {% if entry.data.excerpt %}
+      <p class="journal-card__excerpt">{{ entry.data.excerpt }}</p>
+      {% endif %}
+      {% if entry.data.sensitivity_tags and entry.data.sensitivity_tags.length %}
+      <div class="journal-card__sensitivity-flag">
+        <span class="journal-sensitivity-label">Heads up:</span>
+        {% for s in entry.data.sensitivity_tags %}
+        <span class="journal-sensitivity-tag">{{ s }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+      {% if entry.data.topics %}
+      <ul class="journal-card__topics">
+        {% for t in entry.data.topics %}
+        <li>{{ t }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </article>
+    {%- endif %}
+    {%- endfor %}
+  </div>
+
+  {% if collections.journal.length <= 1 %}
+  <p class="text-muted text-sans">No entries yet — check back soon.</p>
+  {% endif %}
+
+</main>

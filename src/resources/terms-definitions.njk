@@ -1,0 +1,47 @@
+---
+layout: layouts/base.njk
+title: "Terms/Definitions"
+description: "Genealogical and historical terms and abbreviations."
+---
+
+{% set sidebar_items = [
+  { label: "AI", url: "/resources/ai/" },
+  { label: "Archives", url: "/resources/" },
+  { label: "Bloggers", url: "/resources/bloggers/" },
+  { label: "DNA", url: "/resources/dna/" },
+  { label: "Libraries", url: "/resources/libraries/" },
+  { label: "Organizations", url: "/resources/organizations/" },
+  { label: "Terms/Definitions", url: "/resources/terms-definitions/" }
+] %}
+
+<div class="section-layout">
+  {% include "partials/section-sidebar.njk" %}
+
+  <div class="section-content">
+    <div class="page-header">
+      <p class="section-breadcrumb">Resources</p>
+      <h1>Terms/Definitions</h1>
+    </div>
+
+    <section class="person-section">
+      <ul class="repository-list">
+        <li>
+          <strong><a href="https://blog.newspapers.com/7-common-historical-newspaper-abbreviations-and-terms/">7 Common Historical Newspaper Abbreviations and Terms</a></strong> — Fishwrap, a Blog of Newspapers.com
+          <span class="repo-status">[2018]</span>
+        </li>
+        <li>
+          <strong><a href="https://www.familysearch.org/wiki/en/Abbreviations_Found_in_Genealogy_Records">Family Search Abbreviations Found in Genealogy Records</a></strong>
+          <span class="repo-status">[2018]</span>
+        </li>
+        <li>
+          <strong><a href="https://www.familysearch.org/wiki/en/Genealogical_Terms">Family Search Genealogical Terms</a></strong>
+          <span class="repo-status">[2018]</span>
+        </li>
+        <li>
+          <strong><a href="https://thelawdictionary.org/">The Law Dictionary</a></strong> — Featuring Black's Law Dictionary Free Online Legal Dictionary, 2nd Ed.
+        </li>
+      </ul>
+    </section>
+
+  </div>
+</div>

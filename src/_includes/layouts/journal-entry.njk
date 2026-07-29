@@ -1,0 +1,49 @@
+---
+layout: layouts/base.njk
+---
+
+<article class="journal-entry">
+
+  <header class="journal-entry-header">
+    <div class="journal-entry-header-inner">
+      <a href="/journal/" class="journal-backlink">← All journal entries</a>
+      <p class="journal-entry-date">{{ date_display }}</p>
+      <h1 class="journal-entry-title">{{ title }}</h1>
+
+      {% if sensitivity_tags and sensitivity_tags.length %}
+      <div class="journal-sensitivity-flag">
+        <span class="journal-sensitivity-label">Heads up:</span>
+        {% for s in sensitivity_tags %}<span class="journal-sensitivity-tag">{{ s }}</span>{% endfor %}
+      </div>
+      {% endif %}
+
+      {% if topics %}
+      <ul class="journal-topics">
+        {% for t in topics %}
+        <li class="journal-topic">{{ t }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </div>
+  </header>
+
+  <div class="journal-entry-body">
+    {{ content | safe }}
+  </div>
+
+  {% if related_people %}
+  <aside class="journal-related">
+    <h2>Related people</h2>
+    <ul class="related-people-list">
+      {% for p in related_people %}
+      <li><a href="{{ p.url }}">{{ p.name }}</a></li>
+      {% endfor %}
+    </ul>
+  </aside>
+  {% endif %}
+
+  <footer class="journal-entry-footer">
+    <a href="/journal/" class="journal-backlink">← All journal entries</a>
+  </footer>
+
+</article>

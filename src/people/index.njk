@@ -1,0 +1,65 @@
+---
+layout: layouts/base.njk
+title: "Ancestors & Relatives"
+---
+
+{% set sidebar_items = [
+  { label: "Ancestors", url: "/people/" },
+  { label: "Families", url: "/families/" }
+] %}
+
+{% set generation_labels = {
+  "1": "Parents",
+  "2": "Grandparents",
+  "3": "Great-Grandparents",
+  "4": "2x-Great-Grandparents",
+  "5": "3x-Great-Grandparents",
+  "6": "4x-Great-Grandparents"
+} %}
+
+<div class="section-layout">
+  {% include "partials/section-sidebar.njk" %}
+
+  <div class="section-content">
+    <div class="page-header">
+      <h1>Ancestors & Relatives</h1>
+      <p class="page-intro">
+        Research profiles for direct-line ancestors, organized by generation, and collateral relatives whose records illuminate the direct line.
+        Pages marked <span class="badge badge--direct">Direct Line</span> represent verified ancestors;
+        <span class="badge badge--collateral">Collateral</span> pages document relatives connected to them.
+      </p>
+    </div>
+
+    {% for gen_num in [1, 2, 3, 4, 5, 6] %}
+      {% set gen_people = collections.people | byGeneration(gen_num) %}
+      {% if gen_people.length %}
+      <section class="person-section">
+        <h2>{{ generation_labels[gen_num] }}</h2>
+        <div class="people-grid">
+          {% for page in gen_people %}
+            {% set item = page %}
+            {% include "partials/person-card.njk" %}
+          {% endfor %}
+        </div>
+      </section>
+      {% endif %}
+    {% endfor %}
+
+    {% set collateral_groups = collections.people | groupCollateralBySurname %}
+    {% if collateral_groups.length %}
+    <section class="person-section">
+      <h2>Collateral Relatives</h2>
+      {% for group in collateral_groups %}
+        <h3>{{ group.surname }}</h3>
+        <div class="people-grid">
+          {% for page in group.people %}
+            {% set item = page %}
+            {% include "partials/person-card.njk" %}
+          {% endfor %}
+        </div>
+      {% endfor %}
+    </section>
+    {% endif %}
+
+  </div>
+</div>

@@ -1,0 +1,29 @@
+---
+layout: layouts/base.njk
+---
+
+<article class="journal-entry">
+
+  <header class="journal-entry-header">
+    <div class="journal-entry-header-inner">
+      <a href="/families/" class="journal-backlink">← All families</a>
+      <h1 class="journal-entry-title">{{ title }}</h1>
+      {% if surnames %}
+      <ul class="journal-topics">
+        {% for s in surnames %}
+        <li class="journal-topic">{{ s }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </div>
+  </header>
+
+  <div class="journal-entry-body">
+    {{ content | safe }}
+  </div>
+
+  <footer class="journal-entry-footer">
+    <a href="/families/" class="journal-backlink">← All families</a>
+  </footer>
+
+</article>

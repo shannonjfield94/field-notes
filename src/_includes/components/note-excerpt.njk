@@ -1,0 +1,16 @@
+{% if item.note %}
+  {% if item.inline_cited %}
+    {{ item.note | citeInline | safe }}
+    {% if item.note_url %}
+      <a href="{{ item.note_url }}" class="note-read-more">Read full account →</a>
+    {% endif %}
+  {% elif item.note_url and item.note.length > 220 %}
+    {{ item.note | truncate(220) }}
+    <a href="{{ item.note_url }}" class="note-read-more">Read full account →</a>
+  {% else %}
+    {{ item.note }}
+    {% if item.note_url %}
+      <a href="{{ item.note_url }}" class="note-read-more">Read full account →</a>
+    {% endif %}
+  {% endif %}
+{% endif %}

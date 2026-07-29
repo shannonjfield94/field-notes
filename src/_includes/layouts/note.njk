@@ -1,0 +1,25 @@
+---
+layout: layouts/base.njk
+---
+
+<article class="note-page">
+
+  <header class="note-header">
+    <div class="note-header-inner">
+      <a href="{{ person_url }}" class="note-backlink">← Back to {{ person_name }}</a>
+      <h1 class="note-title">{{ title }}</h1>
+      {% if context %}
+        <p class="note-context">{{ context }}</p>
+      {% endif %}
+    </div>
+  </header>
+
+  <div class="note-body">
+    {{ content | markdownify | safe }}
+  </div>
+
+  <footer class="note-footer">
+    <a href="{{ person_url }}" class="note-backlink">← Back to {{ person_name }}</a>
+  </footer>
+
+</article>

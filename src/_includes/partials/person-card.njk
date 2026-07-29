@@ -1,0 +1,26 @@
+<a href="{{ item.url }}" class="person-card {% if item.data.direct_line %}person-card--direct{% else %}person-card--collateral{% endif %}">
+  <div class="person-card__header">
+    <h2 class="person-card__name">{{ item.data.name }}</h2>
+    {% if item.data.direct_line %}
+      <span class="badge badge--direct">Direct Line</span>
+    {% else %}
+      <span class="badge badge--collateral">Collateral</span>
+    {% endif %}
+  </div>
+  <div class="person-card__vitals">
+    {% if item.data.birth_year %}
+      <span>b. {{ item.data.birth_year }}</span>
+    {% endif %}
+    {% if item.data.death_year %}
+      <span>d. {{ item.data.death_year }}</span>
+    {% endif %}
+    {% if item.data.birth_place %}
+      <span class="person-card__place">{{ item.data.birth_place }}</span>
+    {% endif %}
+  </div>
+  {% if item.data.research_status %}
+    <div class="person-card__status person-card__status--{{ item.data.research_status }}">
+      Research: {{ item.data.research_status }}
+    </div>
+  {% endif %}
+</a>

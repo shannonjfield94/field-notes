@@ -1,0 +1,4 @@
+{
+  "tags": ["journal"],
+  "layout": "layouts/journal-entry.njk"
+}

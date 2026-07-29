@@ -1,0 +1,67 @@
+---
+layout: layouts/base.njk
+title: "Contact"
+---
+
+<article class="static-page">
+  <div class="static-page-inner">
+
+  <div class="page-header">
+    <h1>Contact</h1>
+    <p class="page-intro">If you've found something here that doesn't match your own records, have a correction, or know of a source I should look at — I'd like to hear about it.</p>
+  </div>
+
+    <p>This is a one-way message box. I read everything that comes through, but I'm not able to reply to every message, so please don't expect a response. If your note doesn't need a reply, you don't need to leave any way to reach you.</p>
+
+    <p class="text-muted text-sans">See the <a href="/privacy/">Privacy Policy</a> for what happens to anything submitted here.</p>
+
+    <form id="contact-form" method="POST" action="https://formspree.io/f/mpqgybqo" class="contact-form">
+
+      <label for="message" class="sr-only">Your message</label>
+      <textarea
+        id="message"
+        name="message"
+        rows="8"
+        required
+        placeholder="Share a correction, a source, or anything else..."
+      ></textarea>
+
+      <p class="contact-form__note">The box below is an automatic check confirming you're not a bot — it runs on its own and doesn't send anything. Click <strong>Send</strong> when you're ready.</p>
+
+      <div class="cf-turnstile" data-sitekey="0x4AAAAAADuhb7Wj8ZiOQfOi"></div>
+
+      <button type="submit">Send</button>
+
+    </form>
+
+    <p id="form-status" class="text-muted text-sans" aria-live="polite"></p>
+
+  </div>
+</article>
+
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+<script>
+  document.getElementById('contact-form').addEventListener('submit', function (event) {
+    event.preventDefault();
+    const form = event.target;
+    const status = document.getElementById('form-status');
+    const data = new FormData(form);
+
+    fetch(form.action, {
+      method: form.method,
+      body: data,
+      headers: { 'Accept': 'application/json' }
+    })
+      .then(function (response) {
+        if (response.ok) {
+          form.reset();
+          status.textContent = 'Sent. Thank you.';
+        } else {
+          status.textContent = 'Something went wrong — please try again.';
+        }
+      })
+      .catch(function () {
+        status.textContent = 'Something went wrong — please try again.';
+      });
+  });
+</script>

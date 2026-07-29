@@ -1,0 +1,44 @@
+---
+layout: layouts/base.njk
+title: "Families"
+---
+
+{% set sidebar_items = [
+  { label: "Ancestors", url: "/people/" },
+  { label: "Families", url: "/families/" }
+] %}
+
+<div class="section-layout">
+  {% include "partials/section-sidebar.njk" %}
+
+  <div class="section-content">
+    <div class="page-header">
+      <h1>Families</h1>
+      <p class="page-intro">
+        Ancestors documents individual lives — one person, their vital facts, their record trail. Families is where those threads get woven back together: the marriages that joined two lines, the migrations a whole household made together, the mysteries that only make sense when you look at several people at once instead of one.
+      </p>
+      <p class="page-intro">
+        This section is newer than the rest of the site and still mostly unwritten. As entries are finished, they will appear below — pieces on how a Brewster became a Woodruff, on the Bates and Jackson lines finding each other, and on the unresolved question of where the Chaney family truly began. Check back as the research catches up to the outline.
+      </p>
+    </div>
+
+    <div class="journal-list">
+      {%- for entry in collections.families | reverse %}
+      {%- if entry.url != "/families/" %}
+      <article class="journal-card">
+        <h2 class="journal-card__title">
+          <a href="{{ entry.url }}">{{ entry.data.title }}</a>
+        </h2>
+        {% if entry.data.excerpt %}
+        <p class="journal-card__excerpt">{{ entry.data.excerpt }}</p>
+        {% endif %}
+      </article>
+      {%- endif %}
+      {%- endfor %}
+    </div>
+
+    {% if collections.families.length <= 1 %}
+    <p class="text-muted text-sans">No family narratives published yet — check back soon.</p>
+    {% endif %}
+  </div>
+</div>

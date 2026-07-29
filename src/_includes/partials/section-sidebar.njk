@@ -1,0 +1,9 @@
+<nav class="section-sidebar" aria-label="{{ sidebar_label }} navigation">
+  <ul>
+    {% for item in sidebar_items %}
+    <li>
+      <a href="{{ item.url }}" class="section-sidebar__link{% if page.url == item.url %} section-sidebar__link--active{% endif %}">{{ item.label }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</nav>
