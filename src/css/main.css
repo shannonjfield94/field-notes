@@ -79,6 +79,12 @@ body {
   margin: 0 auto;
 }
 
+.note-page {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 0 var(--space-lg) var(--space-3xl);
+}
+
 .static-page-inner {
   padding: var(--space-lg) var(--space-lg) var(--space-2xl);
 }
@@ -682,6 +688,10 @@ blockquote p:last-child {
   font-style: italic;
   color: var(--color-muted);
   margin: 0.35rem 0 0;
+}
+
+.question-notes {
+  max-width: none;
 }
 
 /* Repository list */

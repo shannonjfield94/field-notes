@@ -15,8 +15,10 @@ layout: layouts/base.njk
   </header>
 
   <div class="note-body">
-    {{ content | markdownify | safe }}
+    {{ content | safe }}
   </div>
+
+  {% citeReferences %}
 
   <footer class="note-footer">
     <a href="{{ person_url }}" class="note-backlink">← Back to {{ person_name }}</a>

@@ -214,6 +214,7 @@ layout: layouts/base.njk
             {% if q.priority %}<span class="question-priority priority-{{ q.priority | lower }}">{{ q.priority }}</span>{% endif %}
           </div>
           {% if q.notes %}<p class="question-notes">{{ q.notes }}</p>{% endif %}
+          {% if q.url %}<a href="{{ q.url }}" class="note-read-more">Read the research note →</a>{% endif %}
           {% else %}
           {{ q }}
           {% endif %}

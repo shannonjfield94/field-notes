@@ -3,9 +3,46 @@
     "citation": "\u201cAnnie E. Fry\u201d obituary, <em>Del Norte Prospector</em>, \u201cThe Creede Section,\u201d 10 June 1932, p. 2, col. 2, par. 14."
   },
   "annie-fry-death-certificate": {
-    "citation": "Colorado Department of Public Health and Environment, certificate of death no. 6023D, Mrs. Anna E. Fry (1932); Bureau of Vital Statistics, Creede.",
+    "citation": "\u201cAnnie E. Fry\u201d obituary, ...",
     "short_citation": "Colorado death certificate no. 6023D, Anna E. Fry, 1932.",
     "held_as": "certified copy"
+  },
+  "demaro-1850-census-lawrence-ky": {
+    "citation": "1850 U.S. census, Lawrence County, Kentucky, population schedule, p. 86b (stamped), dwelling 474, family 477, Francis Morrow household; image, Ancestry.com (http://www.ancestry.com : accessed 25 October 2020); citing NARA microfilm publication M432, roll 209.",
+    "short_citation": "1850 U.S. census, Francis Morrow [DeMaro] household, Lawrence Co., KY.",
+    "held_as": "digital image"
+  },
+  "demaro-1860-census-lawrence-oh": {
+    "citation": "1860 U.S. census, Lawrence County, Ohio, population schedule, Ironton, p. 162 (stamped), dwelling 12, family 13, Frances Demero household; image, Ancestry.com (http://www.ancestry.com : accessed 25 October 2020); citing NARA microfilm publication M653, film 803997.",
+    "short_citation": "1860 U.S. census, Frances Demero [DeMaro] household, Ironton, Lawrence Co., OH.",
+    "held_as": "digital image"
+  },
+  "demaro-1870-census-lawrence-oh": {
+    "citation": "1870 U.S. census, Lawrence County, Ohio, population schedule, Ironton, p. 375A (stamped), dwelling 574, family 579, Francis Demarre household; image, Ancestry.com (http://www.ancestry.com : accessed 25 October 2020); citing NARA microfilm publication M593, roll 1231.",
+    "short_citation": "1870 U.S. census, Francis Demarre [DeMaro] household, Ironton, Lawrence Co., OH.",
+    "held_as": "digital image"
+  },
+  "demaro-1880-census-lawrence-oh": {
+    "citation": "1880 U.S. census, Lawrence County, Ohio, population schedule, 4th Ward, Ironton, Supervisor's District 4, Enumeration District 91, p. 18 (stamped), dwelling 164, family 175, Frank Demarrow household; enumerated 8\u20139 June 1880 by Cambridge Culbertson; database with images, Ancestry.com (http://www.ancestry.com : accessed 1 Aug 2026), indexed by Ancestry as \"Frank Demanon,\" though the original entry reads \"Demarrow\" on close examination \u2014 a spelling that matches the surname on the 1864 West Virginia marriage record for his daughter Anna. Household of Frank Demarrow (59, carpenter, b. France) and wife Sarah (53, b. Ohio), with son William (22, carpenter, b. Ohio); by this year neither Anna nor her sister Amelia remained in the household.",
+    "short_citation": "1880 U.S. census, Frank Demarrow household, Ironton, Lawrence Co., OH.",
+    "held_as": "digital image"
+  },
+  "findagrave-amelia-demaro-hunter": {
+    "citation": "Find A Grave, database and images (http://www.findagrave.com : accessed 25 October 2020), memorial for Amelia D. DeMaro Hunter (d. 10 Feb 1926), Ironton, Lawrence County, Ohio; obituary transcription contributed by Linda Frazier Meredith of Ironton, Ohio, naming her parents as Francis and America DeMaro and identifying a surviving sister, name rendered in print as \"Mrs. Anna M. __ymkle of Lunleith, W.Va.\" Original newspaper of publication not yet identified.",
+    "short_citation": "Find a Grave memorial (obituary transcription), Amelia DeMaro Hunter, 1926.",
+    "held_as": "digital image"
+  },
+  "plymale-demarrow-marriage-1864": {
+    "citation": "\"West Virginia Marriages, 1853\u20131970,\" Wayne County, unnumbered p. 1, John M. Plymale and Anna Demarrow, married 13 Oct 1864; digital images, Ancestry.com (http://www.ancestry.com : accessed 25 October 2020).",
+    "short_citation": "WV marriage record, John M. Plymale & Anna Demarrow, 1864.",
+    "held_as": "digital image"
+  },
+  "plymale-anna-demaro-death-certificate-1937": {
+    "citation": "West Virginia State Department of Health, certificate of death no. 16859, Anna De Maro Plymale (1937); Kenova, Wayne County, West Virginia."
+  },
+  "findagrave-anna-demaro-plymale": {
+    "citation": "Find A Grave, database and images (http://www.findagrave.com : accessed 25 October 2020), memorial page 194782607, Anna De Maro Plymale (1859\u20131937), Ridgelawn Memorial Park, Barboursville, Cabell County, West Virginia; memorial created by Darryl Diemer; gravestone image posted.",
+    "short_citation": "Find a Grave memorial 194782607, Anna De Maro Plymale, 1859\u20131937."
   },
   "maude-lane-death-certificate": {
   "citation": "Colorado Department of Public Health and Environment, standard certificate of death, Registrar's No. 87, District 197, Anna Maude Lane, died 23 November 1954, 7:47 p.m., Rio Grande County (Monte Vista), Colorado; attending physician William N. McKinley, M.D., Monte Vista.",
@@ -13,11 +50,6 @@
   },
   "woodruff-1880-census": {
     "citation": "1880 U.S. census, Bates County, Missouri, population schedule, Lone Oak, p. 214A (stamped), dwelling 36, family 37, J. F. Woodruff; image, <em>Ancestry.com</em> (http://www.ancestry.com : accessed 25 October 2020); citing NARA microfilm publication T9, roll 673."
-  },
-  "woodruff-1920-census-interlachen": {
-  "citation": "1920 U.S. census, Putnam County, Florida, population schedule, Interlachen (Precinct 10), Enumeration District 154, sheet 1B, dwelling 27, family 27, John F. Woodruff household; enumerated 5-6-7 January 1920 by Thorvald West; \"1920 United States Federal Census,\" database with images, <em>Ancestry.com</em> (http://www.ancestry.com : accessed 22 Jul 2026); citing NARA microfilm publication T625, roll 228.",
-  "short_citation": "1920 U.S. census, John F. Woodruff household, Interlachen, Putnam Co., FL.",
-  "held_as": "digital image"
   },
   "woodruff-secor-divorce-1923": {
     "citation": "John F. Woodruff v. Martha A. Woodruff, divorce petition and decree, Case No. 8625, Court of Common Pleas, Jackson County, Ohio, filed 2 Jan 1923, decree entered 26 Feb 1923; \"Jackson, Ohio, United States records,\" images, FamilySearch (https://www.familysearch.org/ark:/61903/3:1:3QS7-8996-V2YD?view=fullText : accessed 21 Jan 2025), image 272 of 315 [petition]; and (https://www.familysearch.org/ark:/61903/3:1:3QSQ-G996-VVBY?view=fullText : accessed 21 Jan 2025), image 273 of 315 [affidavit, order, proof of publication, decree]; Ohio. County Court (Jackson County).",
@@ -169,11 +201,6 @@
     "short_citation": "\u201cAnnie Was Unfaithful,\u201d Victor Record, 20 July 1899.",
     "held_as": "digital image"
   },
-  "woodruff-secor-divorce-1923": {
-    "citation": "John F. Woodruff v. Martha A. Woodruff, divorce petition and decree, Case No. 8625, Court of Common Pleas, Jackson County, Ohio, filed 2 Jan 1923, decree entered 26 Feb 1923; \"Jackson, Ohio, United States records,\" images, FamilySearch (https://www.familysearch.org/ark:/61903/3:1:3QS7-8996-V2YD?view=fullText : accessed 21 Jan 2025), image 272 of 315 [petition]; and (https://www.familysearch.org/ark:/61903/3:1:3QSQ-G996-VVBY?view=fullText : accessed 21 Jan 2025), image 273 of 315 [affidavit, order, proof of publication, decree]; Ohio. County Court (Jackson County).",
-    "short_citation": "Woodruff v. Woodruff divorce, Jackson Co., Ohio, 1923.",
-    "held_as": "digital image"
-  },
   "woodruff-secor-marriage-index-1906": {
     "citation": "\"Colorado, Statewide Marriage Index, 1853-2006,\" database, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:KNQY-NR1 : accessed 7 Feb 2026), entry for John F Woodruff and Martha A Moore, 30 May 1906, Colorado Springs, El Paso County, Colorado, p. 3653.",
     "short_citation": "Colorado Marriage Index, Woodruff\u2013Moore [Secor], 1906.",
@@ -318,39 +345,9 @@
     "citation": "Colorado Division of Vital Statistics, \u201cDivorce Record Report,\u201d Teller County, Docket No. 141, John T. Woodruff v. Annie Woodruff, decree dated 9-14-1899, recording marriage as 10-10-1877, Shoales [Shoals], Indiana; certified copy provided by the Colorado State Archives.",
     "held_as": "certified copy"
   },
-  "brown-davis-marriage-license-1894": {
-    "citation": "\u201cColorado, U.S., Select County Marriages, 1863-2018,\u201d database with images, <em>Ancestry.com</em> (http://www.ancestry.com : accessed 21 Jul 2026), Thomas A. Brown and Rosa H. Davis, license issued 14 June 1894, El Paso County, Colorado; ceremony performed 23 June 1894 at Cripple Creek by A. F. Perrier, Justice of the Peace; witnesses G. W. Hunt and Mrs. G. W. Hunt; citing El Paso County Recorder's Office, El Paso County Marriages, 1862-2018.",
-    "short_citation": "\u201cColorado Marriages,\u201d Brown\u2013Davis, 1894.",
-    "held_as": "digital image"
-  },
-  "brown-davis-marriage-index-1894": {
-    "citation": "\u201cColorado, U.S., County Marriage Records and State Index, 1862-2006,\u201d database, <em>Ancestry.com</em> (http://www.ancestry.com : accessed 21 Jul 2026), Thomas A. Brown and Rosa H. Davis, married 23 June 1894, Cripple Creek, El Paso County, Colorado; citing Colorado Marriages, State Archives, Denver, Colorado.",
-    "short_citation": "\u201cColorado Marriage Records and State Index,\u201d Brown\u2013Davis, 1894.",
-    "held_as": "digital image"
-  },
-    "rosamond-davis-1900-census-cripple-creek": {
-  "citation": "1900 U.S. census, Teller County, Colorado, population schedule, Cripple Creek, Ward 2, Enumeration District 126, sheet 21A, dwelling 307, family 578, Thomas A. Brown household; enumerated 16 June 1900 by M. M. Warden; wife Rosamond H., b. Apr 1872 [sic; headstone/Find a Grave give 1875]; also enumerated as an inmate of the same household, line 10, Flossie Woodruff, b. Jan 1887, age 13, Kansas, father b. Ohio, mother b. Ohio; database with images, <em>Ancestry.com</em> (http://www.ancestry.com : accessed 21 Jul 2026).",
-    "short_citation": "1900 U.S. census, Thomas A. Brown household, Cripple Creek, Teller Co., CO.",
-    "held_as": "digital image"
-  },
   "rosamond-brown-findagrave-81881643": {
     "citation": "Find A Grave, database and images (https://www.findagrave.com/memorial/81881643 : accessed 21 Jul 2026), memorial 81881643, Rosemond D. \u201cRose\u201d Brown (1875\u20131953), Evergreen Cemetery, Bisbee, Cochise County, Arizona; spouse Thomas A. \u201cTom\u201d Brown (m. 1894); parents Simon Peter Davis and Mary Cease Davis; sibling Robert L. Davis (1865\u20131943) listed; created by Diane & John.",
     "short_citation": "Find A Grave memorial 81881643, Rosemond D. \u201cRose\u201d Brown.",
-    "held_as": "digital image"
-  },
-    "simon-davis-headstone-croswell": {
-    "citation": "Simon P. Davis headstone, Croswell Cemetery, Croswell, Sanilac County, Michigan, reading \"Simon P. Davis, late of Co. C, 6th Mich. Cav., born July 19, 1824, died Oct. 18, 1884, Resting\"; photographed by Don & Wendy McCallum, in Find A Grave, memorial 56982096 (https://www.findagrave.com/memorial/56982096 : accessed 20 Jul 2026).",
-    "short_citation": "Simon P. Davis headstone, Croswell Cemetery, MI.",
-    "held_as": "digital image"
-  },
-  "simon-davis-findagrave-memorial-56982096": {
-    "citation": "Find A Grave, database and images (https://www.findagrave.com/memorial/56982096 : accessed 20 Jul 2026), memorial 56982096, Simon Peter Davis (19 Jul 1824\u201318 Oct 1884), Croswell Cemetery, Croswell, Sanilac County, Michigan, Section Old C; maintained by Miss BeeHaven, originally created by Shelley Hulsizer.",
-    "short_citation": "Find A Grave memorial 56982096, Simon Peter Davis.",
-    "held_as": "digital image"
-  },
-  "simon-davis-fold3-military-record": {
-    "citation": "Fold3, \u201cSimon P Davis\u201d (https://www.fold3.com/memorial/662025774/simon-p-davis-civil-war-stories : accessed 20 Jul 2026), Michigan 6th Volunteer Cavalry, Company C, private, enlisted 5 Sep/11 Oct 1862, discharged (transferred) 15 Jan 1864, death 18 Oct 1884, McEwen, Humphreys County, Tennessee, burial Croswell Cemetery, Croswell, Sanilac County, Michigan.",
-    "short_citation": "Fold3, Simon P. Davis, Civil War service record.",
     "held_as": "digital image"
   },
   "simon-mary-marriage-index-1846": {
@@ -358,19 +355,9 @@
     "short_citation": "Yates Marriage Records Index, Davis\u2013Ceas(e), 1846.",
     "held_as": "digital image"
   },
-  "simon-davis-1870-census-moore-township": {
-    "citation": "1870 U.S. census, Sanilac County, Michigan, population schedule, Moore Township, post office Truman, p. 1 (stamped 132), dwelling 4, family 3, Simon P. Davis household; database with images, <em>Ancestry.com</em> (http://www.ancestry.com : accessed 20 Jul 2026).",
-    "short_citation": "1870 U.S. census, Simon P. Davis household, Moore Twp., Sanilac Co., MI.",
-    "held_as": "digital image"
-  },
-    "simon-davis-1880-census-moore-township": {
+  "simon-davis-1880-census-moore-township": {
     "citation": "1880 U.S. census, Sanilac County, Michigan, population schedule, Moore Township, Supervisor's District 3, p. 114 (stamped), dwelling 4, family 4, Peter Davis household; enumerated 7 June 1880 by Peter Fry; database with images, Ancestry.com (http://www.ancestry.com : accessed 20 Jul 2026).",
     "short_citation": "1880 U.S. census, Peter Davis household, Moore Twp., Sanilac Co., MI.",
-    "held_as": "digital image"
-  },
-  "mary-davis-1890-veterans-schedule-milan-tn": {
-    "citation": "\u201c1890 Veterans Schedules,\u201d database, <em>Ancestry.com</em> (http://www.ancestry.com : accessed 20 Jul 2026), Mary Davis, widow of Simon P. Davis, Private, Co. C, 6th Michigan Cavalry, enlisted Oct. 1862, discharged 1864, length of service 1 yr. 6 mos.; post office Milan, Gibson County, Tennessee; disability incurred \u201cfistula\u201d; remarks \u201cdied from disease contracted [in service]\u201d; citing The National Archives at Washington, D.C., Special Schedules of the Eleventh Census (1890) Enumerating Union Veterans and Widows of Union Veterans of the Civil War, Series M123.",
-    "short_citation": "1890 Veterans Schedule, Mary Davis (widow), Milan, Gibson Co., TN.",
     "held_as": "digital image"
   },
   "davis-1900-census-wolcott": {
@@ -393,21 +380,6 @@
     "short_citation": "1920 U.S. census, Maud Davis household, Creede, Mineral Co., Colorado.",
     "held_as": "digital image"
   },
-  "mary-davis-1900-census-cripple-creek": {
-    "citation": "1900 U.S. census, Teller County, Colorado, population schedule, Precinct 21, Enumeration District 125, sheet 16B, dwelling 508, family 506, Mary Davis household; enumerated 22 June 1900 by Edwin A. Elliott; database with images, <em>Ancestry.com</em> (http://www.ancestry.com : accessed 20 Jul 2026). Mary Davis, widow, b. Feb 1829, New York, age 71, married 30 years, mother of 11 children (7 living); sons Simon P. (b. Sept 1872, Michigan, age 27, miner) and Arthur M. (b. Mar 1868, Michigan, age 32, miner) enumerated in her household.",
-    "short_citation": "1900 U.S. census, Mary Davis household, Cripple Creek, Teller Co., CO.",
-    "held_as": "digital image"
-  },
-  "davis-woodruff-marriage-license-1895": {
-  "citation": "\u201cColorado, U.S., Select County Marriages, 1863-2018,\u201d database with images, <em>Ancestry.com</em> (http://www.ancestry.com : accessed 20 Jul 2026), Robert L. Davis and Maud Woodruff, Marriage License and Certificate No. 19, license issued 5 August 1895, El Paso County, Colorado; ceremony performed 14 August 1895 at the residence of J. F. Woodruff, Florissant, El Paso County, by Wm. C. Allen, Justice of the Peace; witnesses T. P. Golden and Mary W. Patton; image 378 of 837; citing El Paso County Recorder's Office, El Paso County Marriages, 1862-2018.",
-  "short_citation": "\u201cColorado Marriages,\u201d Davis\u2013Woodruff, 1895.",
-  "held_as": "digital image"
-  },
-  "davis-woodruff-marriage-index-1895": {
-    "citation": "\u201cColorado, County Marriages and State Indexes, 1862-2006,\u201d database, <em>Ancestry.com</em> (http://www.ancestry.com : accessed 20 Jul 2026), Maud Woodruff, age 16, b. abt. 1879, marriage to Robert L. Davis, 14 Aug 1895, El Paso, Colorado; FHL Film No. 001690068.",
-    "short_citation": "\u201cColorado Marriages and State Indexes,\u201d Woodruff\u2013Davis, 1895.",
-    "held_as": "digital image"
-  },
   "simon-davis-headstone-croswell": {
     "citation": "Simon P. Davis headstone, Croswell Cemetery, Croswell, Sanilac County, Michigan, reading \"Simon P. Davis, late of Co. C, 6th Mich. Cav., born July 19, 1824, died Oct. 18, 1884, Resting\"; photographed by Don & Wendy McCallum, in Find A Grave, memorial 56982096 (https://www.findagrave.com/memorial/56982096 : accessed 20 Jul 2026).",
     "short_citation": "Simon P. Davis headstone, Croswell Cemetery, MI.",
@@ -421,11 +393,6 @@
   "simon-davis-fold3-military-record": {
     "citation": "Fold3, \u201cSimon P Davis\u201d (https://www.fold3.com/memorial/662025774/simon-p-davis-civil-war-stories : accessed 20 Jul 2026), Michigan 6th Volunteer Cavalry, Company C, private, enlisted 5 Sep/11 Oct 1862, discharged (transferred) 15 Jan 1864, death 18 Oct 1884, McEwen, Humphreys County, Tennessee, burial Croswell Cemetery, Croswell, Sanilac County, Michigan.",
     "short_citation": "Fold3, Simon P. Davis, Civil War service record.",
-    "held_as": "digital image"
-  },
-  "simon-mary-marriage-index-1846": {
-    "citation": "Yates Publishing, \u201cU.S. and International Marriage Records, 1560-1900,\u201d database on-line, <em>Ancestry.com</em> (http://www.ancestry.com : accessed 20 Jul 2026), Simon Peter Davis and Mary Ceas(e), married 1846; compiled index extracted from pedigree charts and family group sheets, not a primary marriage record.",
-    "short_citation": "Yates Marriage Records Index, Davis\u2013Ceas(e), 1846.",
     "held_as": "digital image"
   },
   "simon-davis-1870-census-moore-township": {
@@ -478,11 +445,11 @@
     "citation": "Social Security Administration, Social Security Death Index, Master File, database, Ancestry.com (Provo, UT: Ancestry.com Operations Inc., 2010), entry for Alice Jackson, SSN 521-52-9291, b. 2 Mar 1904, d. Jul 1980, last benefit Creede, Mineral County, Colorado.",
     "short_citation": "SSDI, Alice Jackson, 1904–1980.",
     "held_as": "digital image"
-  },
+},
   "davis-woodruff-marriage-license-1895": {
-  "citation": "\u201cColorado, U.S., Select County Marriages, 1863-2018,\u201d database with images, <em>Ancestry.com</em> (http://www.ancestry.com : accessed 20 Jul 2026), Robert L. Davis and Maud Woodruff, Marriage License and Certificate No. 19, license issued 5 August 1895, El Paso County, Colorado; ceremony performed 14 August 1895 at the residence of J. F. Woodruff, Florissant, El Paso County, by Wm. C. Allen, Justice of the Peace; witnesses T. P. Golden and Mary W. Patton; image 378 of 837; citing El Paso County Recorder's Office, El Paso County Marriages, 1862-2018.",
-  "short_citation": "\u201cColorado Marriages,\u201d Davis\u2013Woodruff, 1895.",
-  "held_as": "digital image"
+    "citation": "\u201cColorado, U.S., Select County Marriages, 1863-2018,\u201d database with images, <em>Ancestry.com</em> (http://www.ancestry.com : accessed 20 Jul 2026), Robert L. Davis and Maud Woodruff, Marriage License and Certificate No. 19, license issued 5 August 1895, El Paso County, Colorado; ceremony performed 14 August 1895 at the residence of J. F. Woodruff, Florissant, El Paso County, by Wm. C. Allen, Justice of the Peace; witnesses T. P. Golden and Mary W. Patton; image 378 of 837; citing El Paso County Recorder's Office, El Paso County Marriages, 1862-2018.",
+    "short_citation": "\u201cColorado Marriages,\u201d Davis\u2013Woodruff, 1895.",
+    "held_as": "digital image"
   },
   "davis-woodruff-marriage-index-1895": {
     "citation": "\u201cColorado, County Marriages and State Indexes, 1862-2006,\u201d database, <em>Ancestry.com</em> (http://www.ancestry.com : accessed 20 Jul 2026), Maud Woodruff, age 16, b. abt. 1879, marriage to Robert L. Davis, 14 Aug 1895, El Paso, Colorado; FHL Film No. 001690068.",
@@ -719,11 +686,6 @@
     "short_citation": "\u201cMissouri Death Certificates,\u201d Robert L. Davis, 1943.",
     "held_as": "digital image"
   },
-  "robert-davis-1940-census-frank-household": {
-    "citation": "1940 U.S. census, McDonald County, Missouri, Elk River Township, Enumeration District 60-9, sheet 9B, household of Frank J. Davis; enumerated 19 Apr 1940 by Leonard Alexander. Robert L. Davis, grandfather, age 75, divorced, b. Michigan, residing on Pack Road; household also includes Frank J. Davis (son, 43), Caroline E. Davis (daughter-in-law, 34), Lee R. (grandson, 14), Maud P. (granddaughter, 12), and Nancy A. (granddaughter, 10); database with images, <em>Ancestry.com</em> (http://www.ancestry.com : accessed 21 Jul 2026); citing NARA microfilm publication T627.",
-    "short_citation": "1940 U.S. census, Robert L. Davis in Frank J. Davis household, McDonald Co., MO.",
-    "held_as": "digital image"
-  },
   "lehman-brown-marriage-1915": {
     "citation": "\u201cColorado, U.S., County Marriage Records and State Index, 1862-2006,\u201d database, <em>Ancestry.com</em> (http://www.ancestry.com : accessed 21 Jul 2026), Marriage Record Report No. 2919, Teller County, Chester E. Lehman (age 21) and Mary L. Brown (age 20), married 19 Nov 1915, Victor, Colorado, by Franklin F. Gibbs, Minister; reported by William A. Lynch, Denver; citing Colorado Marriages, State Archives, Denver, Colorado.",
     "short_citation": "\u201cColorado Marriage Records and State Index,\u201d Lehman\u2013Brown, 1915.",
@@ -744,19 +706,9 @@
     "short_citation": "1900 U.S. census, Thomas A. Brown household, Cripple Creek, Teller Co., CO.",
     "held_as": "digital image"
   },
-  "rosamond-brown-findagrave-81881643": {
-    "citation": "Find A Grave, database and images (https://www.findagrave.com/memorial/81881643 : accessed 21 Jul 2026), memorial 81881643, Rosemond D. \u201cRose\u201d Brown (1875\u20131953), Evergreen Cemetery, Bisbee, Cochise County, Arizona; spouse Thomas A. \u201cTom\u201d Brown (m. 1894); parents Simon Peter Davis and Mary Cease Davis; sibling Robert L. Davis (1865\u20131943) listed; created by Diane & John.",
-    "short_citation": "Find A Grave memorial 81881643, Rosemond D. \u201cRose\u201d Brown.",
-    "held_as": "digital image"
-  },
   "rosamond-brown-robert-davis-1930-census-bisbee": {
     "citation": "1930 U.S. census, Cochise County, Arizona, Bisbee, Precinct 2, Enumeration District 2-6, sheet 6B, dwelling 69, family 108, Thomas A. Brown household; enumerated 8 Apr 1930 by Mrs. A. M. Bass; database with images, <em>Ancestry.com</em> (http://www.ancestry.com : accessed 21 Jul 2026); citing NARA microfilm publication T626. Robert [A.] Davis, brother-in-law, age 62 [sic; inconsistent with birth year 1865 established elsewhere], divorced, b. Michigan, occupation carpenter (building); father's and mother's birthplaces given as Ohio and Ohio, which do not match any other source for Simon Peter Davis or Phoebe Mary Cease and appear to be informant error \u2014 Rosamond's own entry on the same line above gives an identical (and equally unsupported) 'Ohio/Ohio' for their parents, suggesting a single uninformed informant rather than two independent conflicts.",
     "short_citation": "1930 U.S. census, Robert Davis in Thomas A. Brown household, Bisbee, Cochise Co., AZ.",
-    "held_as": "digital image"
-  },
-  "frank-davis-1930-census-creede": {
-    "citation": "1930 U.S. census, Mineral County, Colorado, Precinct 2, Creede, Enumeration District 40-3, sheet 2A, dwelling 41, family 42, Frank Davis household; enumerated 8 April 1930 by C. F. Herbert; database with images, <em>Ancestry.com</em> (http://www.ancestry.com : accessed 21 Jul 2026); citing NARA microfilm publication T626. Frank Davis, 33, miner (metal mines), b. Colorado, father b. Michigan, mother b. Colorado; wife Caroline F., 24; children Frank R. (8), Leroy C. (4\u00be), Maud E. (1\u00be), Nancy (7 months). Enumerated a few lines above the William T. Jackson household on the same page.",
-    "short_citation": "1930 U.S. census, Frank Davis household, Creede, Mineral Co., CO.",
     "held_as": "digital image"
   },
   "robert-davis-1940-census-frank-household": {
