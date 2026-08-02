@@ -146,7 +146,7 @@
     "appearances": [
       { "url": "/people/anna-maud-woodruff/#raymond-lane", "label": "Charles Lane's son by a prior marriage, adopted by Anna Maud Woodruff per family account and the 1930 census" }
     ]
-  }
+  },
   "henry-fry": {
     "name": "Henry Fry",
     "tags": ["family"],
@@ -201,6 +201,83 @@
     "tags": ["family"],
     "appearances": [
       { "url": "/people/annie-chaney/#warren-browning-woodruff", "label": "Child of Annie E. Chaney and John Farney Woodruff; known to family as 'Brownie'" }
-  ]
+    ]
+  },
+  "william-walter-helms": {
+    "name": "William Walter Helms",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/esta-delia-helms/#william-walter-helms", "label": "Father of Esta Delia Helms" }
+    ]
+  },
+  "mary-elizabeth-robinson": {
+    "name": "Mary Elizabeth Robinson",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/esta-delia-helms/#mary-elizabeth-robinson", "label": "Mother of Esta Delia Helms" }
+    ]
+  },
+  "joe-ray-bates": {
+    "name": "Joe Ray Bates",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/esta-delia-helms/#joe-ray-bates", "label": "Child of Esta Delia Helms and Robert Webster Bates" }
+    ]
+  },
+  "jesse-leslie-bates": {
+    "name": "Jesse Leslie Bates",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/esta-delia-helms/#jesse-leslie-bates", "label": "Child of Esta Delia Helms and Robert Webster Bates" }
+    ]
+  },
+  "effie-lee-bates": {
+    "name": "Effie Lee Bates",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/esta-delia-helms/#effie-lee-bates", "label": "Child of Esta Delia Helms and Robert Webster Bates" }
+    ]
+  },
+  "bobby-jean-bates": {
+    "name": "Bobby Jean Bates",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/esta-delia-helms/#bobby-jean-bates", "label": "Child of Esta Delia Helms and Robert Webster Bates" }
+    ]
+   },
+  "jimmy-owen-bates": {
+    "name": "Jimmy Owen Bates",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/esta-delia-helms/#jimmy-owen-bates", "label": "Child of Esta Delia Helms and Robert Webster Bates" }
+    ]
+  },
+  "mary-frances-bates": {
+    "name": "Mary Frances Bates",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/esta-delia-helms/#mary-frances-bates", "label": "Child of Esta Delia Helms and Robert Webster Bates" }
+    ]
+},
+  "jerry-dean-bates": {
+    "name": "Jerry Dean Bates",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/esta-delia-helms/#jerry-dean-bates", "label": "Child of Esta Delia Helms and Robert Webster Bates; Shannon's father" }
+    ]
+  },
+  "thomas-lloyd-bates": {
+    "name": "Thomas Lloyd Bates",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/esta-delia-helms/#thomas-lloyd-bates", "label": "Child of Esta Delia Helms and Robert Webster Bates; twin of Elmer Floyd Bates" }
+    ]
+  },
+  "elmer-floyd-bates": {
+    "name": "Elmer Floyd Bates",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/esta-delia-helms/#elmer-floyd-bates", "label": "Child of Esta Delia Helms and Robert Webster Bates; twin of Thomas Lloyd Bates, died the day he was born" }
+    ]
   }
 }
