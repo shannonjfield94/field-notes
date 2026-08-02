@@ -147,4 +147,60 @@
       { "url": "/people/anna-maud-woodruff/#raymond-lane", "label": "Charles Lane's son by a prior marriage, adopted by Anna Maud Woodruff per family account and the 1930 census" }
     ]
   }
+  "henry-fry": {
+    "name": "Henry Fry",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/annie-chaney/#henry-fry", "label": "Third husband of Annie E. Chaney (unverified); no marriage license located, but Annie is documented presenting herself as his widow from about 1910 onward" }
+    ]
+  },
+  "edna-latitia-woodruff": {
+    "name": "Edna Latitia Woodruff",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/annie-chaney/#edna-latitia-woodruff", "label": "Child of Annie E. Chaney and John Farney Woodruff; died in infancy 1888" }
+    ]
+  },
+  "robert-franklin-woodruff": {
+    "name": "Robert Franklin Woodruff",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/annie-chaney/#robert-franklin-woodruff", "label": "Child of Annie E. Chaney and John Farney Woodruff; died in infancy 1881" }
+    ]
+  },
+  "david-henry-woodruff": {
+    "name": "David Henry Woodruff",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/annie-chaney/#david-henry-woodruff", "label": "Child of Annie E. Chaney and John Farney Woodruff; fate unknown, subject of an unresolved family mystery" }
+    ]
+  },
+  "william-wilson-woodruff": {
+    "name": "William Wilson Woodruff",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/annie-chaney/#william-wilson-woodruff", "label": "Child of Annie E. Chaney and John Farney Woodruff; killed in a 1918 railroad accident in Laramie, Wyoming" }
+    ]
+  },
+  "florence-woodruff": {
+    "name": "Florence Woodruff",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/annie-chaney/#florence-woodruff", "label": "Child of Annie E. Chaney and John Farney Woodruff; known to family as 'Flossa' or 'Flossy'" }
+    ]
+  },
+  "lee-roy-woodruff": {
+    "name": "Lee Roy Woodruff",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/annie-chaney/#lee-roy-woodruff", "label": "Child of Annie E. Chaney and John Farney Woodruff; WWI veteran" }
+    ]
+  },
+  "warren-browning-woodruff": {
+    "name": "Warren Browning Woodruff",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/annie-chaney/#warren-browning-woodruff", "label": "Child of Annie E. Chaney and John Farney Woodruff; known to family as 'Brownie'" }
+  ]
+  }
 }
