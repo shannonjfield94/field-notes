@@ -51,6 +51,48 @@ module.exports = function(eleventyConfig) {
       .map(slug => ({ slug, ...data[slug] }))
       .sort((a, b) => (a.name || "").localeCompare(b.name || ""));
   });
+
+  eleventyConfig.addFilter("mergedPeopleIndex", (peoplePages, handIndex) => {
+  const merged = {};
+
+  // 1. Auto-generate a baseline entry for every built Ancestors page
+  (peoplePages || []).forEach(page => {
+    if (page.url === "/people/") return; // skip the section index itself
+    const slug = page.url.replace(/^\/people\//, "").replace(/\/$/, "");
+    if (!slug) return;
+    merged[slug] = {
+      name: page.data.name || slug,
+      tags: [page.data.direct_line ? "direct" : "collateral"],
+      appearances: [
+        { url: page.url, label: "Full profile" }
+      ]
+    };
+  });
+
+  // 2. Layer your hand-curated entries on top
+  Object.keys(handIndex || {}).forEach(slug => {
+    const auto = merged[slug];
+    const hand = handIndex[slug];
+
+    if (!auto) {
+      // No built page for this slug — hand entry stands alone, as today
+      merged[slug] = hand;
+      return;
+    }
+
+    // Slug exists both as a built page AND a hand entry: merge, don't overwrite.
+    // Keeps the auto "Full profile" link, adds whatever extra appearances/tags
+    // you've hand-curated (e.g. a mention on someone else's page), name from hand wins.
+    merged[slug] = {
+      name: hand.name || auto.name,
+      tags: [...new Set([...(auto.tags || []), ...(hand.tags || [])])],
+      appearances: [...auto.appearances, ...(hand.appearances || [])]
+    };
+  });
+
+  return merged;
+});
+
   // One citation list per page, reset at the start of every build/rebuild
   const citationRegistry = new Map();
 

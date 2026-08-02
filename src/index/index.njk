@@ -20,7 +20,7 @@ title: "Name Index"
       </p>
     </div>
 
-    {% for entry in peopleIndex | sortedPeopleIndex %}
+    {% for entry in collections.people | mergedPeopleIndex(peopleIndex) | sortedPeopleIndex %}
     <section class="index-entry" id="{{ entry.slug }}">
       <h2 class="index-entry__name">{{ entry.name }}</h2>
       {% if entry.tags %}
