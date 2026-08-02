@@ -90,5 +90,61 @@
     "appearances": [
       { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel; foreman under whom Joel worked as a hard-rock miner at the Commodore tunnels" }
     ]
+  },
+  "charles-lane": {
+    "name": "Charles Lane",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/anna-maud-woodruff/#charles-lane", "label": "Second husband of Anna Maud Woodruff, married 9 Sep 1920" }
+    ]
+  },
+  "john-franklin-davis": {
+    "name": "John Franklin Davis",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/anna-maud-woodruff/#john-franklin-davis", "label": "Child of Anna Maud Woodruff and Robert Abraham Lincoln Davis" }
+    ]
+  },
+  "edna-rosamond-davis": {
+    "name": "Edna Rosamond Davis",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/anna-maud-woodruff/#edna-rosamond-davis", "label": "Child of Anna Maud Woodruff and Robert Abraham Lincoln Davis; per family account, later Rose Davis Cook (unconfirmed)" }
+    ]
+  },
+  "robert-lincoln-davis": {
+    "name": "Robert Lincoln Davis",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/anna-maud-woodruff/#robert-lincoln-davis", "label": "Child of Anna Maud Woodruff and Robert Abraham Lincoln Davis; died in the 1918 influenza pandemic" }
+    ]
+  },
+  "albert-woodruff-davis": {
+    "name": "Albert Woodruff Davis",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/anna-maud-woodruff/#albert-woodruff-davis", "label": "Child of Anna Maud Woodruff and Robert Abraham Lincoln Davis" }
+    ]
+  },
+  "arthur-m-davis": {
+    "name": "Arthur M. Davis",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/anna-maud-woodruff/#arthur-m-davis", "label": "Child of Anna Maud Woodruff and Robert Abraham Lincoln Davis" }
+    ]
+  },
+  "charlotte-florella-lane": {
+    "name": "Charlotte Florella Lane",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/anna-maud-woodruff/#charlotte-florella-lane", "label": "Child of Anna Maud Woodruff and Charles Lane" }
+    ]
+  },
+  "raymond-lane": {
+    "name": "Raymond Lane",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/anna-maud-woodruff/#raymond-lane", "label": "Charles Lane's son by a prior marriage, adopted by Anna Maud Woodruff per family account and the 1930 census" }
+    ]
   }
 }
