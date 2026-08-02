@@ -15,7 +15,7 @@ layout: layouts/base.njk
   <div class="source-doc-body">
 
     {% if image %}
-    <figure class="source-doc-image">
+    <figure class="source-doc-image{% if image.compact %} source-doc-image--compact{% endif %}">
       <img src="{{ image.src }}" alt="{{ image.alt }}">
       {% if image.caption %}<figcaption>{{ image.caption }}</figcaption>{% endif %}
     </figure>

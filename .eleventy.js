@@ -32,7 +32,25 @@ module.exports = function(eleventyConfig) {
 
   // --- Citation / Sources system ---
   const sourcesData = require('./src/_data/sources.json');
+  const peopleIndexData = require('./src/_data/people-index.json');
+  eleventyConfig.addGlobalData("peopleIndex", () => peopleIndexData);
+  eleventyConfig.addShortcode("person", function(slug) {
+    const entry = peopleIndexData[slug];
+    if (!entry) {
+      console.warn(`[person shortcode] No registry entry for "${slug}" — check src/_data/people-index.json`);
+      return slug;
+    }
+    const appearances = entry.appearances || [];
+    const url = appearances.length === 1 ? appearances[0].url : `/index/#${slug}`;
+    return `<a href="${url}">${entry.name}</a>`;
+  });
 
+  eleventyConfig.addFilter("sortedPeopleIndex", (data) => {
+    if (!data || typeof data !== "object") return [];
+    return Object.keys(data)
+      .map(slug => ({ slug, ...data[slug] }))
+      .sort((a, b) => (a.name || "").localeCompare(b.name || ""));
+  });
   // One citation list per page, reset at the start of every build/rebuild
   const citationRegistry = new Map();
 

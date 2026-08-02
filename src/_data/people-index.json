@@ -1,0 +1,31 @@
+{
+  "jackie-lucille-bates": {
+    "name": "Jackie Lucille Bates",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/esta-delia-helms/#jackie-lucille-bates", "label": "Child of Esta Delia Helms and Robert Webster Bates" }
+    ]
+  },
+  "clarence-kayo-slaght": {
+    "name": "Clarence \"Kayo\" Slaght",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel; downed by Japanese fire on Saipan or Tinian" }
+    ]
+  },
+  "lee-davis-creede": {
+    "name": "Lee Davis",
+    "tags": ["family", "creede-character"],
+    "appearances": [
+      { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel; downed by Japanese fire on Saipan or Tinian" },
+      { "url": "/people/anna-maud-woodruff/", "label": "Grandson of Anna Maud Woodruff, named for his uncle Lee Roy Woodruff, in the note for his father John Franklin \"Frank\" Davis" }
+    ]
+  },
+  "billy-filley": {
+    "name": "Billy Filley",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel; downed by Japanese fire on Saipan or Tinian" }
+    ]
+  }
+}

@@ -66,7 +66,7 @@ layout: layouts/base.njk
             <td class="source-cell">
               {% if not v.inline_cited %}{% if v.source_keys %}{% cite v.source_keys %}
               {% elif v.source_key %}{% cite v.source_key %}{% endif %}{% endif %}
-              {% if v.note %}<span class="source-note">{% if v.inline_cited %}{{ v.note | citeInline | safe }}{% else %}{{ v.note }}{% endif %}</span>{% endif %}
+              {% if v.note %}<span class="source-note">{% set item = v %}{% include "components/note-excerpt.njk" %}</span>{% endif %}
               {% if not v.source_key and not v.source_keys and v.source %}{{ v.source }}{% endif %}
             </td>
           </tr>
@@ -86,7 +86,7 @@ layout: layouts/base.njk
         <h3>Parents</h3>
         <ul class="family-list">
       {% for p in family.parents %}
-      <li>
+      <li{% if p.id %} id="{{ p.id }}"{% endif %}>
         {% if p.url %}<a href="{{ p.url }}">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}
         {% if p.relationship %} <span class="family-role">({{ p.relationship }})</span>{% endif %}
         {% if p.note %} — <em class="family-note">{% if p.inline_cited %}{{ p.note | citeInline | safe }}{% else %}{{ p.note }}{% endif %}</em>{% endif %}
@@ -102,7 +102,7 @@ layout: layouts/base.njk
         <h3>{% if family.spouses.length == 1 %}Spouse{% else %}Spouses{% endif %}</h3>
         <ul class="family-list">
           {% for s in family.spouses %}
-          <li>
+          <li{% if s.id %} id="{{ s.id }}"{% endif %}>
             {% if s.url %}<a href="{{ s.url }}">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}
             {% if s.marriage_year %} — m. {{ s.marriage_year }}{% endif %}
             {% if s.marriage_place %}, {{ s.marriage_place }}{% endif %}
@@ -163,7 +163,7 @@ layout: layouts/base.njk
       <div class="family-group">
         <ul class="family-list">
           {% for c in family.children %}
-          <li>
+          <li{% if c.id %} id="{{ c.id }}"{% endif %}>
             {% if c.url %}<a href="{{ c.url }}">{{ c.name }}</a>{% else %}{{ c.name }}{% endif %}
             {%- if c.birth_date or c.birth_year %} (b. {{ c.birth_date or c.birth_year }}{% if c.birth_place %}, {{ c.birth_place }}{% endif %}{% if c.death_date or c.death_year %}; d. {{ c.death_date or c.death_year }}{% if c.death_place %}, {{ c.death_place }}{% endif %}{% endif %}){% endif %}
             {% if c.note %} — <em class="family-note">{% if c.inline_cited %}{{ c.note | citeInline | safe }}{% else %}{{ c.note }}{% endif %}</em>{% endif %}
@@ -191,7 +191,7 @@ layout: layouts/base.njk
         {% for event in timeline %}
         <li class="timeline-event timeline-event--{{ event.type | default('general') }}">
           <span class="timeline-date">{{ event.date }}</span>
-          <span class="timeline-desc">{% if event.inline_cited %}{{ event.description | citeInline | safe }}{% else %}{{ event.description }}{% endif %}</span>
+          <span class="timeline-desc">{% if event.inline_cited %}{{ event.description | citeInline | safe }}{% else %}{{ event.description }}{% endif %}{% if event.note_url %} <a href="{{ event.note_url }}" class="note-read-more">Read full account →</a>{% endif %}</span>
           {% if not event.inline_cited %}{% if event.source_key %}<span class="timeline-source">{% cite event.source_key %}</span>
           {% elif event.source_keys %}<span class="timeline-source">{% cite event.source_keys %}</span>
           {% elif event.source %}<span class="timeline-source">{{ event.source }}</span>{% endif %}{% endif %}
