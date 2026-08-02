@@ -27,5 +27,68 @@
     "appearances": [
       { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel; downed by Japanese fire on Saipan or Tinian" }
     ]
+  },
+  "bob-manning": {
+    "name": "Bob Manning",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel; drove to Denver with Joel on 8 Dec 1941, the day after Pearl Harbor, to enlist; served in the Navy" }
+    ]
+  },
+  "clarence-snow": {
+    "name": "Clarence Snow",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel; drove to Denver with Joel on 8 Dec 1941 to enlist; served in the Navy" }
+    ]
+  },
+  "herb-hutchison": {
+    "name": "Herb Hutchison",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel; drove to Denver with Joel on 8 Dec 1941 to enlist but failed the physical for a bad ankle, then drove Clinton Fairchild's car back to Creede" }
+    ]
+  },
+  "clinton-fairchild": {
+    "name": "Clinton Fairchild",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel; drove Joel, Bob Manning, Clarence Snow, and Herb Hutchison to Denver on 8 Dec 1941 to enlist; served in the Navy" }
+    ]
+  },
+  "pete-walker": {
+    "name": "Pete Walker",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel; serving on Guam alongside William Charles \"Scoot\" Jackson during the Saipan/Tinian fighting" }
+    ]
+  },
+  "toots-matzen": {
+    "name": "Toots Matzen",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel, a teenage crush of Joel's, alongside Cherie Larson" }
+    ]
+  },
+  "cherie-larson": {
+    "name": "Cherie Larson",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel, a teenage crush of Joel's, alongside Toots Matzen" }
+    ]
+  },
+  "hurtha-duncan": {
+    "name": "Hurtha Duncan",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel; worked alongside him at the Federal Fish Hatchery in Creede, ca. 1938–1941" }
+    ]
+  },
+  "johnny-weaver": {
+    "name": "Johnny Weaver",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel; foreman under whom Joel worked as a hard-rock miner at the Commodore tunnels" }
+    ]
   }
 }
