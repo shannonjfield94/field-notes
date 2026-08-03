@@ -322,6 +322,20 @@
       { "url": "/people/john-woodruff/#amelia-a-woodruff", "label": "Child of John Farney Woodruff and Martha A. Secor" }
     ]
   },
+  "mary-e-woodruff": {
+    "name": "Mary E. Woodruff",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/parmelia-farney/#mary-e-woodruff", "label": "Child of Parmelia Farney and Joshua Woodruff" }
+    ]
+  },
+  "milla-woodruff": {
+    "name": "Milla Woodruff",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/parmelia-farney/#milla-woodruff", "label": "Child of Parmelia Farney and Joshua Woodruff; distinct from the working-hypothesis identity of 'Milly Woodruff,' proposed elsewhere as John Farney Woodruff's mother" }
+    ]
+  },
   "william-walter-helms": {
     "name": "William Walter Helms",
     "tags": ["family"],
