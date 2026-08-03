@@ -84,6 +84,20 @@
       { "url": "/people/anna-maud-woodruff/", "label": "Grandson of Anna Maud Woodruff, named for his uncle Lee Roy Woodruff, in the note for his father John Franklin \"Frank\" Davis" }
     ]
   },
+  "sue-steward": {
+    "name": "Sue Steward",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/joel-thomas-jackson/#sue-steward", "label": "Wife of Joel Thomas Jackson, married 1946" }
+    ]
+  },
+  "kevin-scott-jackson": {
+    "name": "Kevin Scott Jackson",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/joel-thomas-jackson/#kevin-scott-jackson", "label": "Child of Joel Thomas Jackson and Sue Steward" }
+    ]
+  },
   "billy-filley": {
     "name": "Billy Filley",
     "tags": ["creede-character"],
