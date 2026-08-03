@@ -144,7 +144,9 @@
     "name": "Billy Filley",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel; downed by Japanese fire on Saipan or Tinian" }
+      { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel; downed by Japanese fire on Saipan or Tinian" },
+      { "url": "/people/joel-thomas-jackson/", "label": "Per Del Norte Prospector, 3 Mar 1944: in on the Tarawa Island campaign with Joel" },
+      { "url": "/people/william-charles-jackson/", "label": "Per Del Norte Prospector, 3 Mar 1944: sent to rest camp alongside Scoot" }
     ]
   },
   "bob-manning": {
