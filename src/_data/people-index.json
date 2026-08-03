@@ -287,6 +287,41 @@
       { "url": "/people/annie-chaney/#warren-browning-woodruff", "label": "Child of Annie E. Chaney and John Farney Woodruff; known to family as 'Brownie'" }
     ]
   },
+  "serena-alice-woodruff": {
+    "name": "Serena Alice Woodruff",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/john-woodruff/#serena-alice-woodruff", "label": "Child of John Farney Woodruff and Mary Jane Shope; died in infancy 1862" }
+    ]
+  },
+  "charley-a-woodruff": {
+    "name": "Charley A. Woodruff",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/john-woodruff/#charley-a-woodruff", "label": "Child of John Farney Woodruff and Mary Jane Shope; died in infancy 1866" }
+    ]
+  },
+  "elmer-ottis-woodruff": {
+    "name": "Elmer Ottis Woodruff",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/john-woodruff/#elmer-ottis-woodruff", "label": "Child of John Farney Woodruff and Mary Jane Shope; died in infancy 1867" }
+    ]
+  },
+  "john-farney-woodruff-jr": {
+    "name": "John Farney Woodruff Jr.",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/john-woodruff/#john-farney-woodruff-jr", "label": "Child of John Farney Woodruff and Sarah Sherman" }
+    ]
+  },
+  "amelia-a-woodruff": {
+    "name": "Amelia A. Woodruff",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/john-woodruff/#amelia-a-woodruff", "label": "Child of John Farney Woodruff and Martha A. Secor" }
+    ]
+  },
   "william-walter-helms": {
     "name": "William Walter Helms",
     "tags": ["family"],
