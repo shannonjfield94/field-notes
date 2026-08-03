@@ -6,6 +6,69 @@
       { "url": "/people/esta-delia-helms/#jackie-lucille-bates", "label": "Child of Esta Delia Helms and Robert Webster Bates" }
     ]
   },
+  "eli-staggs": {
+    "name": "Eli Staggs",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/florence-staggs/#eli-staggs", "label": "Father of Florence Arminda Staggs" }
+    ]
+  },
+  "nancy-jane-berry": {
+    "name": "Nancy Jane Berry",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/florence-staggs/#nancy-jane-berry", "label": "Mother of Florence Arminda Staggs" }
+    ]
+  },
+  "willie-lea-bates": {
+    "name": "Willie Lea Bates",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/florence-staggs/#willie-lea-bates", "label": "Child of Florence Arminda Staggs and William Webster Bates" }
+    ]
+  },
+  "jesse-earl-bates": {
+    "name": "Jesse Earl Bates",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/florence-staggs/#jesse-earl-bates", "label": "Child of Florence Arminda Staggs and William Webster Bates" }
+    ]
+  },
+  "ada-pearl-bates": {
+    "name": "Ada Pearl Bates",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/florence-staggs/#ada-pearl-bates", "label": "Child of Florence Arminda Staggs and William Webster Bates; known later in life as 'Edythe Pearl'" }
+    ]
+  },
+  "nora-minnie-bates": {
+    "name": "Nora Minnie Bates",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/florence-staggs/#nora-minnie-bates", "label": "Child of Florence Arminda Staggs and William Webster Bates; died 1918, reportedly during the influenza pandemic" }
+    ]
+  },
+  "chancy-c-bates": {
+    "name": "Chancy C. Bates",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/florence-staggs/#chancy-c-bates", "label": "Child of Florence Arminda Staggs and William Webster Bates; died in infancy, 12 days old" }
+    ]
+  },
+  "l-z-bun-bates": {
+    "name": "L. Z. \"Bun\" Bates",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/florence-staggs/#l-z-bun-bates", "label": "Child of Florence Arminda Staggs and William Webster Bates; known to family as 'Bun'" }
+    ]
+  },
+  "beulah-beatrice-bates": {
+    "name": "Beulah Beatrice Bates",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/florence-staggs/#beulah-beatrice-bates", "label": "Child of Florence Arminda Staggs and William Webster Bates" }
+    ]
+  },
   "clarence-kayo-slaght": {
     "name": "Clarence \"Kayo\" Slaght",
     "tags": ["creede-character"],
