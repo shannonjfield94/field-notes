@@ -217,6 +217,27 @@
       { "url": "/people/anna-maud-woodruff/#arthur-m-davis", "label": "Child of Anna Maud Woodruff and Robert Abraham Lincoln Davis" }
     ]
   },
+  "simon-peter-davis": {
+    "name": "Simon Peter Davis",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/robert-davis/#simon-peter-davis", "label": "Father of Robert Abraham Lincoln Davis" }
+    ]
+  },
+  "phoebe-mary-cease": {
+    "name": "Phoebe Mary Cease",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/robert-davis/#phoebe-mary-cease", "label": "Mother of Robert Abraham Lincoln Davis; documented in lifetime records as 'Mary Davis'" }
+    ]
+  },
+  "cora-davis": {
+    "name": "Cora Davis",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/robert-davis/#cora-davis", "label": "Second wife of Robert Abraham Lincoln Davis (unverified); marriage undocumented and unknown to his descendants" }
+    ]
+  },
   "charlotte-florella-lane": {
     "name": "Charlotte Florella Lane",
     "tags": ["family"],
