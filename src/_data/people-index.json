@@ -105,6 +105,27 @@
       { "url": "/people/joel-thomas-jackson/#kevin-scott-jackson", "label": "Child of Joel Thomas Jackson and Sue Steward" }
     ]
   },
+  "marceline-ann-duncan": {
+    "name": "Marceline Ann Duncan",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/william-charles-jackson/#marceline-ann-duncan", "label": "Wife of William Charles \"Scoot\" Jackson, married 1947" }
+    ]
+  },
+  "vesta-g-jackson": {
+    "name": "Vesta G. Jackson",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/william-charles-jackson/#vesta-g-jackson", "label": "Child of William Charles \"Scoot\" Jackson and Marceline Ann Duncan; died soon after birth, 1951" }
+    ]
+  },
+  "robert-l-jackson": {
+    "name": "Robert L. Jackson",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/william-charles-jackson/#robert-l-jackson", "label": "Child of William Charles \"Scoot\" Jackson and Marceline Ann Duncan; died soon after birth, 1958" }
+    ]
+  },
   "billy-filley": {
     "name": "Billy Filley",
     "tags": ["creede-character"],
