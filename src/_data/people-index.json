@@ -468,5 +468,19 @@
     "appearances": [
       { "url": "/people/esta-delia-helms/#elmer-floyd-bates", "label": "Child of Esta Delia Helms and Robert Webster Bates; twin of Thomas Lloyd Bates, died the day he was born" }
     ]
+  },
+  "william-e-f-bates": {
+    "name": "William E. F. Bates",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/william-webster-bates/#william-e-f-bates", "label": "Father of William Webster Bates (Unverified); convicted of horse theft in 1859, fate after 1860 unresolved" }
+    ]
+  },
+  "sarah-coker": {
+    "name": "Sarah Coker",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/people/william-webster-bates/#sarah-coker", "label": "Mother of William Webster Bates; died 1863, Elbert County, Georgia" }
+    ]
   }
 }
