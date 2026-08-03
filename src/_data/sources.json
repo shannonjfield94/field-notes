@@ -741,6 +741,16 @@
     "short_citation": "1950 U.S. census, Anna Maude Lane household, San Luis Ave, Creede, Mineral Co., Colorado.",
     "held_as": "digital image"
   },
+  "lane-mcclure-ssdi": {
+    "citation": "\u201cU.S., Social Security Death Index, 1935-2014,\u201d database, Ancestry.com (Provo, UT: Ancestry.com Operations Inc., 2010); original data: Social Security Administration, Social Security Death Index, Master File; Charlotte L. McClure, SSN 521-30-1588, issued Colorado before 1951, birth date 19 Oct 1925, death date 23 Oct 2009, last residence Creede, Mineral County, Colorado 81130.",
+    "short_citation": "SSDI, Charlotte L. McClure, 1925\u20132009.",
+    "held_as": "digital image"
+  },
+  "lane-mcclure-findagrave": {
+    "citation": "Find a Grave, database and images (https://www.findagrave.com/memorial/59523183/charlotte_f-mcclure : accessed 3 Aug 2026), memorial page for Charlotte F. Lane McClure (19 Oct 1925\u201323 Oct 2009), Find a Grave Memorial ID 59523183, citing Creede Cemetery, Creede, Mineral County, Colorado, USA; maintained by Calmly Searching (contributor 47240541); incorporates an obituary naming her parents as Charles and Annie Maude (Woodruff) Lane and her husband as John Robert McClure.",
+    "short_citation": "Find a Grave memorial, Charlotte F. Lane McClure, 1925\u20132009.",
+    "held_as": "digital image"
+  },
   "mary-hagerman-death-certificate": {
     "citation": "\u201cMissouri, Death Certificates, 1910\u20131962,\u201d database with images, <em>Ancestry.com</em> (http://www.ancestry.com : accessed 9 July 2026), Mary D. Hagerman, 1950, State File No. 20870; citing Missouri Office of the Secretary of State, Jefferson City, Missouri.",
     "short_citation": "\u201cMissouri Death Certificates,\u201d Mary D. Hagerman, 1950.",

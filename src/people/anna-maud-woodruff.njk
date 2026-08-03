@@ -21,12 +21,8 @@ vitals:
     date: "2 Jul 1879"
     place: "Maryville, Nodaway County, Missouri"
     status: "Proven"
-    source: "Government records; death certificate; obituary. Self-reported as July 1878 on the 1900 census — a minor recorded variant; the death-certificate-era date is treated as authoritative."
-  - event: Death
-    date: "23 Nov 1954"
-    place: "Monte Vista, Colorado"
-    status: "Proven"
-    source_key: "maude-lane-death-certificate"
+    source_keys: ["maude-lane-death-certificate", "anna-maud-woodruff-obituary-1954", "anna-maud-woodruff-ssa-application", "davis-1900-census-wolcott"]
+    note: "Self-reported as July 1878 on the 1900 census — a minor recorded variant; the death-certificate-era date is treated as authoritative."
 
 family:
   parents:
@@ -89,8 +85,10 @@ family:
     # By Charles Lane (2nd husband)
     - name: "Charlotte Florella Lane"
       id: "charlotte-florella-lane"
-      birth_year: "19 Oct 1925, Creede, Mineral County, Colorado"
-      note: "Child of Anna Maud and Charles Lane. Died 23 Oct 2009, Creede, Mineral County, Colorado."
+      birth_year: "18 or 19 Oct 1925, Creede, Mineral County, Colorado"
+      status: "Unresolved Conflict"
+      note: "Child of Anna Maud and Charles Lane. Died 23 Oct 2009, Creede, Mineral County, Colorado, per the Social Security Death Index and her Find a Grave memorial, which agree. Her birth date is unresolved: a contemporary Creede Candle birth notice, published six days after the fact, states she was born \"on Sunday the 18th\" — 18 October 1925 was in fact a Sunday, 19 October a Monday, favoring the notice's internal consistency — while both the SSDI and her own family-submitted obituary (via Find a Grave) independently agree on 19 October. Both dates are recorded here rather than silently resolved."
+      source_keys: ["lane-charlotte-birth-creede-candle-1925", "lane-mcclure-ssdi", "lane-mcclure-findagrave"]
     # Stepson of Charles Lane (2nd husband), adopted by Anna Maud per family account
     - name: "Raymond Lane"
       id: "raymond-lane"
