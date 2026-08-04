@@ -90,7 +90,7 @@ layout: layouts/base.njk
         {% if p.url %}<a href="{{ p.url }}">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}
         {% if p.relationship %} <span class="family-role">({{ p.relationship }})</span>{% endif %}
         {% if p.note %} — <em class="family-note">{% if p.inline_cited %}{{ p.note | citeInline | safe }}{% else %}{{ p.note }}{% endif %}</em>{% endif %}
-        {% if not p.inline_cited %}{% if p.source_keys %} {% cite p.source_keys %}{% elif p.source_key %} {% cite p.source_key %}{% endif %}{% endif %}
+        {% if not p.inline_cited %}{% if p.source_keys %} {% cite p.source_keys %}{% elif p.source_key %} {% cite p.source_key %}{% elif p.source %} {{ p.source }}{% endif %}{% endif %}
       </li>
       {% endfor %}
         </ul>
@@ -107,7 +107,7 @@ layout: layouts/base.njk
             {% if s.marriage_year %} — m. {{ s.marriage_year }}{% endif %}
             {% if s.marriage_place %}, {{ s.marriage_place }}{% endif %}
             {% if s.status %} <span class="family-role">({{ s.status }})</span>{% endif %}
-            {% if not s.inline_cited %}{% if s.source_keys %} {% cite s.source_keys %}{% elif s.source_key %} {% cite s.source_key %}{% endif %}{% endif %}
+            {% if not s.inline_cited %}{% if s.source_keys %} {% cite s.source_keys %}{% elif s.source_key %} {% cite s.source_key %}{% elif s.source %} {{ s.source }}{% endif %}{% endif %}
             {% if s.note %} — <em class="family-note">{% if s.inline_cited %}{{ s.note | citeInline | safe }}{% else %}{{ s.note }}{% endif %}</em>{% endif %}
           </li>
           {% endfor %}
@@ -147,7 +147,7 @@ layout: layouts/base.njk
             <td class="source-cell">
               {% set item = m %}
               {% include "components/note-excerpt.njk" %}
-              {% if not m.inline_cited %}{% if m.source_keys %} {% cite m.source_keys %}{% elif m.source_key %} {% cite m.source_key %}{% endif %}{% endif %}
+              {% if not m.inline_cited %}{% if m.source_keys %} {% cite m.source_keys %}{% elif m.source_key %} {% cite m.source_key %}{% elif m.source %} {{ m.source }}{% endif %}{% endif %}
             </td>
           </tr>
           {% endfor %}
@@ -167,7 +167,7 @@ layout: layouts/base.njk
             {% if c.url %}<a href="{{ c.url }}">{{ c.name }}</a>{% else %}{{ c.name }}{% endif %}
             {%- if c.birth_date or c.birth_year %} (b. {{ c.birth_date or c.birth_year }}{% if c.birth_place %}, {{ c.birth_place }}{% endif %}{% if c.death_date or c.death_year %}; d. {{ c.death_date or c.death_year }}{% if c.death_place %}, {{ c.death_place }}{% endif %}{% endif %}){% endif %}
             {% if c.note %} — <em class="family-note">{% if c.inline_cited %}{{ c.note | citeInline | safe }}{% else %}{{ c.note }}{% endif %}</em>{% endif %}
-            {% if not c.inline_cited %}{% if c.source_keys %} {% cite c.source_keys %}{% elif c.source_key %} {% cite c.source_key %}{% endif %}{% endif %}
+            {% if not c.inline_cited %}{% if c.source_keys %} {% cite c.source_keys %}{% elif c.source_key %} {% cite c.source_key %}{% elif c.source %} {{ c.source }}{% endif %}{% endif %}
           </li>
           {% endfor %}
         </ul>

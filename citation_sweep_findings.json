@@ -1,0 +1,134 @@
+[
+  {
+    "file": "src\\people\\alice-josephine-davis.njk",
+    "field": "vitals[1]",
+    "name": "Death",
+    "source": "Family entries; not yet checked against a primary record. Per Shannon, she died of cancer while hospitalized in Colorado Springs; she had lived in Creede, Mineral County, from girlhood until this final hospitalization, and Colorado Springs does not represent a relocation. Death certificate known to exist in Shannon's mother's papers; not yet in hand."
+  },
+  {
+    "file": "src\\people\\alice-josephine-davis.njk",
+    "field": "timeline[0]",
+    "name": "(unnamed)",
+    "source": "Family entries"
+  },
+  {
+    "file": "src\\people\\alice-josephine-davis.njk",
+    "field": "timeline[4]",
+    "name": "(unnamed)",
+    "source": "See Robert Davis's page"
+  },
+  {
+    "file": "src\\people\\alice-josephine-davis.njk",
+    "field": "timeline[6]",
+    "name": "(unnamed)",
+    "source": "See Robert Davis's page"
+  },
+  {
+    "file": "src\\people\\alice-josephine-davis.njk",
+    "field": "timeline[8]",
+    "name": "(unnamed)",
+    "source": "Family entries"
+  },
+  {
+    "file": "src\\people\\alice-josephine-davis.njk",
+    "field": "timeline[12]",
+    "name": "(unnamed)",
+    "source": "Family entries"
+  },
+  {
+    "file": "src\\people\\anna-maud-woodruff.njk",
+    "field": "timeline[4]",
+    "name": "(unnamed)",
+    "source": "Per Shannon's research; decree being located"
+  },
+  {
+    "file": "src\\people\\annie-chaney.njk",
+    "field": "vitals[1]",
+    "name": "Marriage (1st, unverified)",
+    "source": "Family account only, related by Annie's granddaughter: family reportedly arranged a marriage for Annie to an elderly, infirm relative (\"uncle\") so that she could care for him without scandal attaching to the arrangement. No record of this union has been located, including no name for the husband."
+  },
+  {
+    "file": "src\\people\\annie-chaney.njk",
+    "field": "vitals[3]",
+    "name": "Hearing loss (family account)",
+    "source": "Family account, independently related by two of Annie's great-grandchildren — John Jackson and Anna Maud \"Polly\" Davis (Frank's daughter, named for her grandmother, called Polly) — that Annie was hard of hearing in her later years and used an ear trumpet (acoustic hearing horn) to hear conversation. No documentary record corroborates this. Place reflects that Creede is the only setting in which John and Polly knew her, consistent with her final stay there in 1932. The two accounts are independent of each other and recall different specific incidents built around the same underlying fact, which strengthens their reliability relative to a single-informant family account, though the detail remains unverified by any document."
+  },
+  {
+    "file": "src\\people\\esta-delia-helms.njk",
+    "field": "family.children[4]",
+    "name": "Jackie Lucille Bates",
+    "source": "Family genealogical research (FamilySearch-compiled)"
+  },
+  {
+    "file": "src\\people\\esta-delia-helms.njk",
+    "field": "family.children[10]",
+    "name": "Elmer Floyd Bates",
+    "source": "Family genealogical research (FamilySearch-compiled)"
+  },
+  {
+    "file": "src\\people\\joshua-woodruff.njk",
+    "field": "vitals[0]",
+    "name": "Birth",
+    "source": "Not yet documented"
+  },
+  {
+    "file": "src\\people\\joshua-woodruff.njk",
+    "field": "vitals[1]",
+    "name": "Death",
+    "source": "Not yet documented"
+  },
+  {
+    "file": "src\\people\\parmelia-farney.njk",
+    "field": "vitals[0]",
+    "name": "Birth",
+    "source": "Not yet documented"
+  },
+  {
+    "file": "src\\people\\parmelia-farney.njk",
+    "field": "vitals[1]",
+    "name": "Death",
+    "source": "Not yet documented"
+  },
+  {
+    "file": "src\\people\\robert-davis.njk",
+    "field": "timeline[3]",
+    "name": "(unnamed)",
+    "source": "Per Shannon's research; decree being located"
+  },
+  {
+    "file": "src\\people\\robert-davis.njk",
+    "field": "timeline[4]",
+    "name": "(unnamed)",
+    "source": "Family account; not yet independently documented by census or directory record"
+  },
+  {
+    "file": "src\\people\\william-thomas-jackson-1895.njk",
+    "field": "timeline[4]",
+    "name": "(unnamed)",
+    "source": "Family entries"
+  },
+  {
+    "file": "src\\people\\william-webster-bates.njk",
+    "field": "timeline[1]",
+    "name": "(unnamed)",
+    "source": "Southern Watchman (Athens, GA), 18 Nov 1858"
+  },
+  {
+    "file": "src\\people\\william-webster-bates.njk",
+    "field": "timeline[2]",
+    "name": "(unnamed)",
+    "source": "Southern Banner (Athens, GA), 10 Mar 1859"
+  },
+  {
+    "file": "src\\people\\william-webster-bates.njk",
+    "field": "timeline[6]",
+    "name": "(unnamed)",
+    "source": "Family genealogical research (FamilySearch-compiled)"
+  },
+  {
+    "file": "src\\people\\william-webster-bates.njk",
+    "field": "timeline[9]",
+    "name": "(unnamed)",
+    "source": "Find A Grave memorial 39219603"
+  }
+]
