@@ -352,6 +352,53 @@ blockquote p:last-child {
 .marriages-table th:nth-child(5), .marriages-table td:nth-child(5) { width: 14%; }
 .marriages-table th:nth-child(6), .marriages-table td:nth-child(6) { width: 23%; }
 
+/* --- Stacked layout for vitals/marriages tables on narrow screens --- */
+@media (max-width: 600px) {
+  .vitals-table,
+  .marriages-table {
+    table-layout: auto;
+  }
+  .vitals-table thead,
+  .marriages-table thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    border: 0;
+  }
+  .vitals-table, .vitals-table tbody, .vitals-table tr, .vitals-table td,
+  .marriages-table, .marriages-table tbody, .marriages-table tr, .marriages-table td {
+    display: block;
+    width: 100% !important;
+  }
+  .vitals-table tr,
+  .marriages-table tr {
+    margin-bottom: var(--space-lg, 1.5rem);
+    border-bottom: 2px solid var(--color-border, #c8b89a);
+    padding-bottom: var(--space-sm, 0.5rem);
+  }
+  .vitals-table td,
+  .marriages-table td {
+    border-bottom: none;
+    padding: 0.3rem 0;
+  }
+  .vitals-table td::before,
+  .marriages-table td::before {
+    content: attr(data-label);
+    display: block;
+    font-family: var(--font-sans);
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--color-muted, #888);
+    margin-bottom: 0.15rem;
+  }
+}
+
 /* --- Research Status Badge --- */
 .research-status {
   display: inline-block;

@@ -59,19 +59,19 @@ layout: layouts/base.njk
         <tbody>
           {% for v in vitals %}
           <tr class="vital-row vital-row--{{ v.status | lower | replace(' ', '-') }}">
-            <td>{{ v.event }}</td>
-            <td>{{ v.date }}</td>
-            <td>{{ v.place }}</td>
-            <td><span class="status-pill status-pill--{{ v.status | lower | replace(' ', '-') }}">{{ v.status }}</span></td>
-            <td class="source-cell">
+            <td data-label="Event">{{ v.event }}</td>
+            <td data-label="Date">{{ v.date }}</td>
+            <td data-label="Place">{{ v.place }}</td>
+            <td data-label="Status"><span class="status-pill status-pill--{{ v.status | lower | replace(' ', '-') }}">{{ v.status }}</span></td>
+            <td class="source-cell" data-label="Source">
               {% if not v.inline_cited %}{% if v.source_keys %}{% cite v.source_keys %}
               {% elif v.source_key %}{% cite v.source_key %}{% endif %}{% endif %}
               {% if v.note %}<span class="source-note">{% set item = v %}{% include "components/note-excerpt.njk" %}</span>{% endif %}
               {% if not v.source_key and not v.source_keys and v.source %}{{ v.source }}{% endif %}
-            </td>
-          </tr>
-          {% endfor %}
-        </tbody>
+          </td>
+        </tr>
+        {% endfor %}
+       </tbody>
       </table>
     </section>
     {% endif %}
