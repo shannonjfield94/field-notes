@@ -30,6 +30,17 @@ module.exports = function(eleventyConfig) {
       }));
   });
 
+  // --- Resources section nav (single source of truth for the sidebar
+  // shown on every /resources/* page — edit here, not per-page) ---
+  eleventyConfig.addGlobalData("resourcesNav", () => [
+    { label: "AI", url: "/resources/" },
+    { label: "Archives & Libraries", url: "/resources/archives-libraries/" },
+    { label: "Bloggers", url: "/resources/bloggers/" },
+    { label: "DNA", url: "/resources/dna/" },
+    { label: "Organizations/Programs", url: "/resources/organizations/" },
+    { label: "Terms/Definitions", url: "/resources/terms-definitions/" }
+  ]);
+
   // --- Citation / Sources system ---
   const sourcesData = require('./src/_data/sources.json');
   const peopleIndexData = require('./src/_data/people-index.json');

@@ -1,17 +1,10 @@
 ---
 layout: layouts/base.njk
-title: "Organizations"
+title: "Organizations/Programs"
 description: "Genealogical organizations and certification programs."
 ---
 
-{% set sidebar_items = [
-  { label: "AI", url: "/resources/" },
-  { label: "Archives & Libraries", url: "/resources/archives-libraries/" },
-  { label: "Bloggers", url: "/resources/bloggers/" },
-  { label: "DNA", url: "/resources/dna/" },
-  { label: "Organizations", url: "/resources/organizations/" },
-  { label: "Terms/Definitions", url: "/resources/terms-definitions/" }
-] %}
+{% set sidebar_items = resourcesNav %}
 
 <div class="section-layout">
   {% include "partials/section-sidebar.njk" %}
@@ -19,7 +12,7 @@ description: "Genealogical organizations and certification programs."
   <div class="section-content">
     <div class="page-header">
       <p class="section-breadcrumb">Resources</p>
-      <h1>Organizations</h1>
+      <h1>Organizations/Programs</h1>
     </div>
 
     <section class="person-section">
