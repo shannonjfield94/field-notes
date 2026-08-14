@@ -1453,6 +1453,37 @@ blockquote p:last-child {
   padding: 0 var(--space-lg);
 }
 
+/* --- Home page sign-off --- */
+.home-signoff {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  margin-left: auto;
+  margin-top: var(--space-xl);
+  padding-top: var(--space-lg);
+  border-top: 1px solid var(--color-border);
+}
+
+.home-signoff-drawing {
+  width: 130px;
+  height: auto;
+  display: block;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+  background-color: #ffffff;
+  margin-bottom: var(--space-xs);
+}
+
+.home-signoff-name {
+  font-family: 'Homemade Apple', cursive;
+  font-size: 1.8rem;
+  color: var(--color-anchor);
+  margin: 0;
+  line-height: 1;
+}
+
 /* ── Name Index ──────────────────────────────── */
 
 .index-entry {
