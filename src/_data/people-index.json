@@ -244,14 +244,16 @@
     "name": "Albert Woodruff Davis",
     "tags": ["family"],
     "appearances": [
-      { "url": "/people/anna-maud-woodruff/#albert-woodruff-davis", "label": "Child of Anna Maud Woodruff and Robert Abraham Lincoln Davis" }
+      { "url": "/people/anna-maud-woodruff/#albert-woodruff-davis", "label": "Child of Anna Maud Woodruff and Robert Abraham Lincoln Davis" },
+      { "url": "/writings/please-go-to-hell/family-and-brothers/", "label": "Known to family as \"Uncle Woody\"; named in his nephew John Jackson's memoir \"Please Go to Hell\" — stayed with the Jackson family in the early 1930s, teaching Joel a riddle that nearly got him expelled from school. Confirmed by Shannon as the same person." }
     ]
   },
   "arthur-m-davis": {
     "name": "Arthur M. Davis",
     "tags": ["family"],
     "appearances": [
-      { "url": "/people/anna-maud-woodruff/#arthur-m-davis", "label": "Child of Anna Maud Woodruff and Robert Abraham Lincoln Davis" }
+      { "url": "/people/anna-maud-woodruff/#arthur-m-davis", "label": "Child of Anna Maud Woodruff and Robert Abraham Lincoln Davis" },
+      { "url": "/writings/please-go-to-hell/family-and-brothers/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; stayed with the Jackson family in the early 1930s, teaching his nephews to roll cigarettes" }
     ]
   },
   "simon-peter-davis": {
@@ -483,6 +485,55 @@
     "tags": ["family"],
     "appearances": [
       { "url": "/people/william-webster-bates/#sarah-coker", "label": "Mother of William Webster Bates; died 1863, Elbert County, Georgia" }
+    ]
+  },
+  "pauline-roberta-jackson-bates": {
+    "name": "Pauline Roberta \"Bubbles\" Jackson Bates",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/", "label": "Shannon's mother; credited co-author of her brother John's memoir \"Please Go to Hell,\" introduced by name in the manuscript's Prologue to the Preface. Living; identifying details withheld as elsewhere on the site." }
+    ]
+  },
+  "joel-thomas-jackson": {
+    "name": "Joel Thomas \"Joe\" Jackson",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/family-and-brothers/", "label": "Named repeatedly in John Jackson's memoir \"Please Go to Hell\"; nearly expelled from school for sharing a riddle their Uncle Woody taught him, and accidentally grazed John's knee with a ricocheted .22 shot while rabbit hunting in 1937" }
+    ]
+  },
+  "william-charles-jackson": {
+    "name": "William Charles \"Scoot\" Jackson",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/family-and-brothers/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the \"crapper\" incident in front of Mrs. Eva Snow, and repeated attempts to accidentally injure John with his own guns" }
+    ]
+  },
+  "eva-snow": {
+    "name": "Eva Snow",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/family-and-brothers/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a visiting family friend present for the \"crapper\" incident" }
+    ]
+  },
+  "matt-bartlett": {
+    "name": "Matt Bartlett",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/family-and-brothers/", "label": "Great-nephew of John Jackson, named in his memoir \"Please Go to Hell\"" }
+    ]
+  },
+  "dan-bartlett": {
+    "name": "Dan Bartlett",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/family-and-brothers/", "label": "Great-nephew of John Jackson, named in his memoir \"Please Go to Hell\", alongside his brother Matt" }
+    ]
+  },
+  "marcy-niece": {
+    "name": "Marcy",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/family-and-brothers/", "label": "Niece of John Jackson, named (surname not given) in his memoir \"Please Go to Hell\"" }
     ]
   }
 }

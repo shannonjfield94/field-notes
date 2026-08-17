@@ -1,0 +1,43 @@
+---
+layout: layouts/base.njk
+---
+
+<article class="source-doc-page">
+
+  <header class="source-doc-header">
+    <div class="source-doc-header-inner">
+      {% if back_url %}<a href="{{ back_url }}" class="source-doc-backlink">← {{ back_label | default("Back") }}</a>{% endif %}
+      <h1 class="source-doc-title">{{ title }}</h1>
+      {% if byline %}<p class="journal-entry-date">{{ byline }}</p>{% endif %}
+
+      {% if sensitivity_tags and sensitivity_tags.length %}
+      <div class="journal-sensitivity-flag">
+        <span class="journal-sensitivity-label">Heads up:</span>
+        {% for s in sensitivity_tags %}<span class="journal-sensitivity-tag">{{ s }}</span>{% endfor %}
+      </div>
+      {% endif %}
+
+      {% if intro %}<p class="source-doc-intro">{{ intro | safe }}</p>{% endif %}
+    </div>
+  </header>
+
+  <div class="source-doc-body">
+
+    {% if image %}
+    <figure class="source-doc-image{% if image.compact %} source-doc-image--compact{% endif %}">
+      <img src="{{ image.src }}" alt="{{ image.alt }}">
+      {% if image.caption %}<figcaption>{{ image.caption }}</figcaption>{% endif %}
+    </figure>
+    {% endif %}
+
+    {{ content | safe }}
+
+  </div>
+
+  {% citeReferences %}
+
+  <footer class="source-doc-footer">
+    {% if back_url %}<a href="{{ back_url }}" class="source-doc-backlink">← {{ back_label | default("Back") }}</a>{% endif %}
+  </footer>
+
+</article>

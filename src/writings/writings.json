@@ -1,0 +1,4 @@
+{
+  "tags": ["writings"],
+  "layout": "layouts/writing-doc.njk"
+}
