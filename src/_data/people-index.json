@@ -535,5 +535,26 @@
     "appearances": [
       { "url": "/writings/please-go-to-hell/family-and-brothers/", "label": "Niece of John Jackson, named (surname not given) in his memoir \"Please Go to Hell\"" }
     ]
+  },
+  "alice-josephine-davis": {
+    "name": "Alice Josephine Davis",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/family-and-brothers/", "label": "Referred to as \"Mom Jo\" throughout John Jackson's memoir \"Please Go to Hell\"; raising four sons in Depression-era Creede, she disciplined Scooter with a bar of soap over the word \"crapper,\" grabbed her husband's revolver more than once during their arguments, and bundled up the newspaper from Saturday peanut nights for the woodstove." }
+    ]
+  },
+  "william-thomas-jackson-1895": {
+    "name": "William Thomas Jackson",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/family-and-brothers/", "label": "Referred to as \"Dad\" in John Jackson's memoir \"Please Go to Hell\"; worked part-time as a butcher for the A. H. Major Grocery Store and taught young John arithmetic using peanuts on Saturday nights." }
+    ]
+  },
+  "william-thomas-jackson-1856-1917": {
+    "name": "William Thomas Jackson (1856–1917)",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/digging-for-the-truth/", "label": "Referred to as \"old Bullprick\" in his grandson John Jackson's memoir \"Please Go to Hell\"; per the manuscript, committed to \"Roselawn Sanitarium\" and remembered by fellow miners as \"crazier than hell.\" This differs from the Colorado State Insane Asylum, Pueblo, given elsewhere on the site per family account \u2014 the two accounts have not yet been reconciled." }
+    ]
   }
 }
