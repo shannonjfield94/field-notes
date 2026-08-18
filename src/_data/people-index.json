@@ -88,7 +88,8 @@
     "name": "Inez Mae Schriver",
     "tags": ["family"],
     "appearances": [
-      { "url": "/people/john-richard-jackson/#inez-mae-schriver", "label": "Wife of John Richard Jackson (unverified); no marriage license or date located" }
+      { "url": "/people/john-richard-jackson/#inez-mae-schriver", "label": "Wife of John Richard Jackson (unverified); no marriage license or date located" },
+      { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Accompanies John to Denver's first 3D movie and to her family's home in Cherryvale, Kansas, where the family saw their first television, Christmas 1951" }
     ]
   },
   "sue-steward": {
@@ -216,7 +217,8 @@
     "name": "Charles Lane",
     "tags": ["family"],
     "appearances": [
-      { "url": "/people/anna-maud-woodruff/#charles-lane", "label": "Second husband of Anna Maud Woodruff, married 9 Sep 1920" }
+      { "url": "/people/anna-maud-woodruff/#charles-lane", "label": "Second husband of Anna Maud Woodruff, married 9 Sep 1920" },
+      { "url": "/writings/please-go-to-hell/mom-jo-and-grandma-lane/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; married Anna Maud after buying the old Gardnier homestead, where they ran a firewood and mine-prop business" }
     ]
   },
   "john-franklin-davis": {
@@ -281,7 +283,8 @@
     "name": "Charlotte Florella Lane",
     "tags": ["family"],
     "appearances": [
-      { "url": "/people/anna-maud-woodruff/#charlotte-florella-lane", "label": "Child of Anna Maud Woodruff and Charles Lane" }
+      { "url": "/people/anna-maud-woodruff/#charlotte-florella-lane", "label": "Child of Anna Maud Woodruff and Charles Lane" },
+      { "url": "/writings/please-go-to-hell/mom-jo-and-grandma-lane/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; close in age to her nephew John and raised alongside him on the Lane ranch" }
     ]
   },
   "raymond-lane": {
@@ -505,6 +508,7 @@
     "name": "William Charles \"Scoot\" Jackson",
     "tags": ["family"],
     "appearances": [
+      { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel; serving on Guam alongside Pete Walker during the Saipan/Tinian fighting" },
       { "url": "/writings/please-go-to-hell/family-and-brothers/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the \"crapper\" incident in front of Mrs. Eva Snow, and repeated attempts to accidentally injure John with his own guns" }
     ]
   },
@@ -554,7 +558,112 @@
     "name": "William Thomas Jackson (1856–1917)",
     "tags": ["family"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/digging-for-the-truth/", "label": "Referred to as \"old Bullprick\" in his grandson John Jackson's memoir \"Please Go to Hell\"; per the manuscript, committed to \"Roselawn Sanitarium\" and remembered by fellow miners as \"crazier than hell.\" This differs from the Colorado State Insane Asylum, Pueblo, given elsewhere on the site per family account \u2014 the two accounts have not yet been reconciled." }
+      { "url": "/writings/please-go-to-hell/digging-for-the-truth/", "label": "Referred to as \"old Bullprick\" in his grandson John Jackson's memoir \"Please Go to Hell\"; per the manuscript, committed to \"Roselawn Sanitarium\" and remembered by fellow miners as \"crazier than hell.\" Likely a conflation with Roselawn Cemetery, Pueblo \u2014 where he is in fact buried \u2014 rather than a second institution; family account holds he was committed to the Colorado State Insane Asylum, Pueblo. See his son's page for full research detail." }
+    ]
+  },
+  "mr-bessy": {
+    "name": "Mr. Bessy",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/family-and-brothers/", "label": "Named (surname only) in John Jackson's memoir \"Please Go to Hell\"; his mine east of Creede was the site of a 1937 rabbit-hunting accident in which Joel accidentally grazed John's knee." }
+    ]
+  },
+  "mr-lundy": {
+    "name": "Mr. Lundy",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/digging-for-the-truth/", "label": "Named (surname only) in John Jackson's memoir \"Please Go to Hell\"; the Creede butcher who saved ox tails for young Bill Jackson to carry home, knowing of the family's hardship." }
+    ]
+  },
+  "mr-gillespie": {
+    "name": "Mr. Gillespie",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/digging-for-the-truth/", "label": "Named (surname only) in John Jackson's memoir \"Please Go to Hell\"; the deer-hunting companion Bill Jackson's father took instead of his twelve-year-old son, a disappointment John says his father never got over." }
+    ]
+  },
+  "fred-soapy-birdsey": {
+    "name": "Fred \"Soapy\" Birdsey",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/digging-for-the-truth/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the family friend whose account of William Thomas Jackson Sr.'s commitment, and blunt verdict \u2014 \"He was crazier than hell!\" \u2014 is the memoir's primary source for the story." }
+    ]
+  },
+  "alexander-holmes-major": {
+    "name": "Alexander Holmes \"A. H.\" Major",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/family-and-brothers/", "label": "Proprietor of the A. H. Major Grocery Store, named in John Jackson's memoir \"Please Go to Hell\" as Bill Jackson's part-time employer in the late 1920s and early 1930s; a notable early Creede pioneer in his own right, per Find a Grave." }
+    ]
+  },
+  "jack-cunningham": {
+    "name": "Jack Cunningham",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a former professional boxer (documented on BoxRec) who ran the Denver cafe the family visited on their trip to see Denver's first 3D movie." }
+    ]
+  },
+  "doc-diaz-san-luis": {
+    "name": "Doc Diaz (of San Luis)",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a San Luis boxing manager whose \"stable of boxers\" Bill Jackson was acquainted with from his own days around the sport." }
+    ]
+  },
+  "paul-schriver": {
+    "name": "Paul Schriver",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; Inez Mae Schriver's father, in whose Cherryvale, Kansas home John saw his first television, Christmas 1951" }
+    ]
+  },
+  "gene-pat-patten": {
+    "name": "Gene \"Pat\" Patten",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; with Leo \"Hoot\" Moore, credited with bringing Creede's first snowy television images by scouting mountain signal sites with a Jeep, generator, and small set." }
+    ]
+  },
+  "leo-hoot-moore": {
+    "name": "Leo \"Hoot\" Moore",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; with Gene \"Pat\" Patten, credited with bringing Creede's first snowy television images by scouting mountain signal sites with a Jeep, generator, and small set." }
+    ]
+  },
+  "lloyd-clark": {
+    "name": "Lloyd Clark",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; of Pagosa Springs, brought in refined equipment and set up a relay station near South Fork that gave Creede its first snow-free television pictures." }
+    ]
+  },
+  "les-turnipseed": {
+    "name": "Les Turnipseed",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the first in Creede to buy his own television and antenna, an installation attempt with friends that ended when a gust of wind brought the whole assembly crashing down." }
+    ]
+  },
+  "kenny-swinehart": {
+    "name": "Kenny Swinehart",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; helped Les Turnipseed raise his television antenna, an attempt that ended when the assembly came crashing down in a gust of wind." }
+    ]
+  },
+  "floyd-dooley": {
+    "name": "Floyd Dooley",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; helped Les Turnipseed raise his television antenna, an attempt that ended when the assembly came crashing down in a gust of wind." }
+    ]
+  },
+  "gene-wardell": {
+    "name": "Gene Wardell",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; helped Les Turnipseed raise his television antenna, an attempt that ended when the assembly came crashing down in a gust of wind." }
     ]
   }
 }
