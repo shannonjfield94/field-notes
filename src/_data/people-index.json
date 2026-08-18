@@ -494,7 +494,9 @@
     "name": "Pauline Roberta \"Bubbles\" Jackson Bates",
     "tags": ["family"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/", "label": "Shannon's mother; credited co-author of her brother John's memoir \"Please Go to Hell,\" introduced by name in the manuscript's Prologue to the Preface. Living; identifying details withheld as elsewhere on the site." }
+      { "url": "/people/alice-josephine-davis/#pauline-roberta-jackson-bates", "label": "Child of Alice Josephine Davis and William Thomas Jackson. Living; identifying details withheld per Shannon's request to protect a living family member's privacy." },
+      { "url": "/writings/please-go-to-hell/", "label": "Shannon's mother; credited co-author of her brother John's memoir \"Please Go to Hell,\" introduced by name in the manuscript's Prologue to the Preface. Living; identifying details withheld as elsewhere on the site." },
+      { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; accompanies the family to Denver's first 3D movie, where she screams and spills her drink when an actor throws a chair toward the audience." }
     ]
   },
   "joel-thomas-jackson": {
@@ -664,6 +666,13 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; helped Les Turnipseed raise his television antenna, an attempt that ended when the assembly came crashing down in a gust of wind." }
+    ]
+  },
+  "robert-davis": {
+    "name": "Robert Abraham Lincoln Davis",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/mom-jo-and-grandma-lane/", "label": "Named as \"Lynn Davis\" in John Jackson's memoir \"Please Go to Hell\"; Anna Maud Woodruff's first husband, from whom she divorced in Creede before he returned to his native Missouri." }
     ]
   }
 }
