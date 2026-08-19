@@ -38,7 +38,8 @@ module.exports = function(eleventyConfig) {
     { label: "Bloggers", url: "/resources/bloggers/" },
     { label: "DNA", url: "/resources/dna/" },
     { label: "Organizations/Programs", url: "/resources/organizations/" },
-    { label: "Terms/Definitions", url: "/resources/terms-definitions/" }
+    { label: "Terms/Definitions", url: "/resources/terms-definitions/" },
+    { label: "Tools & Guides", url: "/resources/tools-guides/" }
   ]);
 
   // --- Citation / Sources system ---
