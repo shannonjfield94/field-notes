@@ -127,13 +127,6 @@
       { "url": "/people/william-charles-jackson/#robert-l-jackson", "label": "Child of William Charles \"Scoot\" Jackson and Marceline Ann Duncan; died soon after birth, 1958" }
     ]
   },
-  "william-thomas-jackson-1856-1917": {
-    "name": "William Thomas Jackson (1856–1917)",
-    "tags": ["family"],
-    "appearances": [
-      { "url": "/people/william-thomas-jackson-1895/#william-thomas-jackson-1856-1917", "label": "Father of William Thomas Jackson (1895–1957); died at the Colorado State Insane Asylum, Pueblo (Working Hypothesis)" }
-    ]
-  },
   "selma-mathilda-carlsson-henriksdotter": {
     "name": "Selma Mathilda Carlsson Henriksdotter",
     "tags": ["family"],
@@ -560,7 +553,8 @@
     "name": "William Thomas Jackson (1856–1917)",
     "tags": ["family"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/digging-for-the-truth/", "label": "Referred to as \"old Bullprick\" in his grandson John Jackson's memoir \"Please Go to Hell\"; per the manuscript, committed to \"Roselawn Sanitarium\" and remembered by fellow miners as \"crazier than hell.\" Likely a conflation with Roselawn Cemetery, Pueblo \u2014 where he is in fact buried \u2014 rather than a second institution; family account holds he was committed to the Colorado State Insane Asylum, Pueblo. See his son's page for full research detail." }
+      { "url": "/people/william-thomas-jackson-1895/#william-thomas-jackson-1856-1917", "label": "Father of William Thomas Jackson (1895–1957); died 1917 at Woodcroft Hospital, Pueblo, per his own death certificate (located 2026)." },
+      { "url": "/writings/please-go-to-hell/digging-for-the-truth/", "label": "Referred to as \"old Bullprick\" in his grandson John Jackson's memoir \"Please Go to Hell\"; per the manuscript, committed to \"Roselawn Sanitarium\" and remembered by fellow miners as \"crazier than hell.\" His own death certificate has since confirmed this was a conflation with Roselawn Cemetery, Pueblo, where he was in fact buried \u2014 the actual facility was Woodcroft Hospital, Pueblo. See his son's page for full research detail." }
     ]
   },
   "mr-bessy": {
