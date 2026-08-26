@@ -674,5 +674,12 @@
     "appearances": [
       { "url": "/writings/please-go-to-hell/mom-jo-and-grandma-lane/", "label": "Named as \"Lynn Davis\" in John Jackson's memoir \"Please Go to Hell\"; Anna Maud Woodruff's first husband, from whom she divorced in Creede before he returned to his native Missouri." }
     ]
+  },
+  "claude-cecil-jackson": {
+    "name": "Claude Cecil Jackson",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/digging-for-the-truth/", "label": "William Thomas Jackson Sr.'s youngest child (per the 1910 census, age 1½); pictured as a small boy alongside his father in a photograph from John Jackson's memoir \"Please Go to Hell,\" captioned in verse, in the old man's own voice, as \"the last one of my breed.\"" }
+    ]
   }
 }
