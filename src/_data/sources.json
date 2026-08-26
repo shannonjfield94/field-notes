@@ -502,8 +502,8 @@
     "held_as": "digital image"
   },
   "jackson-davis-marriage-certificate-envelope-1921": {
-    "citation": "Mineral County, Colorado, Marriage Certificate No. 16015, W. T. Jackson and Miss Alice Josephine Davis, filed for record 7 July 1921 at 11:45 a.m., recorded in Book 64 of Marriages, p. 131; A. J. Weaver, County Clerk, by Doris Weaver, Deputy; original filing envelope and ribbon, privately held by Field.",
-    "short_citation": "Mineral County Marriage Certificate No. 16015, Jackson\u2013Davis, 1921.",
+    "citation": "Mineral County, Colorado, Marriage License and Certificate of Marriage, W. T. Jackson (Creede, Mineral Co., CO; not previously married) and Miss Alice Josephine Davis (Creede, Mineral Co., CO; not previously married), license issued under seal at Creede 5 July 1921 by A. J. Weaver, County Clerk, by Doris Weaver, Deputy; ceremony performed the same day at Creede by Clarence Y. Butler, County Judge, witnessed by Mrs. C. L. Lane (the bride's mother, Anna Maud Woodruff Davis Lane) and Mrs. A. M. Davis; Marriage Certificate No. 16015, filed for record 7 July 1921 at 11:45 a.m., recorded in Book 64 of Marriages, p. 131, stamped \u201cExamined\u201d; original license, certificate, and filing envelope with ribbon, privately held by Field; transcribed by Shannon Field, 26 Aug 2026.",
+    "short_citation": "Mineral County Marriage License & Certificate No. 16015, Jackson\u2013Davis, 1921.",
     "held_as": "original in family possession"
   },
   "jackson-1900-census-bachelor": {
@@ -1063,5 +1063,20 @@
     "citation": "John Richard Jackson and Pauline Roberta \"Bubbles\" Jackson Bates, \"Please Go to Hell\" (unpublished manuscript, Creede, Colorado, n.d.), typescript found among John's papers after his death; transcribed by Shannon Field, 2026.",
     "short_citation": "John Jackson, \"Please Go to Hell\" (unpublished manuscript).",
     "held_as": "typescript held by family; transcribed to digital text by Shannon Field"
+  },
+  "robert-davis-cora-martin-marriage-license-1931": {
+    "citation": "“Missouri Marriage Records, 1805-2002,” database with images, <em>Ancestry.com</em> (http://www.ancestry.com : accessed 26 Aug 2026), Robert L. Davis, of Sulphur Springs, Rte. 2, McDonald County, Missouri, age 56, and Cora Martin, of Carterville, Jasper County, Missouri, age 52, Marriage License No. 205, Newton County, married 8 July 1931, Neosho, Missouri, by G. H. Huddleston, J.P.; recorded same day by C. H. Gibbons, Recorder of Deeds, by Thelma Alankard, Deputy; citing Missouri State Archives, Jefferson City, Missouri, Missouri Marriage Records [microfilm]; transcribed by Shannon Field, 26 Aug 2026.",
+    "short_citation": "Missouri Marriage Records, Davis–Martin, 1931.",
+    "held_as": "digital image"
+  },
+  "robert-lincoln-davis-death-certificate": {
+    "citation": "State of Colorado, Bureau of Vital Statistics, Certificate of Death (Form V.S. No. 12), Robert Lincoln Davis, Creede, Mineral County, Colorado; born 29 Dec 1900, Eagle County, Colorado, to Robert Lincoln Davis (b. Michigan) and Maude Woodruff (b. Missouri); age 17 yrs 9 mos at death; died of bronchopneumonia; informant R. L. Davis, Creede, Colorado; filed 21 November 1918; buried Creede, Colorado; original in the family papers of Shannon's mother; transcribed by Shannon Field, 26 Aug 2026. NOTE: the certificate's own day-of-death digit is ambiguous (transcribed as “9”); day-of-week analysis and the site's existing Find a Grave sourcing both point to 3 Nov 1918 rather than 9 Nov — see robert-lincoln-davis-findagrave and robert-lincoln-davis-creede-candle-death-1918.",
+    "short_citation": "Colorado Certificate of Death, Robert Lincoln Davis, 1918.",
+    "held_as": "original in family possession"
+  },
+  "polly-davis-letter-terry-bev": {
+    "citation": "Anna Maude “Polly” Davis (daughter of John Franklin “Frank” Davis and Caroline Davis) to cousin Terry and Bev, undated letter (“Wed. the 28th,” year and envelope not preserved), recounting family history including her parents' marriage, her grandfather “Lynn” Davis, and her Davis-family aunts and uncles; original held by Terry, provided to Shannon Field; transcribed by Shannon Field, 26 Aug 2026.",
+    "short_citation": "Polly Davis letter to Terry and Bev, n.d.",
+    "held_as": "original held by family member; copy with Shannon Field"
   }
 } 
