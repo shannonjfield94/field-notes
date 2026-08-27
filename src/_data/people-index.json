@@ -90,7 +90,8 @@
     "appearances": [
       { "url": "/people/john-richard-jackson/#inez-mae-schriver", "label": "Wife of John Richard Jackson (unverified); no marriage license or date located" },
       { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Accompanies John to Denver's first 3D movie and to her family's home in Cherryvale, Kansas, where the family saw their first television, Christmas 1951" },
-      { "url": "/writings/please-go-to-hell/when-you-would-like-to-live-forever/", "label": "Packs John's gear and joins him fishing at Wyley Lakes and the headwaters of Rat Creek in the late 1950s and 1960s, preferring grasshoppers as bait" }
+      { "url": "/writings/please-go-to-hell/when-you-would-like-to-live-forever/", "label": "Packs John's gear and joins him fishing at Wyley Lakes and the headwaters of Rat Creek in the late 1950s and 1960s, preferring grasshoppers as bait" },
+      { "url": "/writings/please-go-to-hell/reflections-and-hindsight/", "label": "Named in John's closing \"Hindsight\" essay as the one decision he never regretted; married fifty-one years" }
     ]
   },
   "sue-steward": {
@@ -734,6 +735,34 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/when-you-would-like-to-live-forever/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a family friend who joined the Jacksons' August 1947 Brewster Park camping trip, fishing and prospecting with John near Pole Creek." }
+    ]
+  },
+  "paul-davis-mine-engineer": {
+    "name": "Paul Davis",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/reflections-and-hindsight/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; Mine Engineer for Emperius Mining Company who taught John geology and physics starting in 1939, later founding Davis Engineering Company. No known relation to the Robert Abraham Lincoln Davis family line documented elsewhere on this site." }
+    ]
+  },
+  "wallace-i-leary": {
+    "name": "Wallace I. Leary",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/reflections-and-hindsight/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a prospector whose encouraging assays, taken 45 years earlier, steered John to his own most rewarding prospecting work in Mineral Creek." }
+    ]
+  },
+  "frank-swank": {
+    "name": "Frank Swank",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/reflections-and-hindsight/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; found high-grade float in Mineral Creek prior to Wallace I. Leary's own limited prospecting there." }
+    ]
+  },
+  "josef-radermacher": {
+    "name": "Professor Josef Radermacher",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/reflections-and-hindsight/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a German interpreter John worked with in 1946 in duties associated with prisoners of war, spoken of with more respect than John says he received from the rank and file at the time." }
     ]
   }
 }
