@@ -160,10 +160,11 @@
     ]
   },
   "herb-hutchison": {
-    "name": "Herb Hutchison",
+    "name": "Herb Hutchinson",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel; drove to Denver with Joel on 8 Dec 1941 to enlist but failed the physical for a bad ankle, then drove Clinton Fairchild's car back to Creede" }
+      { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel (spelled \"Hutchison\" there); drove to Denver with Joel on 8 Dec 1941 to enlist but failed the physical for a bad ankle, then drove Clinton Fairchild's car back to Creede" },
+      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; mastered Jitterbugging after the Barrett brothers introduced it to Creede in 1937, including rolling his partner over his back without a misstep. Shannon confirmed (27 Aug 2026) the correct spelling of his name is \"Hutchinson,\" as spelled in this story; the 1988 tribute's \"Hutchison\" spelling above has not itself been corrected." }
     ]
   },
   "clinton-fairchild": {
@@ -177,7 +178,8 @@
     "name": "Pete Walker",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel; serving on Guam alongside William Charles \"Scoot\" Jackson during the Saipan/Tinian fighting" }
+      { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel; serving on Guam alongside William Charles \"Scoot\" Jackson during the Saipan/Tinian fighting" },
+      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; hauled ore from several mines with Slim Blackford and Charles Slaght, rounding out Slim's working career in Creede." }
     ]
   },
   "toots-matzen": {
@@ -213,7 +215,8 @@
     "tags": ["family"],
     "appearances": [
       { "url": "/people/anna-maud-woodruff/#charles-lane", "label": "Second husband of Anna Maud Woodruff, married 9 Sep 1920" },
-      { "url": "/writings/please-go-to-hell/mom-jo-and-grandma-lane/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; married Anna Maud after buying the old Gardnier homestead, where they ran a firewood and mine-prop business" }
+      { "url": "/writings/please-go-to-hell/mom-jo-and-grandma-lane/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; married Anna Maud after buying the old Gardnier homestead, where they ran a firewood and mine-prop business" },
+      { "url": "/writings/please-go-to-hell/hellions-and-moonshiners/", "label": "Referred to only as \"my grandfather\" in John Jackson's account of the Snowshoe Mountain moonshiners; confirmed by Shannon (27 Aug 2026) to be Charles Lane." }
     ]
   },
   "john-franklin-davis": {
@@ -763,6 +766,223 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/reflections-and-hindsight/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a German interpreter John worked with in 1946 in duties associated with prisoners of war, spoken of with more respect than John says he received from the rank and file at the time." }
+    ]
+  },
+  "earl-j": {
+    "name": "Earl J",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/hellions-and-moonshiners/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the ringleader of John's boyhood gang, best remembered for popping paper sacks to startle the old miners dozing on the bench outside Soapy's Pool Hall." }
+    ]
+  },
+  "norm": {
+    "name": "Norm",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/hellions-and-moonshiners/", "label": "Named (first name only) in John Jackson's memoir \"Please Go to Hell\"; one of the old miners who dozed on the bench outside Soapy's Pool Hall and was regularly startled awake by Earl J's paper-sack pranks." }
+    ]
+  },
+  "archie-spud-fellows": {
+    "name": "Archie \"Spud\" Fellows",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/hellions-and-moonshiners/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the most prolific of the Snowshoe Mountain moonshiners, a good friend of John's grandfather (see Charles Lane). The manuscript also records his own account of killing a man in self-defense as a boy, stopping a beating the man was giving Spud's mother." }
+    ]
+  },
+  "william-bill-swinehart-sr": {
+    "name": "William \"Bill\" Swinehart Sr.",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/hellions-and-moonshiners/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a rancher and moonshiner on Snowshoe Mountain whose long-inactive still John and his brother Scooter stumbled onto while elk hunting. No relation to Kenny Swinehart, also named in the manuscript, is stated or confirmed." }
+    ]
+  },
+  "howard-barber": {
+    "name": "Howard Barber",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/hellions-and-moonshiners/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a Gardnier Gulch moonshiner and gifted storyteller who, after moonshining ended, became a Commodore Mine shifter and renewed his friendship with John underground." }
+    ]
+  },
+  "pearl-barber": {
+    "name": "Pearl Barber",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/hellions-and-moonshiners/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; Howard Barber's wife, one of John's favorite people as a youngster. She and Howard lost their only son, Jimmy, to spinal meningitis in the mid-1930s." }
+    ]
+  },
+  "jimmy-barber": {
+    "name": "Jimmy Barber",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/hellions-and-moonshiners/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; Howard and Pearl Barber's only son, who swam with John and his friends in the Rio Grande off Moonshine Mesa and died of spinal meningitis in the mid-1930s, believed at the time to have been contracted from the river." }
+    ]
+  },
+  "william-bill-tingley": {
+    "name": "William \"Bill\" Tingley",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/hellions-and-moonshiners/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a French Canadian sawmiller and moonshiner, a favorite guest at the Jackson table, who died penniless as a vagrant on Larimer Street in Denver. The manuscript's one \"Tingle\" mention was Shannon's own digitization typo (confirmed 27 Aug 2026) and has been corrected to \"Tingley\" throughout." }
+    ]
+  },
+  "roy-raupe": {
+    "name": "Roy Raupe",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/hellions-and-moonshiners/", "label": "Named in John Jackson's memoir \"Please Go to Hell\" (nicknamed \"Arkie,\" for his native Arkansas); a section-house worker and Amethyst Mine hand whose pack burros, braying at dawn, twice cost two other hunters a shot at a pair of bucks. The manuscript's \"Paupe\" spelling was Shannon's own digitization typo (confirmed 27 Aug 2026) and has been corrected to \"Raupe\" throughout." }
+    ]
+  },
+  "al-hunter": {
+    "name": "Al",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/hellions-and-moonshiners/", "label": "Named (first name only) in John Jackson's memoir \"Please Go to Hell\"; hunted with Ashby out of a camp near Roy Raupe's, and privately admitted to John, 60 years after the fact, to shooting one of Raupe's burros for braying and spoiling their hunt. Disambiguated by key from Al Wintz, named elsewhere in the manuscript; no relation stated." }
+    ]
+  },
+  "ashby-hunter": {
+    "name": "Ashby",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/hellions-and-moonshiners/", "label": "Named (first name only) in John Jackson's memoir \"Please Go to Hell\"; hunted with Al out of a camp near Roy Raupe's, their shot at a pair of bucks spoiled twice by the braying of Raupe's pack burros." }
+    ]
+  },
+  "allen-aj-hosselkus": {
+    "name": "Allen \"A.J.\" Hosselkus",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/hellions-and-moonshiners/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; worked several jobs with John, including cutting ice for the Hosselkus Road Canyon Fishery, and led a hunting trip with his cousin Gordon on which he was the only one of the three still carrying a rifle with any real range." }
+    ]
+  },
+  "gordon-hosselkus": {
+    "name": "Gordon Hosselkus",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/hellions-and-moonshiners/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; A.J. Hosselkus's cousin, who joined John and A.J. on a hunting trip remembered chiefly for an oversized bedroll and a night spent fending off mice and pack rats in the Jack Fleming cabin." }
+    ]
+  },
+  "jack-fleming": {
+    "name": "Jack Fleming",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/hellions-and-moonshiners/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; owned the cabin near the Equity Mine, used each summer to work his claims for the yearly assessment, where John, A.J., and Gordon Hosselkus sheltered for the first nights of a hunting trip." }
+    ]
+  },
+  "byron-fairchild": {
+    "name": "Byron Fairchild",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; with his wife Annie, one of the two couples John names as Creede's most graceful dancers, a smooth and graceful waltzer. No confirmed relation to Clinton Fairchild, also named in the manuscript." }
+    ]
+  },
+  "annie-fairchild": {
+    "name": "Annie Fairchild",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; with her husband Byron, one of the two couples John names as Creede's most graceful dancers, a smooth and graceful waltzer." }
+    ]
+  },
+  "paul-lemke": {
+    "name": "Paul Lemke",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; with his wife, a master of ballroom dancing, fox trots, polkas, and tangos; co-managed the Derrick warehouse dance hall with John's father when Creede's silver mines reopened in the mid-1930s." }
+    ]
+  },
+  "lola-lemke": {
+    "name": "Lola Lemke",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; with her husband Paul, a master of ballroom dancing, fox trots, polkas, and tangos. The manuscript's one \"Lela\" mention was Shannon's own digitization typo (confirmed 27 Aug 2026) and has been corrected to \"Lola\" throughout." }
+    ]
+  },
+  "ernie-barrett": {
+    "name": "Ernie Barrett",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; with his brother Gene, introduced Jitterbugging to Creede on their arrival in 1937." }
+    ]
+  },
+  "gene-barrett": {
+    "name": "Gene Barrett",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; with his brother Ernie, introduced Jitterbugging to Creede on their arrival in 1937, and taught it to anyone willing to try." }
+    ]
+  },
+  "bill-swinehart-jr": {
+    "name": "Bill Swinehart, Jr.",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; lost an eye at a 4th of July dance when a drunk reveler's lighted firecracker exploded near his face. Disambiguated by key from William \"Bill\" Swinehart Sr., also named in the manuscript; likely his son, though no relation is stated." }
+    ]
+  },
+  "kenneth-snow": {
+    "name": "Kenneth Snow",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; won a Jitterbugging contest at the \"Bucket of Blood\" with Edna Ruth Van Aken. Disambiguated by key from Clarence Snow and Eva Snow, also named in the manuscript; no relation stated." }
+    ]
+  },
+  "edna-ruth-van-aken": {
+    "name": "Edna Ruth Van Aken",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; won a Jitterbugging contest at the \"Bucket of Blood\" with Kenneth Snow." }
+    ]
+  },
+  "roy-autrey": {
+    "name": "Roy Autrey",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; of the La Garita Ranch, placed second (with his unnamed wife) in a Jitterbugging contest at the \"Bucket of Blood.\"" }
+    ]
+  },
+  "sam-birdsey": {
+    "name": "Sam Birdsey",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; with his wife Garnet, held well-attended square dances in their garage that taught many Creede youngsters to \"Dosey Do and Swing their Partners\" in the 1950s. No confirmed relation to Fred \"Soapy\" Birdsey, also named in the manuscript." }
+    ]
+  },
+  "garnet-birdsey": {
+    "name": "Garnet Birdsey",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; with her husband Sam, held well-attended square dances in their garage that taught many Creede youngsters to \"Dosey Do and Swing their Partners\" in the 1950s." }
+    ]
+  },
+  "slim-blackford": {
+    "name": "Slim Blackford",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the story's namesake, a nickname that outlasted his birth name entirely. A butcher, then diesel-engine operator and ore weigher for Emperius Mining Company; John's favorite story of his is the casket-showroom prank he played on Mrs. McGregor in retirement." }
+    ]
+  },
+  "eloise-blackford": {
+    "name": "Eloise Blackford",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; Slim Blackford's wife, a talented piano player and opera singer who taught music and staged musicals with local students." }
+    ]
+  },
+  "charles-slaght": {
+    "name": "Charles Slaght",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; hauled ore from several mines with Slim Blackford and Pete Walker. Disambiguated by key from Clarence \"Kayo\" Slaght, also named in the manuscript; likely the same extended family, no relation stated." }
+    ]
+  },
+  "george-mortician": {
+    "name": "George",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named (first name only) in John Jackson's memoir \"Please Go to Hell\"; a Montrose mortician and friend of Slim Blackford's in his retirement, who talked Slim into a casket-showroom prank on an unsuspecting Mrs. McGregor. Disambiguated by key from other men named George in the manuscript." }
+    ]
+  },
+  "mrs-mcgregor": {
+    "name": "Mrs. McGregor",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the unwitting audience for Slim Blackford and the mortician George's casket-showroom prank in Montrose, greeted from inside the casket by a very-much-alive Slim." }
     ]
   }
 }
