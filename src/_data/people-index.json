@@ -89,7 +89,8 @@
     "tags": ["family"],
     "appearances": [
       { "url": "/people/john-richard-jackson/#inez-mae-schriver", "label": "Wife of John Richard Jackson (unverified); no marriage license or date located" },
-      { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Accompanies John to Denver's first 3D movie and to her family's home in Cherryvale, Kansas, where the family saw their first television, Christmas 1951" }
+      { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Accompanies John to Denver's first 3D movie and to her family's home in Cherryvale, Kansas, where the family saw their first television, Christmas 1951" },
+      { "url": "/writings/please-go-to-hell/when-you-would-like-to-live-forever/", "label": "Packs John's gear and joins him fishing at Wyley Lakes and the headwaters of Rat Creek in the late 1950s and 1960s, preferring grasshoppers as bait" }
     ]
   },
   "sue-steward": {
@@ -638,7 +639,8 @@
     "name": "Les Turnipseed",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the first in Creede to buy his own television and antenna, an installation attempt with friends that ended when a gust of wind brought the whole assembly crashing down." }
+      { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the first in Creede to buy his own television and antenna, an installation attempt with friends that ended when a gust of wind brought the whole assembly crashing down." },
+      { "url": "/writings/please-go-to-hell/when-you-would-like-to-live-forever/", "label": "Joins John and Gene Wardell on a weekend fishing trip to Trinity Lake in the San Juan Mountains, and is startled awake by a mule deer at their camp." }
     ]
   },
   "kenny-swinehart": {
@@ -659,7 +661,8 @@
     "name": "Gene Wardell",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; helped Les Turnipseed raise his television antenna, an attempt that ended when the assembly came crashing down in a gust of wind." }
+      { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; helped Les Turnipseed raise his television antenna, an attempt that ended when the assembly came crashing down in a gust of wind." },
+      { "url": "/writings/please-go-to-hell/when-you-would-like-to-live-forever/", "label": "Joins John and Les Turnipseed on a weekend fishing trip to Trinity Lake in the San Juan Mountains, fishing eighteen-inch Rainbow trout stocked years earlier by Carroll Wetherill." }
     ]
   },
   "robert-davis": {
@@ -674,6 +677,63 @@
     "tags": ["family"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/digging-for-the-truth/", "label": "William Thomas Jackson Sr.'s youngest child (per the 1910 census, age 1½); pictured as a small boy alongside his father in a photograph from John Jackson's memoir \"Please Go to Hell,\" captioned in verse, in the old man's own voice, as \"the last one of my breed.\"" }
+    ]
+  },
+  "gene-mcclure": {
+    "name": "Gene McClure",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/when-you-would-like-to-live-forever/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; owner/manager of Tomkins Hardware Company in Creede, who told John and Les Turnipseed about the stocked high-country lake that turned out to be Trinity Lake." }
+    ]
+  },
+  "carroll-wetherill": {
+    "name": "Carroll Clayton Wetherill",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/when-you-would-like-to-live-forever/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; hauled several hundred fingerling Rainbow trout into Trinity Lake by horseback in the mid-1950s to stock it. Full name and dates (b. 8 Jan 1911, d. 31 Aug 1983) per Find a Grave; buried Creede Cemetery, Mineral County, Colorado." }
+    ]
+  },
+  "johnny-youngsavage": {
+    "name": "Johnny Youngsavage",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/when-you-would-like-to-live-forever/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; wrecked a Model T Ford on Little Timber Hill in 1940 while returning to his job at Beartown for \"Beartown Maude\" Townsend, and later joined the Army." }
+    ]
+  },
+  "maude-townsend": {
+    "name": "Maude Townsend",
+    "aka": "Beartown Maude",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/when-you-would-like-to-live-forever/", "label": "Named in John Jackson's memoir \"Please Go to Hell\" as \"Beartown Maude\"; ran a small mill and mining operation at the ghost town of Beartown, Colorado, 1936-1941, then moved to Creede to run the Creede Hotel for five years." }
+    ]
+  },
+  "red-ewell": {
+    "name": "Red Ewell",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/when-you-would-like-to-live-forever/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; mined for \"Beartown Maude\" Townsend at Beartown, then became her cook when she moved to Creede to run the Creede Hotel." }
+    ]
+  },
+  "pete-cane": {
+    "name": "Pete Cane",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/when-you-would-like-to-live-forever/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; hauled fuel to the Beartown mining operation in a stake-bed truck, then joined the Army along with Johnny Youngsavage." }
+    ]
+  },
+  "bruce-manning": {
+    "name": "Bruce Manning",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/when-you-would-like-to-live-forever/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; hauled a wood/coal kitchen stove into Brewster Park, which the Jackson family used on their August 1947 camping trip." }
+    ]
+  },
+  "gavin-skinner": {
+    "name": "Gavin Skinner",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/when-you-would-like-to-live-forever/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a family friend who joined the Jacksons' August 1947 Brewster Park camping trip, fishing and prospecting with John near Pole Creek." }
     ]
   }
 }
