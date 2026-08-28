@@ -19,13 +19,26 @@ load_signature_font: true
     <div class="page-header">
       <h1>Name Index</h1>
       <p class="page-intro">
-        Everyone connected to this family, alphabetically: direct-line ancestors, collateral relatives, spouses, children, and named friends and associates, with links to wherever they can be read, whether a full profile, an entry on someone else's page, or a mention in a research note, journal entry, or family narrative. People who appear only incidentally within a source citation, such as officiants, witnesses, physicians, or record-keepers, are documented there rather than indexed here.
+        Everyone connected to this family, alphabetically by first name: direct-line ancestors, collateral relatives, spouses, children, and named friends and associates, with links to wherever they can be read, whether a full profile, an entry on someone else's page, or a mention in a research note, journal entry, or family narrative. People who appear only incidentally within a source citation, such as officiants, witnesses, physicians, or record-keepers, are documented there rather than indexed here.
       </p>
     </div>
 
-    {% for entry in collections.people | mergedPeopleIndex(peopleIndex) | sortedPeopleIndex %}
+    {% set sortedEntries = collections.people | mergedPeopleIndex(peopleIndex) | sortedPeopleIndex %}
+
+    <nav class="index-jumpnav" aria-label="Jump to letter">
+      <ul>
+        {% for letter in sortedEntries | peopleIndexLetters %}
+        <li><a href="#letter-{{ letter }}">{{ letter }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+
+    {% for entry in sortedEntries %}
+    {% if entry.isNewLetter %}
+    <h2 class="index-letter-heading" id="letter-{{ entry.letter }}">{{ entry.letter }}</h2>
+    {% endif %}
     <section class="index-entry" id="{{ entry.slug }}">
-      <h2 class="index-entry__name">{{ entry.name }}</h2>
+      <h3 class="index-entry__name">{{ entry.name }}</h3>
       {% if entry.tags %}
       <div class="index-entry__tags">
         {% for tag in entry.tags %}

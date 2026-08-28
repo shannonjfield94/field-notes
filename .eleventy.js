@@ -59,9 +59,28 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addFilter("sortedPeopleIndex", (data) => {
     if (!data || typeof data !== "object") return [];
-    return Object.keys(data)
+    const sorted = Object.keys(data)
       .map(slug => ({ slug, ...data[slug] }))
       .sort((a, b) => (a.name || "").localeCompare(b.name || ""));
+
+    // Annotate each entry with its first letter and whether it's the first
+    // entry under that letter, so the template can drop in an A–Z jump nav
+    // and section headings without anyone having to track "where the W's
+    // start" by hand — this is recomputed fresh on every build.
+    let previousLetter = null;
+    sorted.forEach(entry => {
+      const letter = (entry.name || "").trim().charAt(0).toUpperCase();
+      entry.letter = letter;
+      entry.isNewLetter = letter !== previousLetter;
+      previousLetter = letter;
+    });
+
+    return sorted;
+  });
+
+  eleventyConfig.addFilter("peopleIndexLetters", (sortedEntries) => {
+    if (!Array.isArray(sortedEntries)) return [];
+    return sortedEntries.filter(e => e.isNewLetter).map(e => e.letter);
   });
 
   eleventyConfig.addFilter("mergedPeopleIndex", (peoplePages, handIndex) => {
