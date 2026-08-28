@@ -954,7 +954,50 @@
     "name": "Slim Blackford",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the story's namesake, a nickname that outlasted his birth name entirely. A butcher, then diesel-engine operator and ore weigher for Emperius Mining Company; John's favorite story of his is the casket-showroom prank he played on Mrs. McGregor in retirement." }
+      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the story's namesake, a nickname that outlasted his birth name entirely. A butcher, then diesel-engine operator and ore weigher for Emperius Mining Company; John's favorite story of his is the casket-showroom prank he played on Mrs. McGregor in retirement." },
+      { "url": "/writings/please-go-to-hell/truth-stretchers-and-a-sailor-never-to-be/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; his old mill lunch bench, shared with a crew of \"boneheaded characters,\" is the frame for the tall tales that open \"Truth Stretchers.\"" }
+    ]
+  },
+  "brian-assayer": {
+    "name": "Brian",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/truth-stretchers-and-a-sailor-never-to-be/", "label": "Named (first name only) in John Jackson's memoir \"Please Go to Hell\"; the mill assayer who liked to wind a storyteller up at lunch, then needle him with a pointed question — audience, and eventual skeptic, for Buck's tallest tales." }
+    ]
+  },
+  "buck-float-cell-operator": {
+    "name": "Buck",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/truth-stretchers-and-a-sailor-never-to-be/", "label": "Named (first name only) in John Jackson's memoir \"Please Go to Hell\"; a mill float cell operator and the reigning champion of assayer Brian's tall-tale lunch sessions — a Wyoming elk hunt that piled the clearing with carcasses, and a cannon-fired tramline cable strung across an Alaskan muskeg swamp. Disambiguated by key since only a first name is given." }
+    ]
+  },
+  "jack-nelson": {
+    "name": "Jack Nelson",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/truth-stretchers-and-a-sailor-never-to-be/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a fellow miner who caught out a young coworker's tall tales, first a Fairplay bedroom shoot-out with far more than six shots from a six-shooter, later an implausible 18,000-foot Colorado mine needing oxygen-fed compressors." }
+    ]
+  },
+  "jim-young-miner": {
+    "name": "Jim",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/truth-stretchers-and-a-sailor-never-to-be/", "label": "Named (first name only) in John Jackson's memoir \"Please Go to Hell\"; a young miner whose own tall tales — a Fairplay bedroom shoot-out and an implausible 18,000-foot Colorado mine — earned him a place beside Buck in John's gallery of storytellers. Disambiguated by key from the unnamed \"Jim\" of the 1940 Christmas birth story in \"Mom Jo and Grandma Lane,\" also named only by first name and not yet indexed." }
+    ]
+  },
+  "lieutenant-oneill": {
+    "name": "Lieutenant O'Neill",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/truth-stretchers-and-a-sailor-never-to-be/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a \"feisty little Irishman\" and fellow officer in the labor-supervision company overseeing German prisoners of war during the 1946 occupation, and a friend John made there." }
+    ]
+  },
+  "otto-herman": {
+    "name": "Otto Herman",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/truth-stretchers-and-a-sailor-never-to-be/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a German Navy veteran and prisoner of war John became lasting friends with during the 1946 occupation — John located Otto's wife and young son in a bombed-out Wiesbaden apartment complex and brought them supplies." }
     ]
   },
   "eloise-blackford": {
