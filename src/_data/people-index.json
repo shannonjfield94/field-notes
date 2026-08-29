@@ -81,7 +81,8 @@
     "tags": ["family", "creede-character"],
     "appearances": [
       { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel; downed by Japanese fire on Saipan or Tinian" },
-      { "url": "/people/anna-maud-woodruff/", "label": "Grandson of Anna Maud Woodruff, named for his uncle Lee Roy Woodruff, in the note for his father John Franklin \"Frank\" Davis" }
+      { "url": "/people/anna-maud-woodruff/", "label": "Grandson of Anna Maud Woodruff, named for his uncle Lee Roy Woodruff, in the note for his father John Franklin \"Frank\" Davis" },
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named as \"Lee\" in John Jackson's memoir \"Please Go to Hell\"; recalled among the old friends John imagines rejoining near the end of old Amethyst Way on his bus ride down Memory Lane. Confirmed by Shannon as this same Lee Davis, not Lee Skinner, also named in \"The Amethyst Crew '1947.'\"" }
     ]
   },
   "inez-mae-schriver": {
@@ -253,7 +254,8 @@
     "tags": ["family"],
     "appearances": [
       { "url": "/people/anna-maud-woodruff/#arthur-m-davis", "label": "Child of Anna Maud Woodruff and Robert Abraham Lincoln Davis" },
-      { "url": "/writings/please-go-to-hell/family-and-brothers/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; stayed with the Jackson family in the early 1930s, teaching his nephews to roll cigarettes" }
+      { "url": "/writings/please-go-to-hell/family-and-brothers/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; stayed with the Jackson family in the early 1930s, teaching his nephews to roll cigarettes" },
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named as \"Art\" in John Jackson's memoir \"Please Go to Hell\"; recalled with Frankie Davis among the old friends and \"pards\" on John's imagined Memory Lane bus ride. Confirmed by Shannon as this same Arthur M. Davis." }
     ]
   },
   "simon-peter-davis": {
@@ -510,7 +512,7 @@
     "appearances": [
       { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel; serving on Guam alongside Pete Walker during the Saipan/Tinian fighting" },
       { "url": "/writings/please-go-to-hell/family-and-brothers/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the \"crapper\" incident in front of Mrs. Eva Snow, and repeated attempts to accidentally injure John with his own guns" },
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; recalled with LeRey Brown among the old friends and \"pards\" on John's imagined Memory Lane bus ride." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; recalled with LeRoy Brown among the old friends and \"pards\" on John's imagined Memory Lane bus ride." }
     ]
   },
   "eva-snow": {
@@ -743,7 +745,8 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/when-you-would-like-to-live-forever/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a family friend who joined the Jacksons' August 1947 Brewster Park camping trip, fishing and prospecting with John near Pole Creek." },
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; with his father Lee, stoping the \"42\" vein and chute at the Amethyst Mine in 1947; also took a wild ride on the lip of a sump bucket with Paul Weaver at the hands of a novice hoistman." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; with his father Lee, stoping the \"42\" vein and chute at the Amethyst Mine in 1947; also took a wild ride on the lip of a sump bucket with Paul Weaver at the hands of a novice hoistman." },
+      { "url": "/writings/please-go-to-hell/the-deserter/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; working with John three levels below the haulage level in the Amethyst Mine when they became friends with a newcomer known only as \"Sandy.\"" }
     ]
   },
   "paul-davis-mine-engineer": {
@@ -985,7 +988,7 @@
     "name": "Jack Nelson",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/truth-stretchers-and-a-sailor-never-to-be/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a fellow miner who caught out a young coworker's tall tales, first a Fairplay bedroom shoot-out with far more than six shots from a six-shooter, later an implausible 18,000-foot Colorado mine needing oxygen-fed compressors." }
+      { "url": "/writings/please-go-to-hell/truth-stretchers-and-a-sailor-never-to-be/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a fellow miner who caught out a young coworker's tall tales, first a Fairplay bedroom shoot-out with far more than six shots from a six-shooter, later an implausible 18,000-foot Colorado mine needing oxygen-fed compressors. Confirmed by Shannon as a different person from John Nelson, the Amethyst Crew blacksmith, named in \"Dedication and The Amethyst Crew '1947.'\"" }
     ]
   },
   "jim-young-miner": {
@@ -1101,20 +1104,6 @@
       { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; recalled among the old friends and \"pards\" on John's imagined Memory Lane bus ride, and, in \"The Amethyst Crew '1947,'\" a leaser with Dick Lehman who ran the first diesel bulldozer in Mineral County in 1936 and later became a very able foreman." }
     ]
   },
-  "art-pard": {
-    "name": "Art",
-    "tags": ["creede-character"],
-    "appearances": [
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named (first name only) in John Jackson's memoir \"Please Go to Hell\"; recalled with Frankie Davis among the old friends and \"pards\" on John's imagined Memory Lane bus ride. Disambiguated by key since only a first name is given; possibly a relative of Frankie Davis, no relation stated." }
-    ]
-  },
-  "lee-amethyst-way": {
-    "name": "Lee",
-    "tags": ["creede-character"],
-    "appearances": [
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named (first name only) in John Jackson's memoir \"Please Go to Hell\"; recalled among the old friends John imagines rejoining near the end of old Amethyst Way on his bus ride down Memory Lane. Disambiguated by key since only a first name is given; possibly Lee Skinner, also named in \"The Amethyst Crew '1947,'\" but no relation stated." }
-    ]
-  },
   "lane-mining-pair": {
     "name": "Lane",
     "tags": ["creede-character"],
@@ -1210,7 +1199,7 @@
     "name": "Al Wintz",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; recalled with Jiggs Moore at the end of Amethyst Way on John's imagined Memory Lane bus ride. Disambiguated by key from Al, the hunter named in \"Hellions and Moonshiners\"; no relation stated. Possibly related to Alma Wintz Dooley, mother of Floyd and Eugene Dooley in the manuscript's later \"Pards\" section, and to Woody Wintz, also named in this poem; no relation confirmed." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; recalled with Jiggs Moore at the end of Amethyst Way on John's imagined Memory Lane bus ride. Disambiguated by key from Al, the hunter named in \"Hellions and Moonshiners\"; no relation stated." }
     ]
   },
   "jiggs-moore": {
@@ -1252,14 +1241,15 @@
     "name": "Harry McClure",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; one of \"these McClure men,\" with John and Gene, recalled on John's imagined Memory Lane bus ride as having \"drilled a million holes.\" Likely related to Gene McClure, also named in the manuscript; no relation confirmed." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; one of \"these McClure men,\" with John and Gene, recalled on John's imagined Memory Lane bus ride as having \"drilled a million holes.\"" }
     ]
   },
   "john-mcclure": {
     "name": "John McClure",
-    "tags": ["creede-character"],
+    "tags": ["creede-character", "family"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; one of \"these McClure men,\" with Harry and Gene, recalled on John's imagined Memory Lane bus ride as having \"drilled a million holes.\" Likely related to Gene McClure, also named in the manuscript; no relation confirmed." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; one of \"these McClure men,\" with Harry and Gene, recalled on John's imagined Memory Lane bus ride as having \"drilled a million holes.\"" },
+      { "url": "/people/anna-maud-woodruff/#charlotte-florella-lane", "label": "Married Charlotte Florella Lane, Shannon's great-aunt, daughter of Anna Maud Woodruff and Charles Lane." }
     ]
   },
   "charles-johnson": {
@@ -1273,11 +1263,11 @@
     "name": "Fred Baker",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; recalled with Paul Mitchel, having just \"holed a tunnel through\" on Corsair Avenue, on John's imagined Memory Lane bus ride." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; recalled with Paul Mitchell, having just \"holed a tunnel through\" on Corsair Avenue, on John's imagined Memory Lane bus ride." }
     ]
   },
-  "paul-mitchel": {
-    "name": "Paul Mitchel",
+  "paul-mitchell": {
+    "name": "Paul Mitchell",
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; recalled with Fred Baker, having just \"holed a tunnel through\" on Corsair Avenue, on John's imagined Memory Lane bus ride." }
@@ -1287,7 +1277,7 @@
     "name": "Woody Wintz",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; revealed, in the closing lines of John's \"Memory Lane\" bus-ride poem, as the driver himself, with Charlie Slaght riding beside him. Possibly related to Al Wintz, also named in this poem; no relation confirmed." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; revealed, in the closing lines of John's \"Memory Lane\" bus-ride poem, as the driver himself, with Charlie Slaght riding beside him." }
     ]
   },
   "erick-w-nelson": {
@@ -1301,21 +1291,30 @@
     "name": "Isaac D. Crawford",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; Superintendent of the Amethyst Mine in 1947, known to all as \"I.D.\"; rigged his own pickup with a homemade steam-injection device for better traction in wet weather, but never patented it." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; Superintendent of the Amethyst Mine in 1947, known to all as \"I.D.\"; rigged his own pickup with a homemade steam-injection device for better traction in wet weather, but never patented it." },
+      { "url": "/writings/please-go-to-hell/the-hog-killin-and-pass-the-chicken-zero/", "label": "As Superintendent, gave John an ultimatum in \"Pass the Chicken, Zero\": get Zero Ott and George Hatfield back on the job by Monday or he'd fire them. He kept his word." }
     ]
   },
   "glenn-archer": {
     "name": "Glenn Archer",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; Foreman at the Amethyst Mine in 1947, one of the most helpful leaders John worked under, who couldn't adjust to retirement and took a job sinking a winze near Idaho Springs — until he was let go after two weeks." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; Foreman at the Amethyst Mine in 1947, one of the most helpful leaders John worked under, who couldn't adjust to retirement and took a job sinking a winze near Idaho Springs — until he was let go after two weeks." },
+      { "url": "/writings/please-go-to-hell/the-deserter/", "label": "As foreman, told John and Gavin Skinner that military policemen had come asking after a newcomer known as \"Sandy\" and escorted him out of town." }
+    ]
+  },
+  "sandy-deserter": {
+    "name": "Sandy",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/the-deserter/", "label": "Named (first name only) in John Jackson's memoir \"Please Go to Hell\"; a Kentucky newcomer at the Amethyst Mine who, over months of after-shift drinking, told John and Gavin Skinner he had deserted the Army as a teenager and assumed his disqualified cousin's identity to re-enlist, going on to be wounded in Italy and fight through the Normandy landings — until military police finally caught up with him in Creede. Disambiguated by key since only a first name is given." }
     ]
   },
   "john-nelson-blacksmith": {
     "name": "John Nelson",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a blacksmith, miner, and leaser who worked in nearly every mine around Creede, learning blacksmithing after contracting silicosis young; John calls him \"the finest blacksmith around\" in his early mining years. Possibly the same person as Jack Nelson, named in \"Truth Stretchers,\" but not confirmed; disambiguated by key in the meantime." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a blacksmith, miner, and leaser who worked in nearly every mine around Creede, learning blacksmithing after contracting silicosis young; John calls him \"the finest blacksmith around\" in his early mining years. Confirmed by Shannon as a different person from Jack Nelson, named in \"Truth Stretchers\"; disambiguated by key and listed separately." }
     ]
   },
   "gus-prince": {
@@ -1343,14 +1342,37 @@
     "name": "James \"Zero\" Ott",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; with George Hatfield, one of the Amethyst Mine's stope miners in 1947, originally from Arkansas." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; with George Hatfield, one of the Amethyst Mine's stope miners in 1947, originally from Arkansas." },
+      { "url": "/writings/please-go-to-hell/the-hog-killin-and-pass-the-chicken-zero/", "label": "Central to both \"The Hog Killin' (1947)\" (George Hatfield's story of Zero's disastrous double date with his Uncle Bud to a brothel in Alamosa) and \"Pass the Chicken, Zero\" (a two-week bender with Hatfield that cost them both their jobs)." }
     ]
   },
   "george-hatfield": {
     "name": "George Hatfield",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; with James \"Zero\" Ott, one of the Amethyst Mine's stope miners in 1947, from Kentucky and, per John, one of the original feuding \"Hatfields and McCoys.\" Hired and later promoted to miner's helper by Erick Nelson. Called \"Big Kentucky\" in the manuscript's later \"The Hog Killin'\" and \"Pass the Chicken, Zero\" pieces, not yet built." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; with James \"Zero\" Ott, one of the Amethyst Mine's stope miners in 1947, from Kentucky and, per John, one of the original feuding \"Hatfields and McCoys.\" Hired and later promoted to miner's helper by Erick Nelson. Called \"Big Kentucky\" in the manuscript's \"The Hog Killin'\" and \"Pass the Chicken, Zero\"; see those pieces." },
+      { "url": "/writings/please-go-to-hell/the-hog-killin-and-pass-the-chicken-zero/", "label": "Central to both \"The Hog Killin' (1947)\" (tells the story of Zero Ott's disastrous double date with his Uncle Bud to a brothel in Alamosa) and \"Pass the Chicken, Zero\" (a two-week bender with Ott that cost them both their jobs)." }
+    ]
+  },
+  "uncle-bud": {
+    "name": "Uncle Bud",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/the-hog-killin-and-pass-the-chicken-zero/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; Zero Ott's uncle, taken by Zero to a brothel in Alamosa in \"The Hog Killin' (1947),\" as told by George Hatfield; the trip ends with a drunken car wreck into a farmer's hogs on the road home. First name only; disambiguated by key from Bud Miles, named in \"Dedication\"; no relation stated." }
+    ]
+  },
+  "celia-alamosa": {
+    "name": "Celia",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/the-hog-killin-and-pass-the-chicken-zero/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; ran a brothel in Alamosa, the destination of Zero Ott and Uncle Bud's ill-fated trip in \"The Hog Killin' (1947),\" as told by George Hatfield. First name only; disambiguated by key by location." }
+    ]
+  },
+  "george-hibler": {
+    "name": "George Hibler",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/the-hog-killin-and-pass-the-chicken-zero/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the second \"George\" present when John visited Zero Ott and George Hatfield's cabin in \"Pass the Chicken, Zero\" — not Hatfield, who calls him \"Old Hibler.\" Disambiguated by key from George Hatfield; no relation stated." }
     ]
   },
   "neil-walker": {
@@ -1406,7 +1428,7 @@
     "name": "Lee Skinner",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; Gavin Skinner's father, stoping the \"42\" vein and chute together at the Amethyst Mine in 1947; son of early-day Creede miner Wylie Skinner. Possibly the \"Lee\" recalled on John's imagined Memory Lane bus ride, also in this piece; no relation confirmed." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; Gavin Skinner's father, stoping the \"42\" vein and chute together at the Amethyst Mine in 1947; son of early-day Creede miner Wylie Skinner." }
     ]
   },
   "wylie-skinner": {
