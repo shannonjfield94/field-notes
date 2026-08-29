@@ -1284,7 +1284,8 @@
     "name": "Erick W. Nelson",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; General Manager of the Amethyst Mine in 1947, a self-taught geologist John calls \"one of the very finest individuals I have known\"; also elevated George Hatfield from tramming to miner's helper." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; General Manager of the Amethyst Mine in 1947, a self-taught geologist John calls \"one of the very finest individuals I have known\"; also elevated George Hatfield from tramming to miner's helper." },
+      { "url": "/writings/please-go-to-hell/black-pitch-wins-again/", "label": "Survived a runaway 1948 Ford pickup's wild wreck on Black Pitch grade with Scooter Jackson, in \"Black Pitch Wins Again,\" with only bruised ribs and a sprained thumb." }
     ]
   },
   "isaac-d-crawford": {
@@ -1292,7 +1293,8 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; Superintendent of the Amethyst Mine in 1947, known to all as \"I.D.\"; rigged his own pickup with a homemade steam-injection device for better traction in wet weather, but never patented it." },
-      { "url": "/writings/please-go-to-hell/the-hog-killin-and-pass-the-chicken-zero/", "label": "As Superintendent, gave John an ultimatum in \"Pass the Chicken, Zero\": get Zero Ott and George Hatfield back on the job by Monday or he'd fire them. He kept his word." }
+      { "url": "/writings/please-go-to-hell/the-hog-killin-and-pass-the-chicken-zero/", "label": "As Superintendent, gave John an ultimatum in \"Pass the Chicken, Zero\": get Zero Ott and George Hatfield back on the job by Monday or he'd fire them. He kept his word." },
+      { "url": "/writings/please-go-to-hell/black-pitch-wins-again/", "label": "Helped skid and right an overturned truck's wreck on Black Pitch grade in 1958, in \"Black Pitch Wins Again,\" then towed the wrecked party over the steepest grades to the Midwest Mine." }
     ]
   },
   "glenn-archer": {
@@ -1499,6 +1501,13 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the Rainbow Bar & Grill's owner, a transplant from Denver whose needling about John's father's taxes led to a comic, snow-slick fistfight he lost to barber Van. Disambiguated by key from Bob Oates, also named in this piece, and from Bob Manning, named in John's 1988 tribute to Joel; no relation stated." }
+    ]
+  },
+  "will-kroll": {
+    "name": "Will Kroll",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/black-pitch-wins-again/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; bought and drove for many years the repaired 1948 Ford pickup that survived a near-fatal wreck on Black Pitch grade, in \"Black Pitch Wins Again.\"" }
     ]
   }
 }
