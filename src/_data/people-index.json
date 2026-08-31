@@ -664,7 +664,8 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; helped Les Turnipseed raise his television antenna, an attempt that ended when the assembly came crashing down in a gust of wind." },
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; one of the old friends and \"pards\" John imagines rejoining, seated with Freddie Seyfried, on his imagined Memory Lane bus ride." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; one of the old friends and \"pards\" John imagines rejoining, seated with Freddie Seyfried, on his imagined Memory Lane bus ride." },
+      { "url": "/writings/please-go-to-hell/pards/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the subject of \"Pards,\" one of three children raised by their widowed mother, Alma Wintz Dooley, after their father's early death; became John's stope partner in the mines and, as a boy, looked out for a poorer friend, Harry Bucher." }
     ]
   },
   "gene-wardell": {
@@ -1509,6 +1510,41 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/black-pitch-wins-again/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; bought and drove for many years the repaired 1948 Ford pickup that survived a near-fatal wreck on Black Pitch grade, in \"Black Pitch Wins Again.\"" }
+    ]
+  },
+  "alma-wintz-dooley": {
+    "name": "Alma Wintz Dooley",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/pards/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the widowed mother of Eugene, Floyd, and Nora Dooley in \"Pards,\" described as a loving, hard-working woman from a pioneer Creede family." }
+    ]
+  },
+  "eugene-dooley": {
+    "name": "Eugene Dooley",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/pards/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; one of Alma Wintz Dooley's three children in \"Pards,\" raised with his siblings Floyd and Nora after their father's early death." }
+    ]
+  },
+  "nora-dooley": {
+    "name": "Nora Dooley",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/pards/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; one of Alma Wintz Dooley's three children in \"Pards,\" raised with her siblings Eugene and Floyd after their father's early death." }
+    ]
+  },
+  "harry-bucher": {
+    "name": "Harry Bucher",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/pards/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a thin, deep-voiced boy from a large, poor family that arrived in Creede in the 1930s, and Floyd Dooley's protected friend, always cast as the hero, \"White Hat,\" in their boyhood games." }
+    ]
+  },
+  "red-dooley-family-friend": {
+    "name": "Red",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/pards/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; recalled alongside Alma Wintz Dooley in \"Pards\" as coming from a pioneer Creede family. Disambiguated by key from Red Ewell and Red Johnson, also named in the memoir; no relation stated, surname not given." }
     ]
   }
 }
