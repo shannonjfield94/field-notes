@@ -627,7 +627,8 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; with Leo \"Hoot\" Moore, credited with bringing Creede's first snowy television images by scouting mountain signal sites with a Jeep, generator, and small set." },
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; recalled with the Johnsons, Tom and Red, among the old friends and \"pards\" on John's imagined Memory Lane bus ride." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; recalled with the Johnsons, Tom and Red, among the old friends and \"pards\" on John's imagined Memory Lane bus ride." },
+      { "url": "/writings/please-go-to-hell/pat-shorty-and-dunk/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; with Shorty Dunkel, one of the two miners whose infectious good cheer John most looked forward to seeing at the start of a shift." }
     ]
   },
   "leo-hoot-moore": {
@@ -1339,7 +1340,8 @@
     "name": "Shorty Dunkel",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; one of the Amethyst Mine's best stope miners in 1947, paired with the hard-drinking Red Johnson though he never touched alcohol himself; John never saw him without a smile. His son Paul, later known as \"Dunk,\" is a central figure in the manuscript's \"Pat, Shorty and Dunk,\" not yet built." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; one of the Amethyst Mine's best stope miners in 1947, paired with the hard-drinking Red Johnson though he never touched alcohol himself; John never saw him without a smile." },
+      { "url": "/writings/please-go-to-hell/pat-shorty-and-dunk/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; with Pat Patten, one of the two miners whose infectious good cheer John most looked forward to seeing at the start of a shift. His son, Paul \"Dunk\" Dunkel, is a central figure in the same piece." }
     ]
   },
   "james-zero-ott": {
@@ -1545,6 +1547,13 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/pards/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; recalled alongside Alma Wintz Dooley in \"Pards\" as coming from a pioneer Creede family. Disambiguated by key from Red Ewell and Red Johnson, also named in the memoir; no relation stated, surname not given." }
+    ]
+  },
+  "paul-dunk-dunkel": {
+    "name": "Paul \"Dunk\" Dunkel",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/pat-shorty-and-dunk/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; Shorty Dunkel's son, a methodical novice tunneler whose common sense about which end of a dynamite stick to tamp first proved out over a DuPont engineer's own instructions, measured with a steel tape. Still called \"Dunk\" as an adult, later a miner at the Equity Mine." }
     ]
   }
 }
