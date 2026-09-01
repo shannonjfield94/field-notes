@@ -886,7 +886,8 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; with his wife Annie, one of the two couples John names as Creede's most graceful dancers, a smooth and graceful waltzer. No confirmed relation to Clinton Fairchild, also named in the manuscript." },
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; recalled as \"Barney Fairchild,\" with Bud Miles and Donald Powell, among the old friends and \"pards\" on John's imagined Memory Lane bus ride." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; recalled as \"Barney Fairchild,\" with Bud Miles and Donald Powell, among the old friends and \"pards\" on John's imagined Memory Lane bus ride." },
+      { "url": "/writings/please-go-to-hell/quirks-of-the-trade/", "label": "Named in John Jackson's memoir \"Please Go to Hell\" as \"Byron 'Barney' Fairchild\"; in \"Quirks of the Trade,\" scowled the whole time he was underground and lit up the moment he saw daylight." }
     ]
   },
   "annie-fairchild": {
@@ -1218,7 +1219,8 @@
     "name": "Norman Birdsey",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; recalled with Gene Wardell waiting on Commodore on John's imagined Memory Lane bus ride. Disambiguated by key from Sam Birdsey, Garnet Birdsey, and Fred \"Soapy\" Birdsey, also named in the manuscript; likely the same extended family, no relation stated." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; recalled with Gene Wardell waiting on Commodore on John's imagined Memory Lane bus ride. Disambiguated by key from Sam Birdsey, Garnet Birdsey, and Fred \"Soapy\" Birdsey, also named in the manuscript; likely the same extended family, no relation stated." },
+      { "url": "/writings/please-go-to-hell/quirks-of-the-trade/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; in \"Quirks of the Trade,\" his cap and headlamp would never point straight underground, a fixed quirk John could never talk him out of." }
     ]
   },
   "billy-weaver": {
@@ -1290,7 +1292,8 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; General Manager of the Amethyst Mine in 1947, a self-taught geologist John calls \"one of the very finest individuals I have known\"; also elevated George Hatfield from tramming to miner's helper." },
-      { "url": "/writings/please-go-to-hell/black-pitch-wins-again/", "label": "Survived a runaway 1948 Ford pickup's wild wreck on Black Pitch grade with Scooter Jackson, in \"Black Pitch Wins Again,\" with only bruised ribs and a sprained thumb." }
+      { "url": "/writings/please-go-to-hell/black-pitch-wins-again/", "label": "Survived a runaway 1948 Ford pickup's wild wreck on Black Pitch grade with Scooter Jackson, in \"Black Pitch Wins Again,\" with only bruised ribs and a sprained thumb." },
+      { "url": "/writings/please-go-to-hell/quirks-of-the-trade/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; in \"Quirks of the Trade,\" his bushy moustache served as an early-warning system — blown out and up when he was riled." }
     ]
   },
   "isaac-d-crawford": {
@@ -1598,6 +1601,13 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/slim-anderson/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the subject of Pete Walker's account of catching Slim Anderson with her on the porch above the stairs at the Elks Bar." }
+    ]
+  },
+  "jim-morrow": {
+    "name": "Jim Morrow",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/quirks-of-the-trade/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a young fellow from New Mexico John hired in 1968 to help drive the Midwest tunnel, one of the most dependable and hardest working men John knew, notorious for suppressing his sneezes almost to the point of self-injury." }
     ]
   }
 }
