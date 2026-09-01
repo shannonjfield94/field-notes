@@ -1609,5 +1609,33 @@
     "appearances": [
       { "url": "/writings/please-go-to-hell/quirks-of-the-trade/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a young fellow from New Mexico John hired in 1968 to help drive the Midwest tunnel, one of the most dependable and hardest working men John knew, notorious for suppressing his sneezes almost to the point of self-injury." }
     ]
+  },
+  "bill-gydesen": {
+    "name": "Bill Gydesen",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/bill-gydesen/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a Gunnison-area consulting client and friend John met through geologist Steve Zahony in 1979, a self-taught mine owner who tempted fate more than anyone John knew — working a bulldozer on a broken ankle, surviving a burst aortic aneurysm, and much else besides." }
+    ]
+  },
+  "steve-zahony": {
+    "name": "Steve Zahony",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/bill-gydesen/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a Denver consulting geologist John first worked with in 1979 on a project near Crested Butte, through whom he met Bill Gydesen." }
+    ]
+  },
+  "bob-bill-gydesens-son": {
+    "name": "Bob",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/bill-gydesen/", "label": "Named (first name only) in John Jackson's memoir \"Please Go to Hell\"; Bill Gydesen's son, with whom Bill formed a construction and excavating company that gave them the tools to start mining. Disambiguated by key since only a first name is given." }
+    ]
+  },
+  "betty-bill-gydesens-wife": {
+    "name": "Betty",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/bill-gydesen/", "label": "Named (first name only) in John Jackson's memoir \"Please Go to Hell\"; Bill Gydesen's wife, who nursed him through his later operations and recoveries. Disambiguated by key since only a first name is given." }
+    ]
   }
 }
