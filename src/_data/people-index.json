@@ -181,7 +181,8 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel; serving on Guam alongside William Charles \"Scoot\" Jackson during the Saipan/Tinian fighting" },
-      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; hauled ore from several mines with Slim Blackford and Charles Slaght, rounding out Slim's working career in Creede." }
+      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; hauled ore from several mines with Slim Blackford and Charles Slaght, rounding out Slim's working career in Creede." },
+      { "url": "/writings/please-go-to-hell/slim-anderson/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; caught Slim Anderson with Millie Kistler on the porch above the stairs at the Elks Bar, then disputed with him afterward over exactly how many steps it took him to \"disengage.\"" }
     ]
   },
   "toots-matzen": {
@@ -955,7 +956,8 @@
     "name": "Sam Birdsey",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; with his wife Garnet, held well-attended square dances in their garage that taught many Creede youngsters to \"Dosey Do and Swing their Partners\" in the 1950s. No confirmed relation to Fred \"Soapy\" Birdsey, also named in the manuscript." }
+      { "url": "/writings/please-go-to-hell/lets-dance-and-slim-blackford/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; with his wife Garnet, held well-attended square dances in their garage that taught many Creede youngsters to \"Dosey Do and Swing their Partners\" in the 1950s. No confirmed relation to Fred \"Soapy\" Birdsey, also named in the manuscript." },
+      { "url": "/writings/please-go-to-hell/slim-anderson/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; as county roads supervisor, assigned Slim Anderson to widen a curve by the Midwest Mine for better access." }
     ]
   },
   "garnet-birdsey": {
@@ -1554,6 +1556,48 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/pat-shorty-and-dunk/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; Shorty Dunkel's son, a methodical novice tunneler whose common sense about which end of a dynamite stick to tamp first proved out over a DuPont engineer's own instructions, measured with a steel tape. Still called \"Dunk\" as an adult, later a miner at the Equity Mine." }
+    ]
+  },
+  "slim-anderson": {
+    "name": "Slim Anderson",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/slim-anderson/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the story's namesake, a professional horseman and thirty-year friend of John's who was as reckless behind the wheel of a bulldozer as he was skilled on a horse; needled John from a pallbearers' limousine and settled a bar-room dispute over being caught with Millie Kistler." }
+    ]
+  },
+  "joe-doney": {
+    "name": "Joe Doney",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/slim-anderson/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the mortician driving the pallbearers' limousine at Ivan's funeral, visibly rattled by Slim Anderson's needling of John along the way." }
+    ]
+  },
+  "ivan-creede-miner": {
+    "name": "Ivan",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/slim-anderson/", "label": "Named (first name only) in John Jackson's memoir \"Please Go to Hell\"; the Creede miner whose funeral John and Slim Anderson served as pallbearers for. Disambiguated by key since only a first name is given." }
+    ]
+  },
+  "marge-hearse-companion": {
+    "name": "Marge",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/slim-anderson/", "label": "Named (first name only) in John Jackson's memoir \"Please Go to Hell\"; rode back to the church in the hearse with John after mortician Joe Doney's apology for seating him with Slim Anderson. No relation to Ivan is stated. Disambiguated by key since only a first name is given." }
+    ]
+  },
+  "emil-slim-andersons-father": {
+    "name": "Emil",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/slim-anderson/", "label": "Named (first name only) in John Jackson's memoir \"Please Go to Hell\"; Slim Anderson's father, who first brought Slim to Creede to visit John's grandfather and other old timers, beginning a friendship that lasted over thirty years. Disambiguated by key since only a first name is given." }
+    ]
+  },
+  "millie-kistler": {
+    "name": "Millie Kistler",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/slim-anderson/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the subject of Pete Walker's account of catching Slim Anderson with her on the porch above the stairs at the Elks Bar." }
     ]
   }
 }
