@@ -1732,5 +1732,26 @@
     "appearances": [
       { "url": "/writings/please-go-to-hell/the-price-of-glory/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a Union Supply Company salesman and \"veteran tippler\" who added his own bottle to the impromptu drinking session at Tomkins Hardware." }
     ]
+  },
+  "john-martin": {
+    "name": "John Martin",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/the-coldest-day-and-the-hottest-day/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a neighboring rancher southwest of the Jacksons' place on Cebolla Creek, who drove past John floundering in the icy creek in January 1994 without realizing anything was wrong, in \"The Coldest Day.\"" }
+    ]
+  },
+  "bobbie-martin": {
+    "name": "Bobbie Martin",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/the-coldest-day-and-the-hottest-day/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; John Martin's wife, to whom he related the story of John floundering in the icy creek, in \"The Coldest Day.\"" }
+    ]
+  },
+  "anne-dutka": {
+    "name": "Anne Dutka",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/the-coldest-day-and-the-hottest-day/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a geologist working with John on a temporary basis for Freeport Exploration Company, running grid lines and soil samples on a South Dakota gold prospect with him in August 1981, in \"The Hottest Day.\"" }
+    ]
   }
 }
