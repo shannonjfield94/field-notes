@@ -93,7 +93,8 @@
       { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Accompanies John to Denver's first 3D movie and to her family's home in Cherryvale, Kansas, where the family saw their first television, Christmas 1951" },
       { "url": "/writings/please-go-to-hell/when-you-would-like-to-live-forever/", "label": "Packs John's gear and joins him fishing at Wyley Lakes and the headwaters of Rat Creek in the late 1950s and 1960s, preferring grasshoppers as bait" },
       { "url": "/writings/please-go-to-hell/reflections-and-hindsight/", "label": "Named in John's closing \"Hindsight\" essay as the one decision he never regretted; married fifty-one years" },
-      { "url": "/writings/please-go-to-hell/wormology/", "label": "Named alongside John in the opening line of \"Wormology,\" recalling their early married life with no indoor plumbing" }
+      { "url": "/writings/please-go-to-hell/wormology/", "label": "Named alongside John in the opening line of \"Wormology,\" recalling their early married life with no indoor plumbing" },
+      { "url": "/writings/please-go-to-hell/the-price-of-glory/", "label": "Named at the opening of \"The Price of Glory,\" recalling the many moves she and John made together after leaving Creede." }
     ]
   },
   "sue-steward": {
@@ -498,7 +499,8 @@
     "appearances": [
       { "url": "/people/alice-josephine-davis/#pauline-roberta-jackson-bates", "label": "Child of Alice Josephine Davis and William Thomas Jackson. Living; identifying details withheld per Shannon's request to protect a living family member's privacy." },
       { "url": "/writings/please-go-to-hell/", "label": "Shannon's mother; credited co-author of her brother John's memoir \"Please Go to Hell,\" introduced by name in the manuscript's Prologue to the Preface. Living; identifying details withheld as elsewhere on the site." },
-      { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; accompanies the family to Denver's first 3D movie, where she screams and spills her drink when an actor throws a chair toward the audience." }
+      { "url": "/writings/please-go-to-hell/the-talking-picture-box/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; accompanies the family to Denver's first 3D movie, where she screams and spills her drink when an actor throws a chair toward the audience." },
+      { "url": "/writings/please-go-to-hell/the-price-of-glory/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a student at the Creede schoolhouse where her brother's drunken barrel mishap came to a stop, in full view of her peers, teachers, and the resident minister." }
     ]
   },
   "joel-thomas-jackson": {
@@ -698,7 +700,8 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/when-you-would-like-to-live-forever/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; owner/manager of Tomkins Hardware Company in Creede, who told John and Les Turnipseed about the stocked high-country lake that turned out to be Trinity Lake." },
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; one of \"these McClure men,\" with Harry and John, recalled on John's imagined Memory Lane bus ride as having \"drilled a million holes.\"" }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; one of \"these McClure men,\" with Harry and John, recalled on John's imagined Memory Lane bus ride as having \"drilled a million holes.\"" },
+      { "url": "/writings/please-go-to-hell/the-price-of-glory/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; excused himself from a growing drinking session at Tomkins Hardware and came back with a quart, part of the bender that led to John's drunken barrel mishap." }
     ]
   },
   "carroll-wetherill": {
@@ -1686,6 +1689,48 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/bullseye-creede/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a geology graduate student who chose the Creede District as his thesis area for Homestake Mining Company and, mapping near John's own claims in the spring of 1964, discovered the wreckage of a runaway Pershing missile that had nearly struck the town months earlier, in \"Bullseye Creede.\"" }
+    ]
+  },
+  "jim-basham": {
+    "name": "Jim Basham",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/the-price-of-glory/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a friend whose deadpan advice that \"you have to move where they grow kids\" is John's tongue-in-cheek explanation for his and Inez's many moves after leaving Creede." }
+    ]
+  },
+  "t-black": {
+    "name": "T. Black",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/the-price-of-glory/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; present-day owner, so John was told, of one of his former Creede homes, now known locally as the \"Cajun Embassy.\" John never knew him personally." }
+    ]
+  },
+  "mike-mcclure": {
+    "name": "Mike McClure",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/the-price-of-glory/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; one of the Creede old-timers who kept reminding John, on his return visits, of his local fame for wrapping a barrel around his truck's axle while drunk." }
+    ]
+  },
+  "bill-kolisch": {
+    "name": "Bill Kolisch",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/the-price-of-glory/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; Creede's town Marshal and John's old friend, who found him resting in a snowbank after his drunken barrel mishap and delivered him to his wife rather than a jail cell." }
+    ]
+  },
+  "fred-ryden": {
+    "name": "Fred Ryden",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/the-price-of-glory/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; Creede's druggist and an avid prospector himself, who supplied — and then joined — the drinking session that led to John's barrel mishap." }
+    ]
+  },
+  "newt-turnquist": {
+    "name": "Newt Turnquist",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/the-price-of-glory/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a Union Supply Company salesman and \"veteran tippler\" who added his own bottle to the impromptu drinking session at Tomkins Hardware." }
     ]
   }
 }
