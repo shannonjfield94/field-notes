@@ -1665,5 +1665,19 @@
     "appearances": [
       { "url": "/writings/please-go-to-hell/sit-down-senator/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a heavy equipment operator and coworker of John's on a 1977 Nevada gold exploration job, who stood up and told a long-winded senator at an environmental hearing to sit down. Disambiguated by key as a third \"Slim\" on the site, after Slim Blackford and Slim Anderson; no relation stated." }
     ]
+  },
+  "bob-machinery-salesman": {
+    "name": "Bob",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/etiquette-and-reverse-etiquette/", "label": "Named (first name only) in John Jackson's memoir \"Please Go to Hell\"; a salesman for a Denver mining-machinery company who came to dinner at John and Inez's home and, with a pair of loud belches, taught them an unintended lesson in etiquette, in \"Etiquette.\" Disambiguated by key from Bob Manning, Bob Oates, the Rainbow Bar & Grill's Bob, and Bill Gydesen's son Bob, also named on the site; no relation stated." }
+    ]
+  },
+  "mr-james": {
+    "name": "Mr. James",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/etiquette-and-reverse-etiquette/", "label": "Named (surname only) in John Jackson's memoir \"Please Go to Hell\"; a mine promoter John became acquainted with in 1949, full of big talk about a mill that would make them millionaires, until Inez ended his last visit with a scoop shovel, in \"Reverse Etiquette.\"" }
+    ]
   }
 }
