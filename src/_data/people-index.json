@@ -1107,7 +1107,8 @@
     "name": "Tommy Phillips",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; recalled among the old friends and \"pards\" on John's imagined Memory Lane bus ride, and, in \"The Amethyst Crew '1947,'\" a leaser with Dick Lehman who ran the first diesel bulldozer in Mineral County in 1936 and later became a very able foreman." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; recalled among the old friends and \"pards\" on John's imagined Memory Lane bus ride, and, in \"The Amethyst Crew '1947,'\" a leaser with Dick Lehman who ran the first diesel bulldozer in Mineral County in 1936 and later became a very able foreman." },
+      { "url": "/writings/please-go-to-hell/bullseye-creede/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; Creede's Marshal and maintenance man, flown in by helicopter with the town's metal detector to pinpoint the buried nose cone of a runaway Pershing missile after grad student Maurice Chaffee found the wreckage, in \"Bullseye Creede.\"" }
     ]
   },
   "lane-mining-pair": {
@@ -1678,6 +1679,13 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/etiquette-and-reverse-etiquette/", "label": "Named (surname only) in John Jackson's memoir \"Please Go to Hell\"; a mine promoter John became acquainted with in 1949, full of big talk about a mill that would make them millionaires, until Inez ended his last visit with a scoop shovel, in \"Reverse Etiquette.\"" }
+    ]
+  },
+  "maurice-chaffee": {
+    "name": "Maurice Chaffee",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/please-go-to-hell/bullseye-creede/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a geology graduate student who chose the Creede District as his thesis area for Homestake Mining Company and, mapping near John's own claims in the spring of 1964, discovered the wreckage of a runaway Pershing missile that had nearly struck the town months earlier, in \"Bullseye Creede.\"" }
     ]
   }
 }
