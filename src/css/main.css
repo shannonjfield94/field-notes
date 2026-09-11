@@ -1127,6 +1127,24 @@ blockquote p:last-child {
   margin: var(--space-2xl) auto 0;
   padding: var(--space-lg) var(--space-lg) 0;
   border-top: 1px solid var(--color-border);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: var(--space-md);
+}
+
+.source-doc-nextlink {
+  display: inline-block;
+  font-family: var(--font-sans);
+  font-size: var(--text-sm);
+  color: var(--color-accent);
+  text-decoration: none;
+  margin-bottom: var(--space-md);
+  margin-left: auto;
+}
+
+.source-doc-nextlink:hover {
+  text-decoration: underline;
 }
 
 /* ── Sensitivity flag — index cards ─────────── */
