@@ -1122,6 +1122,68 @@ blockquote p:last-child {
   margin-bottom: 0;
 }
 
+/* --- Footnotes: a labeled "Notes" block, set apart from narrative --- */
+.source-doc-notes {
+  margin-top: var(--space-xl);
+  margin-bottom: var(--space-xl);
+  padding-top: var(--space-md);
+  border-top: 1px solid var(--color-note-border);
+}
+
+.source-doc-notes:last-child {
+  margin-bottom: 0;
+}
+
+.source-doc-notes::before {
+  content: "Notes";
+  display: block;
+  font-family: var(--font-sans);
+  font-size: var(--text-sm);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-muted);
+  margin-bottom: var(--space-sm);
+}
+
+.source-doc-notes .source-doc-note {
+  font-family: var(--font-sans);
+  font-size: var(--text-sm);
+  font-style: italic;
+  color: var(--color-muted);
+  margin-bottom: var(--space-sm);
+}
+
+.source-doc-notes .source-doc-note:last-child {
+  margin-bottom: 0;
+}
+
+/* --- Poems: set off with a rule above and below, echoing the
+   .source-doc-notes treatment rather than a boxed-in card --- */
+.source-doc-poem {
+  margin: var(--space-xl) 0;
+  padding: var(--space-lg) 0;
+  border-top: 1px solid var(--color-note-border);
+  border-bottom: 1px solid var(--color-note-border);
+}
+
+.source-doc-poem p {
+  margin-bottom: var(--space-md);
+}
+
+.source-doc-poem p:last-child {
+  margin-bottom: 0;
+}
+
+.source-doc-signature {
+  display: block;
+  margin-top: var(--space-md);
+  text-align: right;
+  font-family: var(--font-sans);
+  font-size: var(--text-sm);
+  font-style: italic;
+  color: var(--color-muted);
+}
+
 .source-doc-footer {
   max-width: 860px;
   margin: var(--space-2xl) auto 0;
