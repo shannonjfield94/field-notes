@@ -83,7 +83,8 @@
       { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel; downed by Japanese fire on Saipan or Tinian" },
       { "url": "/people/anna-maud-woodruff/", "label": "Grandson of Anna Maud Woodruff, named for his uncle Lee Roy Woodruff, in the note for his father John Franklin \"Frank\" Davis" },
       { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named as \"Lee\" in John Jackson's memoir \"Please Go to Hell\"; recalled among the old friends John imagines rejoining near the end of old Amethyst Way on his bus ride down Memory Lane. Confirmed by Shannon as this same Lee Davis, not Lee Skinner, also named in \"The Amethyst Crew '1947.'\"" },
-      { "url": "/writings/once-around-the-thunder-mug/from-the-womb-to-the-real-world/", "label": "Named in Chapter I of \"Once Around the Thunder Mug\" as the author's and Scooter's companion on rock-throwing expeditions to Gus Haigner's and the lumber shed, and photographed with a sheepherder's burro named Dynamite." }
+      { "url": "/writings/once-around-the-thunder-mug/from-the-womb-to-the-real-world/", "label": "Named in Chapter I of \"Once Around the Thunder Mug\" as the author's and Scooter's companion on rock-throwing expeditions to Gus Haigner's and the lumber shed, and photographed with a sheepherder's burro named Dynamite." },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\" among the boys spellbound by Tanana Cimarron's campfire stories, one of the group with cowboy chaps in \"Cowboys and Gentlemen,\" and photographed in \"The Ranch Hands\" with Scooter, Joey, and Raymond Lane." }
     ]
   },
   "inez-mae-schriver": {
@@ -207,7 +208,8 @@
     "name": "Hurtha Duncan",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel; worked alongside him at the Federal Fish Hatchery in Creede, ca. 1938–1941" }
+      { "url": "/joel-jackson-tribute/", "label": "Named in John Jackson's 1988 tribute to Joel; worked alongside him at the Federal Fish Hatchery in Creede, ca. 1938–1941" },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\" as one of the Duncan siblings — with Gordon, Cloy, and James — who joined the mesa platoon after their father Alex Duncan moved to a house across the gulch from Frank Davis." }
     ]
   },
   "johnny-weaver": {
@@ -223,7 +225,8 @@
     "appearances": [
       { "url": "/people/anna-maud-woodruff/#charles-lane", "label": "Second husband of Anna Maud Woodruff, married 9 Sep 1920" },
       { "url": "/writings/please-go-to-hell/mom-jo-and-grandma-lane/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; married Anna Maud after buying the old Gardnier homestead, where they ran a firewood and mine-prop business" },
-      { "url": "/writings/please-go-to-hell/hellions-and-moonshiners/", "label": "Referred to only as \"my grandfather\" in John Jackson's account of the Snowshoe Mountain moonshiners; confirmed by Shannon (27 Aug 2026) to be Charles Lane." }
+      { "url": "/writings/please-go-to-hell/hellions-and-moonshiners/", "label": "Referred to only as \"my grandfather\" in John Jackson's account of the Snowshoe Mountain moonshiners; confirmed by Shannon (27 Aug 2026) to be Charles Lane." },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Called \"Granddad Lane\" throughout Chapter II of \"Once Around the Thunder Mug,\" in \"Grandparents, the Building Blocks\"; a wood and mine-prop supplier on his 160-acre Moonshine Mesa homestead, remembered for wild wagon rides after too much time in Phillips Beer Parlor, folksy wisdom about not making \"a brood mare out of a good riding horse,\" and standing armed guard over his grain fields each June against passing sheep herds with his 30-30 Winchester." }
     ]
   },
   "john-franklin-davis": {
@@ -231,7 +234,8 @@
     "tags": ["family"],
     "appearances": [
       { "url": "/people/anna-maud-woodruff/#john-franklin-davis", "label": "Child of Anna Maud Woodruff and Robert Abraham Lincoln Davis" },
-      { "url": "/writings/once-around-the-thunder-mug/from-the-womb-to-the-real-world/", "label": "Called \"Uncle Frank Davis\" in Chapter I of \"Once Around the Thunder Mug\"; married to \"Aunt Caroline,\" whose kitchen and homemade bread the author visited often, and photographed with her and two of their children, Polly and Nancy." }
+      { "url": "/writings/once-around-the-thunder-mug/from-the-womb-to-the-real-world/", "label": "Called \"Uncle Frank Davis\" in Chapter I of \"Once Around the Thunder Mug\"; married to \"Aunt Caroline,\" whose kitchen and homemade bread the author visited often, and photographed with her and two of their children, Polly and Nancy." },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named as \"Frank Davis\" in Chapter II of \"Once Around the Thunder Mug\"; Alex Duncan moved to a house across the gulch from him." }
     ]
   },
   "edna-rosamond-davis": {
@@ -254,7 +258,8 @@
     "appearances": [
       { "url": "/people/anna-maud-woodruff/#albert-woodruff-davis", "label": "Child of Anna Maud Woodruff and Robert Abraham Lincoln Davis" },
       { "url": "/writings/please-go-to-hell/family-and-brothers/", "label": "Known to family as \"Uncle Woody\"; named in his nephew John Jackson's memoir \"Please Go to Hell\" — stayed with the Jackson family in the early 1930s, teaching Joel a riddle that nearly got him expelled from school. Confirmed by Shannon as the same person." },
-      { "url": "/writings/once-around-the-thunder-mug/from-the-womb-to-the-real-world/", "label": "Called \"Uncle Woodruff Davis\" and \"Uncle Woody\" in Chapter I of \"Once Around the Thunder Mug\"; built Joel a beanie flipper from a forked willow limb and inner tube rubber, which Joel used to spook the Allen sisters' dairy herd." }
+      { "url": "/writings/once-around-the-thunder-mug/from-the-womb-to-the-real-world/", "label": "Called \"Uncle Woodruff Davis\" and \"Uncle Woody\" in Chapter I of \"Once Around the Thunder Mug\"; built Joel a beanie flipper from a forked willow limb and inner tube rubber, which Joel used to spook the Allen sisters' dairy herd." },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Called \"Uncle Woody\" in Chapter II of \"Once Around the Thunder Mug\"; bypassed the family's electric meter and learned to roll back its kilowatt-hour reading, to town electrician Ivan Weaver's chagrin." }
     ]
   },
   "arthur-m-davis": {
@@ -292,14 +297,16 @@
     "tags": ["family"],
     "appearances": [
       { "url": "/people/anna-maud-woodruff/#charlotte-florella-lane", "label": "Child of Anna Maud Woodruff and Charles Lane" },
-      { "url": "/writings/please-go-to-hell/mom-jo-and-grandma-lane/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; close in age to her nephew John and raised alongside him on the Lane ranch" }
+      { "url": "/writings/please-go-to-hell/mom-jo-and-grandma-lane/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; close in age to her nephew John and raised alongside him on the Lane ranch" },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Called \"Charlotte Lane\" in Chapter II of \"Once Around the Thunder Mug\"; the author's regular companion driving cattle to and from the Broadhead Ranch bull, fishing at the Broadhead lake, and, in \"Birthday Cakes and Pucker Power,\" pushing and pulling a one-horse buggy for miles of rutted road between neighboring ranches." }
     ]
   },
   "raymond-lane": {
     "name": "Raymond Lane",
     "tags": ["family"],
     "appearances": [
-      { "url": "/people/anna-maud-woodruff/#raymond-lane", "label": "Charles Lane's son by a prior marriage, adopted by Anna Maud Woodruff per family account and the 1930 census" }
+      { "url": "/people/anna-maud-woodruff/#raymond-lane", "label": "Charles Lane's son by a prior marriage, adopted by Anna Maud Woodruff per family account and the 1930 census" },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\"; rode bareback leading the author and Charlotte on trips to the Broadhead Ranch bull and fished with the author at the Broadhead lake." }
     ]
   },
   "henry-fry": {
@@ -607,7 +614,8 @@
     "name": "Fred \"Soapy\" Birdsey",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/digging-for-the-truth/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the family friend whose account of William Thomas Jackson Sr.'s commitment, and blunt verdict \u2014 \"He was crazier than hell!\" \u2014 is the memoir's primary source for the story." }
+      { "url": "/writings/please-go-to-hell/digging-for-the-truth/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the family friend whose account of William Thomas Jackson Sr.'s commitment, and blunt verdict \u2014 \"He was crazier than hell!\" \u2014 is the memoir's primary source for the story." },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named as \"Soapy\" in Chapter II of \"Once Around the Thunder Mug,\" in \"Lessons From a Barber's Chair\"; ran a barbershop and nightly poker game at the lower end of the BPO Elks building, exacted a dollar-an-inch penalty for torn pool table felt, and beat a cocky young challenger in an exhibition pool game after letting him break." }
     ]
   },
   "alexander-holmes-major": {
@@ -700,7 +708,8 @@
     "name": "Robert Abraham Lincoln Davis",
     "tags": ["family"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/mom-jo-and-grandma-lane/", "label": "Named as \"Lynn Davis\" in John Jackson's memoir \"Please Go to Hell\"; Anna Maud Woodruff's first husband, from whom she divorced in Creede before he returned to his native Missouri." }
+      { "url": "/writings/please-go-to-hell/mom-jo-and-grandma-lane/", "label": "Named as \"Lynn Davis\" in John Jackson's memoir \"Please Go to Hell\"; Anna Maud Woodruff's first husband, from whom she divorced in Creede before he returned to his native Missouri." },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Called \"Grandfather Davis\" in Chapter II of \"Once Around the Thunder Mug,\" in \"Long Green and Short Stuff\"; the reluctant Missouri host of a Jackson family road trip, and pictured with his sister Aunt Mary in a nighttime photograph captioned \"Aunt Mary and Grandfather Lynn Davis.\"" }
     ]
   },
   "claude-cecil-jackson": {
@@ -760,7 +769,8 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/when-you-would-like-to-live-forever/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; hauled a wood/coal kitchen stove into Brewster Park, which the Jackson family used on their August 1947 camping trip." },
-      { "url": "/writings/once-around-the-thunder-mug/", "label": "Named in the Introduction of John's book \"Once Around the Thunder Mug\"; transported goods around Creede with a Chevrolet truck in the 1920s." }
+      { "url": "/writings/once-around-the-thunder-mug/", "label": "Named in the Introduction of John's book \"Once Around the Thunder Mug\"; transported goods around Creede with a Chevrolet truck in the 1920s." },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named with his wife Ethel in Chapter II of \"Once Around the Thunder Mug\"; tried without success to keep their son David from joining the spring cattle drive from Wason Ranch to high range." }
     ]
   },
   "gavin-skinner": {
@@ -835,14 +845,16 @@
     "name": "Howard Barber",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/hellions-and-moonshiners/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a Gardnier Gulch moonshiner and gifted storyteller who, after moonshining ended, became a Commodore Mine shifter and renewed his friendship with John underground." }
+      { "url": "/writings/please-go-to-hell/hellions-and-moonshiners/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a Gardnier Gulch moonshiner and gifted storyteller who, after moonshining ended, became a Commodore Mine shifter and renewed his friendship with John underground." },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug,\" hosting a birthday dinner for son-in-law Bob Bennett with his wife Pearl; engrossed in a hunting story, he was the first to notice \u2014 and loudly enjoy \u2014 the author's dinner-table mishap." }
     ]
   },
   "pearl-barber": {
     "name": "Pearl Barber",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/hellions-and-moonshiners/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; Howard Barber's wife, one of John's favorite people as a youngster. She and Howard lost their only son, Jimmy, to spinal meningitis in the mid-1930s." }
+      { "url": "/writings/please-go-to-hell/hellions-and-moonshiners/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; Howard Barber's wife, one of John's favorite people as a youngster. She and Howard lost their only son, Jimmy, to spinal meningitis in the mid-1930s." },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug,\" hosting a birthday dinner for son-in-law Bob Bennett with her husband Howard; tried to console the mortified author afterward with, \"slips don't count, Johnny.\"" }
     ]
   },
   "jimmy-barber": {
@@ -857,7 +869,8 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/hellions-and-moonshiners/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a French Canadian sawmiller and moonshiner, a favorite guest at the Jackson table, who died penniless as a vagrant on Larimer Street in Denver." },
-      { "url": "/writings/once-around-the-thunder-mug/from-the-womb-to-the-real-world/", "label": "Named in Chapter I of \"Once Around the Thunder Mug\"; his moonshine still was jokingly blamed, along with late-night fires, for the unplanned babies of Depression-era Creede." }
+      { "url": "/writings/once-around-the-thunder-mug/from-the-womb-to-the-real-world/", "label": "Named in Chapter I of \"Once Around the Thunder Mug\"; his moonshine still was jokingly blamed, along with late-night fires, for the unplanned babies of Depression-era Creede." },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\" in \"Bill Tingley \u2014 Sawmiller and Moonshiner,\" a French-Canadian sawmiller who lived in a one-room Creede cabin over winter, kept the author and Scooter supplied with western magazines, once nearly burned his cabin down while drunk, and suffered from a chronic hernia that periodically required a trip to a Del Norte doctor." }
     ]
   },
   "roy-raupe": {
@@ -1260,14 +1273,16 @@
     "name": "Johnny Slater",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the blacksmith recalled with Billy Weaver on John's imagined Memory Lane bus ride." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; the blacksmith recalled with Billy Weaver on John's imagined Memory Lane bus ride." },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named as \"John Slater\" in Chapter II of \"Once Around the Thunder Mug,\" visiting the Jackson home with his wife Lena the night of the author's electrical-socket mishap. Treated as the same John Slater as the blacksmith recalled elsewhere on this site as \"Johnny Slater,\" an exact full-name match in the same small town." }
     ]
   },
   "bernie-soward": {
     "name": "Bernie Soward",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; one of the old friends and \"pards\" John imagines rejoining on a bus ride down Memory Lane." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; one of the old friends and \"pards\" John imagines rejoining on a bus ride down Memory Lane." },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named as \"Bernie\" (Bernard Soward) in Chapter II of \"Once Around the Thunder Mug,\" in \"Bernie, Harry and the Blond Bomber\"; with Harry Larson, a longtime friend who struck a rich silver discovery in the \"Big Six\" tunnel of the Silver Horde Lode in Sunnyside, and whose wife's furious response to one of his morning bathroom rituals gives the story its name." }
     ]
   },
   "harry-mcclure": {
@@ -1364,7 +1379,8 @@
     "name": "Gus Swanson",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; with Gus Prince, one of the Amethyst Mine's ore sorters in 1947, hand-sorting pay ore from waste rock over the bin." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; with Gus Prince, one of the Amethyst Mine's ore sorters in 1947, hand-sorting pay ore from waste rock over the bin." },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\" as one of the regulars at Soapy Birdsey's nightly poker game; a Swedish immigrant and former weight-lifting champion who could raise a 75-pound anvil to arm's length by its horn." }
     ]
   },
   "shorty-dunkel": {
@@ -1423,7 +1439,8 @@
     "name": "Bob Oates",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a Navy veteran who survived Kamikaze attacks off Okinawa and, with Neil Walker, one of the Amethyst Mine's miners in 1947; John's regular shift partner after the war. His father, also a miner, died of a heart attack the day Bob returned from war duty." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a Navy veteran who survived Kamikaze attacks off Okinawa and, with Neil Walker, one of the Amethyst Mine's miners in 1947; John's regular shift partner after the war. His father, also a miner, died of a heart attack the day Bob returned from war duty." },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named as \"Bobby Oates\" in Chapter II of \"Once Around the Thunder Mug\"; one of the few mesa boys with gauntlet gloves, considered proof that proper cowboy apparel was all that separated them from real riders." }
     ]
   },
   "paul-weaver": {
@@ -1501,7 +1518,8 @@
     "name": "John Dabney",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; an old timer with a resort near the Continental Reservoir who worked winters in the Creede mines, driving an exploratory raise with George Logue at the Amethyst Mine in 1947." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; an old timer with a resort near the Continental Reservoir who worked winters in the Creede mines, driving an exploratory raise with George Logue at the Amethyst Mine in 1947." },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named as \"John Albert Dabney\" in Chapter II of \"Once Around the Thunder Mug\" \u2014 a fuller form of the same name used elsewhere on this site; let the mesa kids ride a steer he was fattening in a corral by the Dabney home, and, with Shirley Wills, provided saddle and bridle for the spring cattle drive." }
     ]
   },
   "tommy-thompson": {
@@ -1817,21 +1835,24 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/once-around-the-thunder-mug/", "label": "Named in the Acknowledgments of John's book \"Once Around the Thunder Mug\" with his sister Cloy, a neighbor and ally on \"the mesa\" who contributed photos and memories. Per Shannon's mother, a close family friend from Creede who stayed in touch until his death; born 2 Oct 1917 and died 7 Nov 1996, both Rio Grande County, Colorado, buried Del Norte Cemetery, per Find a Grave. His father Alex and siblings Hurtha and James also appear in the book's Chapter II, \"Of Bagpipes, Coasting and Firemen.\"" },
-      { "url": "/writings/once-around-the-thunder-mug/from-the-womb-to-the-real-world/", "label": "Credited as the source of a photograph in Chapter I of \"Once Around the Thunder Mug,\" captioned \"And still champion.\"" }
+      { "url": "/writings/once-around-the-thunder-mug/from-the-womb-to-the-real-world/", "label": "Credited as the source of a photograph in Chapter I of \"Once Around the Thunder Mug,\" captioned \"And still champion.\"" },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\" as one of the Duncan siblings — with Cloy, Hurtha, and James — who joined the mesa platoon after their father Alex Duncan moved to a house across the gulch from Frank Davis." }
     ]
   },
   "cloy-duncan": {
     "name": "Cloy Duncan",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/once-around-the-thunder-mug/", "label": "Named in the Acknowledgments of John's book \"Once Around the Thunder Mug\" with her brother Gordon Duncan, a neighbor and ally on \"the mesa\" who contributed photos and memories." }
+      { "url": "/writings/once-around-the-thunder-mug/", "label": "Named in the Acknowledgments of John's book \"Once Around the Thunder Mug\" with her brother Gordon Duncan, a neighbor and ally on \"the mesa\" who contributed photos and memories." },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\" as one of the Duncan siblings — with Gordon, Hurtha, and James — who joined the mesa platoon after their father Alex Duncan moved to a house across the gulch from Frank Davis." }
     ]
   },
   "noel-l-roberts": {
     "name": "Noel L. Roberts",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/once-around-the-thunder-mug/", "label": "Named in the Acknowledgments of John's book \"Once Around the Thunder Mug\" as a \"tough and durable 'urban Creede Hoodlum'\" who contributed photos and memories; named again in the Introduction, prospecting alongside Jack Fleming, \"only a round away from bonanzas.\"" }
+      { "url": "/writings/once-around-the-thunder-mug/", "label": "Named in the Acknowledgments of John's book \"Once Around the Thunder Mug\" as a \"tough and durable 'urban Creede Hoodlum'\" who contributed photos and memories; named again in the Introduction, prospecting alongside Jack Fleming, \"only a round away from bonanzas.\"" },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named as \"Noel 'Bo' Roberts\" in Chapter II of \"Once Around the Thunder Mug\"; joined Grant Matzen and Lee Shillings on drinking trips to Center, Saguache, and Bonanza, and photographed with Charles Lane and Charles Wanzer, a photo credited to him." }
     ]
   },
   "chuck-davlin": {
@@ -1852,7 +1873,8 @@
     "name": "Heinie Leonard",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/once-around-the-thunder-mug/", "label": "Named in the Acknowledgments of John's book \"Once Around the Thunder Mug\" with his wife Vivian." }
+      { "url": "/writings/once-around-the-thunder-mug/", "label": "Named in the Acknowledgments of John's book \"Once Around the Thunder Mug\" with his wife Vivian." },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named as \"Hendricks 'Heinie' Leonard\" in Chapter II of \"Once Around the Thunder Mug\"; Grant and Esther Matzen's nephew, who spent school vacations with his Aunt Esther and teamed with Billy Matzen to cause more trouble than the rest of the mesa kids combined; photographed with the group, credited as the photo's source." }
     ]
   },
   "vivian-leonard": {
@@ -2037,14 +2059,16 @@
     "name": "Charles Cathcart",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/once-around-the-thunder-mug/", "label": "Named in the Introduction of John's book \"Once Around the Thunder Mug\"; with his wife Annie, took honors for the largest and most varied garden in Creede, and shared milk and vegetables from their Holstein cows with neighbors." }
+      { "url": "/writings/once-around-the-thunder-mug/", "label": "Named in the Introduction of John's book \"Once Around the Thunder Mug\"; with his wife Annie, took honors for the largest and most varied garden in Creede, and shared milk and vegetables from their Holstein cows with neighbors." },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named with his wife Annie in Chapter II of \"Once Around the Thunder Mug\"; puzzled over his milk cows' contrariness on days when local kids had been secretly riding them." }
     ]
   },
   "annie-cathcart": {
     "name": "Annie Cathcart",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/once-around-the-thunder-mug/", "label": "Named in the Introduction of John's book \"Once Around the Thunder Mug\"; with her husband Charles, took honors for the largest and most varied garden in Creede." }
+      { "url": "/writings/once-around-the-thunder-mug/", "label": "Named in the Introduction of John's book \"Once Around the Thunder Mug\"; with her husband Charles, took honors for the largest and most varied garden in Creede." },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named with her husband Charles in Chapter II of \"Once Around the Thunder Mug\"; the couple's milk cows pastured where mill tailing dams now stand." }
     ]
   },
   "fay-franklin": {
@@ -2088,7 +2112,8 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/once-around-the-thunder-mug/", "label": "Named in the Introduction of John's book \"Once Around the Thunder Mug\"; Sheriff over Bill Jackson's role as Undersheriff, at the time of a moonshiners' shooting feud over a plugged irrigation ditch." },
-      { "url": "/writings/once-around-the-thunder-mug/from-the-womb-to-the-real-world/", "label": "Named in Chapter I of \"Once Around the Thunder Mug\" as the sheriff over Bill Jackson's post as Undersheriff, during the moonshiners' shooting feud between Mr. Arlow and a rival." }
+      { "url": "/writings/once-around-the-thunder-mug/from-the-womb-to-the-real-world/", "label": "Named in Chapter I of \"Once Around the Thunder Mug\" as the sheriff over Bill Jackson's post as Undersheriff, during the moonshiners' shooting feud between Mr. Arlow and a rival." },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\" as the man Dad Bill served as undersheriff to for several years \u2014 the source of the .45 revolver Dad Bill carried on the family's Missouri road trip." }
     ]
   },
   "mr-arlow": {
@@ -2160,7 +2185,8 @@
     "name": "Anna Maud Woodruff",
     "tags": ["family"],
     "appearances": [
-      { "url": "/people/anna-maud-woodruff/", "label": "Called \"Grandmother Lane\" in Chapter I of \"Once Around the Thunder Mug\"; drove with Mom Jo and the three Jackson boys the night of the mercantile-block fire, and helped Dad Bill and Dottie Turnipseed care for the dying Charlie Matson." }
+      { "url": "/people/anna-maud-woodruff/", "label": "Called \"Grandmother Lane\" in Chapter I of \"Once Around the Thunder Mug\"; drove with Mom Jo and the three Jackson boys the night of the mercantile-block fire, and helped Dad Bill and Dottie Turnipseed care for the dying Charlie Matson." },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Called \"Grandmother Lane\" and \"Gram Lane\" in Chapter II of \"Once Around the Thunder Mug\"; raised chickens, rabbits, and geese on the Lane ranch, worked as a practical nurse who delivered most of Creede's babies from 1920 to 1940, and produced butter, buttermilk, and cottage cheese from the ranch's three milk cows." }
     ]
   },
   "aunt-maude-california": {
@@ -2251,7 +2277,8 @@
     "name": "Alex Duncan",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/once-around-the-thunder-mug/from-the-womb-to-the-real-world/", "label": "Named in Chapter I of \"Once Around the Thunder Mug\"; worked alongside Bill Jackson at the Colorado Fuel and Iron Corporation's fluorspar mine and mill at Wagon Wheel Gap. Very likely the same Alex Duncan already noted on this site as the father of Gordon, Cloy, and Hurtha Duncan, who is expected to appear again in this book's Chapter II, \"Of Bagpipes, Coasting and Firemen.\"" }
+      { "url": "/writings/once-around-the-thunder-mug/from-the-womb-to-the-real-world/", "label": "Named in Chapter I of \"Once Around the Thunder Mug\"; worked alongside Bill Jackson at the Colorado Fuel and Iron Corporation's fluorspar mine and mill at Wagon Wheel Gap. Confirmed by Chapter II, \"Of Bagpipes, Coasting and Firemen,\" as the same Alex Duncan already noted on this site as the father of Gordon, Cloy, Hurtha, and James Duncan." },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\" as a Scotsman who moved to a house across the gulch from Frank Davis after the loss of his dog \"Odie\"; a former Colorado Fuel and Iron Company employee at Wagon Wheel Gap's fluorspar mine, remembered for a drunken bagpipe march that panicked the neighborhood and reportedly caused a milk cow to abort her calf." }
     ]
   },
   "al-turnipseed": {
@@ -2328,7 +2355,8 @@
     "name": "Homer Kendall",
     "tags": ["creede-character"],
     "appearances": [
-      { "url": "/writings/once-around-the-thunder-mug/from-the-womb-to-the-real-world/", "label": "Named in Chapter I of \"Once Around the Thunder Mug\"; Mineral County's judge, who suffered a fatal heart seizure during his morning outhouse visit, complicating the coroner's and mortician's work." }
+      { "url": "/writings/once-around-the-thunder-mug/from-the-womb-to-the-real-world/", "label": "Named in Chapter I of \"Once Around the Thunder Mug\"; Mineral County's judge, who suffered a fatal heart seizure during his morning outhouse visit, complicating the coroner's and mortician's work." },
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named as \"Judge Homer Kendall\" in Chapter II of \"Once Around the Thunder Mug,\" among the regulars at Soapy Birdsey's nightly poker game." }
     ]
   },
   "deefie-moss": {
@@ -2378,6 +2406,269 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/once-around-the-thunder-mug/from-the-womb-to-the-real-world/", "label": "Named (first name only) in Chapter I of \"Once Around the Thunder Mug\"; a hoist man at a local mine who, still drunk, woke to firemen dousing his smoking cabin and worried more about the chicken cooking on his stove than the fire itself. Disambiguated by key from Ed Snow, also named in this chapter." }
+    ]
+  }
+  ,
+  "james-duncan": {
+    "name": "James Duncan",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\" as one of the Duncan siblings \u2014 with Gordon, Cloy, and Hurtha \u2014 who joined the mesa platoon after their father Alex Duncan moved to a house across the gulch from Frank Davis. Anticipated on Gordon Duncan's own entry before this chapter was built." }
+    ]
+  },
+  "charles-wanzer": {
+    "name": "Charles Wanzer",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug,\" photographed with Charles Lane and Noel \"Bo\" Roberts in a photo captioned \"The Wisdom of Age,\" credited to N. L. Roberts. Distinct from Charles Matson, also named on this site." }
+    ]
+  },
+  "eugene-thom": {
+    "name": "Eugene Thom",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named as \"Gene Thom\" and \"Eugene Thom\" in Chapter II of \"Once Around the Thunder Mug\"; his house marked the start of the mesa's winter coasting road, and, as a barber in the Heinz building, gave the author his first remembered haircut before later becoming Creede's town marshal." }
+    ]
+  },
+  "mr-barnett": {
+    "name": "Mr. Barnett",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named (surname only) in Chapter II of \"Once Around the Thunder Mug\"; lived near the mesa coasting road and, disliking the boys' snow-and-water jumps, doused them daily with hot coals after a bad spill of his own." }
+    ]
+  },
+  "harry-larson": {
+    "name": "Harry Larson",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug,\" in \"Bernie, Harry and the Blond Bomber\"; with Bernie Soward, a longtime friend who struck a rich silver discovery in the \"Big Six\" tunnel of the Silver Horde Lode in Sunnyside, and who fled Bernie's household on the morning of the thundermug incident." }
+    ]
+  },
+  "mary-harry-larsons-wife": {
+    "name": "Mary",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named (first name only) in Chapter II of \"Once Around the Thunder Mug\" as Harry Larson's apparent wife, who \"always came out second best\" in exchanges with Harry; low-confidence identification, disambiguated by key from Bernie Soward's wife, called only \"the Blond Bomber\" in the same passage." }
+    ]
+  },
+  "the-blond-bomber": {
+    "name": "Bernie Soward's wife",
+    "aka": "the Blond Bomber",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Called only \"the Blond Bomber,\" Bernie Soward's nickname for his wife, in Chapter II of \"Once Around the Thunder Mug\"; no first name given. Central to \"Bernie, Harry and the Blond Bomber,\" in which she attacks Bernie with a household thundermug." }
+    ]
+  },
+  "grant-matzen": {
+    "name": "Grant Matzen",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug,\" in \"Grant Matzen and the Law of Physics\"; lived across the street from the Stone Blacksmith Shop with his wife Esther and their children, and starred in a years-long whiskey-and-revenge feud with barber John Van Buskirk that ended with a threat at gunpoint." }
+    ]
+  },
+  "esther-matzen": {
+    "name": "Esther Matzen",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\" as Grant Matzen's wife and aunt to Hendricks \"Heinie\" Leonard, who spent school vacations with her. No confirmed relation to Toots Matzen, also named on this site." }
+    ]
+  },
+  "billy-matzen": {
+    "name": "Billy Matzen",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\" as Grant and Esther Matzen's son, who teamed with his cousin Heinie Leonard as \"the hell raisers,\" photographed together with their sisters and the Leonard siblings." }
+    ]
+  },
+  "norma-matzen": {
+    "name": "Norma Matzen",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\" as Grant and Esther Matzen's daughter, described as one of the \"normal kids\" the mesa platoon got along with, and photographed with her sister and the Leonard siblings." }
+    ]
+  },
+  "mildred-matzen": {
+    "name": "Mildred Matzen",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\" as Grant and Esther Matzen's daughter, described as one of the \"normal kids\" the mesa platoon got along with, and photographed with her sister and the Leonard siblings." }
+    ]
+  },
+  "dorothy-leonard": {
+    "name": "Dorothy Leonard",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in a Chapter II photo caption of \"Once Around the Thunder Mug,\" credited to Heinie Leonard; presumably a sibling of Heinie's, though no relation is stated in the text." }
+    ]
+  },
+  "don-leonard": {
+    "name": "Don Leonard",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in a Chapter II photo caption of \"Once Around the Thunder Mug,\" credited to Heinie Leonard; presumably a sibling of Heinie's, though no relation is stated in the text." }
+    ]
+  },
+  "lee-shillings": {
+    "name": "Lee Shillings",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\"; joined Grant Matzen and Noel \"Bo\" Roberts on drinking trips through Center, Saguache, and sometimes Bonanza." }
+    ]
+  },
+  "john-van-buskirk": {
+    "name": "John Van Buskirk",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\"; a barber, first in Center and later in Creede north of the post office, whose years-long whiskey-for-a-shave feud with Grant Matzen ended with a spiked bottle of Croton Oil and a gunshot threat." }
+    ]
+  },
+  "tanana-cimarron": {
+    "name": "\"Tex\" (Tanana Cimarron)",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug,\" in \"The Wild and Untamed\"; a teamster living at the foot of the mesa who hauled mine props for the Last Chance Mine, remembered for rolling cigarettes one-handed and for a campfire story of a knife fight and self-sewn wound in a Mexican cantina, told to a rapt audience of mesa kids." }
+    ]
+  },
+  "walter-workman": {
+    "name": "Walter Workman",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\" among the boys spellbound by Tanana Cimarron's campfire stories, and, with David Manning, one of the few mesa boys who owned boots." }
+    ]
+  },
+  "david-manning": {
+    "name": "David Manning",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\" as Bruce and Ethel Manning's son, envied by the mesa kids for his boots and for joining the co-op cattle drive on horseback despite his parents' efforts to stop him." }
+    ]
+  },
+  "ethel-manning": {
+    "name": "Ethel Manning",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named with her husband Bruce in Chapter II of \"Once Around the Thunder Mug\"; tried without success to keep their son David from joining the spring cattle drive." }
+    ]
+  },
+  "shirley-wills": {
+    "name": "Shirley Wills",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\"; with the Dabneys, provided saddle and bridle for David Manning's ride on the co-op cattle drive." }
+    ]
+  },
+  "ellis-clampett": {
+    "name": "Ellis Clampett",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\" as Mrs. Broadhead's hired hand, remembered for dozing off mid-sentence while milking a cow, who then knocked over both him and the pail." }
+    ]
+  },
+  "mrs-broadhead": {
+    "name": "Mrs. Broadhead",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\"; a gentle, Dutch-accented rancher who hosted the author and Charlotte Lane with milk, biscuits, and fishing at her ranch's lake and stocked ditch." }
+    ]
+  },
+  "bob-bennett": {
+    "name": "Bob Bennett",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\" as Howard and Pearl Barber's son-in-law, whose birthday dinner is the setting of \"Birthday Cakes and Pucker Power.\"" }
+    ]
+  },
+  "martha-birthday-party": {
+    "name": "Martha",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named (first name only) in Chapter II of \"Once Around the Thunder Mug\" as one of the children the author hoped would take the blame for his dinner-table mishap at Bob Bennett's birthday dinner. Disambiguated by key from \"little Freddie,\" named in the same passage, and from Freddie Seyfried, also named on this site; no relation stated." }
+    ]
+  },
+  "little-freddie-birthday-party": {
+    "name": "\"Little Freddie\"",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named (first name only) in Chapter II of \"Once Around the Thunder Mug\" as one of the children the author hoped would take the blame for his dinner-table mishap at Bob Bennett's birthday dinner. Disambiguated by key from Freddie Seyfried, also named on this site; no relation stated." }
+    ]
+  },
+  "walt-wilson": {
+    "name": "Walt Wilson",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\" as one of the regulars at Soapy Birdsey's nightly poker game, teased by Soapy over his courtship of a widow named Mae." }
+    ]
+  },
+  "roy-phillips": {
+    "name": "Roy Phillips",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\" as one of the regulars at Soapy Birdsey's nightly poker game. Possibly related to Tommy Phillips, also named on this site, though likely a different generation; no relation confirmed." }
+    ]
+  },
+  "mae-widow": {
+    "name": "Mae",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named (first name only) in Chapter II of \"Once Around the Thunder Mug\" as a widow whose courtship by Walt Wilson was the subject of ribbing at Soapy Birdsey's poker table." }
+    ]
+  },
+  "ivan-weaver": {
+    "name": "Ivan Weaver",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\" as Creede's town electrician, who led the mesa kids on tours of the Pelton Wheel powerhouse, caught a resident bootlegging the town's first underground power line, and was outfoxed for a time by Uncle Woody's meter tampering. Possibly related to Billy, Johnny, and Paul Weaver, also named on this site; no relation confirmed." }
+    ]
+  },
+  "garret-power-line": {
+    "name": "Garret",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named (first name only) in Chapter II of \"Once Around the Thunder Mug\" as the resident who laid Creede's first underground power cable to bootleg electricity to his house, discovered by town electrician Ivan Weaver \u2014 who, appreciating the ingenuity, let the power flow." }
+    ]
+  },
+  "robert-static-electricity": {
+    "name": "Robert",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named (first name only) in Chapter II of \"Once Around the Thunder Mug\" as the mesa boy repeatedly startled into wetting himself by the static field around the Pelton Wheel's belt at the light plant. Disambiguated by key from other people named Robert on this site; no relation stated." }
+    ]
+  },
+  "lena-slater": {
+    "name": "Lena Slater",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\" as John Slater's wife, visiting the Jackson home the night of the author's electrical-socket mishap." }
+    ]
+  },
+  "witt-thomas": {
+    "name": "Witt Thomas",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named (once) in Chapter II of \"Once Around the Thunder Mug\" as the owner of a corral Bill Tingley passed on his way to intercept Gram Lane's leftover pancakes." }
+    ]
+  },
+  "mary-hagerman": {
+    "name": "Mary (Davis) Hagerman",
+    "aka": "Aunt Mary",
+    "tags": ["family"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Called \"Aunt Mary\" in Chapter II of \"Once Around the Thunder Mug,\" photographed with her brother \"Grandfather Lynn Davis\" in \"Long Green and Short Stuff\"; her wash tub was ruined killing a trapped tarantula during the family's Missouri visit. Very likely Mary (Davis) Hagerman, Robert Abraham Lincoln Davis's sister, already documented on his page as his 1943 death-certificate informant, living at Sulphur Springs, Arkansas, near his McDonald County, Missouri home." },
+      { "url": "/people/robert-davis/", "label": "Robert Abraham Lincoln Davis's sister, of Sulphur Springs, Arkansas; informant on his 1943 death certificate." }
+    ]
+  },
+  "mr-thompson-missouri": {
+    "name": "Mr. Thompson",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named (surname only) in Chapter II of \"Once Around the Thunder Mug\" as a Missouri neighbor observed relieving himself in his garden during the family's visit. Distinct from Tommy Thompson, a Creede-based person also named on this site; keyed separately since only a surname is given here." }
+    ]
+  },
+  "dovy-magee": {
+    "name": "Dovy Magee",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Named in Chapter II of \"Once Around the Thunder Mug\" as a Missouri neighbor bitten by a copperhead snake during the family's visit, expected to die; she recovered." }
     ]
   }
 }
