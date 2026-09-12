@@ -1634,6 +1634,9 @@ blockquote p:last-child {
 
 .badge--family { background: var(--color-accent); color: white; }
 .badge--creede-character { background: #e2d9f3; color: #3a1a6a; }
+.badge--powderhorn-character { background: #dcead9; color: #1f4d2c; }
+.badge--gunnison-character { background: #f3e3c9; color: #6a4a1a; }
+.badge--cedaredge-character { background: #f3d9d3; color: #6a2c1a; }
 
 /* ============================================
    CONTACT FORM

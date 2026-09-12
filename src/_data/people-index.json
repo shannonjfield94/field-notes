@@ -1657,7 +1657,7 @@
   },
   "bill-gydesen": {
     "name": "Bill Gydesen",
-    "tags": ["creede-character"],
+    "tags": ["gunnison-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/bill-gydesen/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a Gunnison-area consulting client and friend John met through geologist Steve Zahony in 1979, a self-taught mine owner who tempted fate more than anyone John knew — working a bulldozer on a broken ankle, surviving a burst aortic aneurysm, and much else besides." }
     ]
@@ -1685,14 +1685,14 @@
   },
   "lawrence-cruthers": {
     "name": "Lawrence Cruthers",
-    "tags": ["creede-character"],
+    "tags": ["cedaredge-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/lawrence-cruthers/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a Cedaredge neighbor and friend whose morning bellowing ritual with John traced back to a near-fatal conveyor-belt accident in the coal mines." }
     ]
   },
   "rosalie-cruthers": {
     "name": "Rosalie Cruthers",
-    "tags": ["creede-character"],
+    "tags": ["cedaredge-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/lawrence-cruthers/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; Lawrence Cruthers's wife, a Cedaredge neighbor of John's who told him the story behind Lawrence's morning ritual." }
     ]
@@ -1776,14 +1776,14 @@
   },
   "john-martin": {
     "name": "John Martin",
-    "tags": ["creede-character"],
+    "tags": ["powderhorn-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/the-coldest-day-and-the-hottest-day/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; a neighboring rancher southwest of the Jacksons' place on Cebolla Creek, who drove past John floundering in the icy creek in January 1994 without realizing anything was wrong, in \"The Coldest Day.\"" }
     ]
   },
   "bobbie-martin": {
     "name": "Bobbie Martin",
-    "tags": ["creede-character"],
+    "tags": ["powderhorn-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/the-coldest-day-and-the-hottest-day/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; John Martin's wife, to whom he related the story of John floundering in the icy creek, in \"The Coldest Day.\"" }
     ]
