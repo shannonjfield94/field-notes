@@ -59,9 +59,16 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addFilter("sortedPeopleIndex", (data) => {
     if (!data || typeof data !== "object") return [];
+
+    // Strip leading quote marks (straight or curly) before sorting/lettering,
+    // so a quoted nickname like "Little Freddie" alphabetizes under L instead
+    // of under the quote character itself. The quotes stay in entry.name for
+    // display — this key only decides order and letter grouping.
+    const sortKey = (name) => (name || "").trim().replace(/^["'“”‘’]+/, "");
+
     const sorted = Object.keys(data)
       .map(slug => ({ slug, ...data[slug] }))
-      .sort((a, b) => (a.name || "").localeCompare(b.name || ""));
+      .sort((a, b) => sortKey(a.name).localeCompare(sortKey(b.name)));
 
     // Annotate each entry with its first letter and whether it's the first
     // entry under that letter, so the template can drop in an A–Z jump nav
@@ -69,7 +76,7 @@ module.exports = function(eleventyConfig) {
     // start" by hand — this is recomputed fresh on every build.
     let previousLetter = null;
     sorted.forEach(entry => {
-      const letter = (entry.name || "").trim().charAt(0).toUpperCase();
+      const letter = sortKey(entry.name).charAt(0).toUpperCase();
       entry.letter = letter;
       entry.isNewLetter = letter !== previousLetter;
       previousLetter = letter;
