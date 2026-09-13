@@ -119,7 +119,8 @@
     "name": "Marceline Ann Duncan",
     "tags": ["family"],
     "appearances": [
-      { "url": "/people/william-charles-jackson/#marceline-ann-duncan", "label": "Wife of William Charles \"Scoot\" Jackson, married 1947" }
+      { "url": "/people/william-charles-jackson/#marceline-ann-duncan", "label": "Wife of William Charles \"Scoot\" Jackson, married 1947" },
+      { "url": "/writings/once-around-the-thunder-mug/higher-learning-and-other-diversions/", "label": "Per Shannon: niece of Christine and Marie Duncan, both named in Chapter III of \"Once Around the Thunder Mug\" as Missouri-born Creede schoolteachers; Marceline came to Creede straight out of high school to babysit for an aunt — likely Marie — and stayed on, eventually marrying Scoot Jackson and becoming one of Shannon's beloved aunts." }
     ]
   },
   "vesta-g-jackson": {
@@ -270,7 +271,8 @@
     "appearances": [
       { "url": "/people/anna-maud-woodruff/#arthur-m-davis", "label": "Child of Anna Maud Woodruff and Robert Abraham Lincoln Davis" },
       { "url": "/writings/please-go-to-hell/family-and-brothers/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; stayed with the Jackson family in the early 1930s, teaching his nephews to roll cigarettes" },
-      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named as \"Art\" in John Jackson's memoir \"Please Go to Hell\"; recalled with Frankie Davis among the old friends and \"pards\" on John's imagined Memory Lane bus ride. Confirmed by Shannon as this same Arthur M. Davis." }
+      { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named as \"Art\" in John Jackson's memoir \"Please Go to Hell\"; recalled with Frankie Davis among the old friends and \"pards\" on John's imagined Memory Lane bus ride. Confirmed by Shannon as this same Arthur M. Davis." },
+      { "url": "/writings/once-around-the-thunder-mug/higher-learning-and-other-diversions/", "label": "Named as \"Uncle Arthur\" in Chapter III of \"Once Around the Thunder Mug\"; recited the rabbit's-hole riddle that Joey repeated to his teacher, Christine Duncan. Confirmed by Shannon as Alice Josephine Davis's (\"Mom Jo\"'s) brother, this same Arthur M. Davis." }
     ]
   },
   "simon-peter-davis": {
@@ -1317,7 +1319,7 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/please-go-to-hell/dedication-and-the-amethyst-crew-1947/", "label": "Named in John Jackson's memoir \"Please Go to Hell\"; recalled waiting at the ore bin he designed, \"a high old thousand tonner,\" on John's imagined Memory Lane bus ride. Disambiguated by key from Tom and Red Johnson, also named in the manuscript; no relation stated." },
-      { "url": "/writings/once-around-the-thunder-mug/higher-learning-and-other-diversions/", "label": "Possibly the same Charles Johnson named in Chapter III of \"Once Around the Thunder Mug\"; the author and a mine crew drilled and blasted outcroppings where his \"new ore bin was to be constructed.\" Both mentions connect a Charles Johnson to Creede-area ore bins, but no explicit relation is stated between the two passages." }
+      { "url": "/writings/once-around-the-thunder-mug/higher-learning-and-other-diversions/", "label": "The same Charles Johnson named in Chapter III of \"Once Around the Thunder Mug\" (confirmed by Shannon); the author and a mine crew drilled and blasted outcroppings where his \"new ore bin was to be constructed.\"" }
     ]
   },
   "fred-baker": {
@@ -2691,16 +2693,16 @@
   },
   "christine-duncan": {
     "name": "Christine Duncan",
-    "tags": ["creede-character"],
+    "tags": ["family", "creede-character"],
     "appearances": [
-      { "url": "/writings/once-around-the-thunder-mug/higher-learning-and-other-diversions/", "label": "Named in Chapter III of \"Once Around the Thunder Mug\"; with her sister Marie, one of the Duncan sisters who came from Missouri to teach at the grade school — the teacher who received, and erased, brother Joey's rabbit's-hole riddle. No relation stated to Gordon, Cloy, Hurtha, and James Duncan, the Alex Duncan family already documented on this site, or to Elsie Duncan, also named in this chapter." }
+      { "url": "/writings/once-around-the-thunder-mug/higher-learning-and-other-diversions/", "label": "Named in Chapter III of \"Once Around the Thunder Mug\"; with her sister Marie, one of the Duncan sisters who came from Missouri to teach at the grade school — the teacher who received, and erased, brother Joey's rabbit's-hole riddle. Confirmed by Shannon as an aunt of Marceline Ann Duncan, who married William Charles \"Scoot\" Jackson. No relation stated to Gordon, Cloy, Hurtha, and James Duncan, the Alex Duncan family already documented on this site, or to Elsie Duncan, also named in this chapter." }
     ]
   },
   "marie-duncan": {
     "name": "Marie Duncan",
-    "tags": ["creede-character"],
+    "tags": ["family", "creede-character"],
     "appearances": [
-      { "url": "/writings/once-around-the-thunder-mug/higher-learning-and-other-diversions/", "label": "Named with her sister Christine in Chapter III of \"Once Around the Thunder Mug\" as one of the Duncan sisters who came from Missouri to teach at the grade school. No relation stated to Gordon, Cloy, Hurtha, and James Duncan, the Alex Duncan family already documented on this site, or to Elsie Duncan, also named in this chapter." }
+      { "url": "/writings/once-around-the-thunder-mug/higher-learning-and-other-diversions/", "label": "Named with her sister Christine in Chapter III of \"Once Around the Thunder Mug\" as one of the Duncan sisters who came from Missouri to teach at the grade school. Confirmed by Shannon as an aunt of Marceline Ann Duncan, who married William Charles \"Scoot\" Jackson — per Shannon, likely the aunt Marceline came to Creede straight out of high school to babysit for, before marrying Scoot herself. No relation stated to Gordon, Cloy, Hurtha, and James Duncan, the Alex Duncan family already documented on this site, or to Elsie Duncan, also named in this chapter." }
     ]
   },
   "hazel-lewis": {
@@ -2883,6 +2885,13 @@
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/once-around-the-thunder-mug/higher-learning-and-other-diversions/", "label": "Named in Chapter III of \"Once Around the Thunder Mug\" as the preacher's young daughter, rehearsed by her father for the Bible-class Heaven exercise and reciting streets of gold, evergreen flowers, and, breaking from the script, bushes loaded with jelly beans and springs that ran soda pop." }
+    ]
+  },
+  "dale-once-around": {
+    "name": "Dale",
+    "tags": ["creede-character"],
+    "appearances": [
+      { "url": "/writings/once-around-the-thunder-mug/higher-learning-and-other-diversions/", "label": "Named in Chapter III of \"Once Around the Thunder Mug,\" in the opening dialogue of \"Curly Scores a Double\"; recalled secondhand, by an unnamed friend, as having caught a venereal infection on a previous visit to \"Mary's.\" Included at Shannon's direction." }
     ]
   }
 }
