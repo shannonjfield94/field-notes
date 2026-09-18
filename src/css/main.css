@@ -1089,6 +1089,37 @@ blockquote p:last-child {
   max-width: 360px;
 }
 
+.source-doc-image-side {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-xl);
+  margin-bottom: var(--space-xl);
+}
+
+.source-doc-image-side .source-doc-image {
+  flex: 0 0 auto;
+  margin: 0;
+}
+
+.source-doc-image-side-content {
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+.source-doc-image-side-content > *:first-child {
+  margin-top: 0;
+}
+
+@media (max-width: 700px) {
+  .source-doc-image-side {
+    flex-direction: column;
+  }
+
+  .source-doc-image-side .source-doc-image {
+    margin: 0 auto var(--space-lg);
+  }
+}
+
 .source-doc-image figcaption {
   font-family: var(--font-sans);
   font-size: var(--text-sm);

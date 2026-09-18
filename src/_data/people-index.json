@@ -302,7 +302,8 @@
     "name": "Robert Lincoln Davis",
     "tags": ["family"],
     "appearances": [
-      { "url": "/people/anna-maud-woodruff/#robert-lincoln-davis", "label": "Child of Anna Maud Woodruff and Robert Abraham Lincoln Davis; died in the 1918 influenza pandemic" }
+      { "url": "/people/anna-maud-woodruff/#robert-lincoln-davis", "label": "Child of Anna Maud Woodruff and Robert Abraham Lincoln Davis; died in the 1918 influenza pandemic" },
+      { "url": "/writings/we-will-see-and-know-our-boy-again/", "label": "The \"our Boy\" of his father Robert's elegy, \"We Will See and Know, Our Boy Again,\" written after his 1918 death." }
     ]
   },
   "albert-woodruff-davis": {
@@ -346,7 +347,8 @@
     "name": "Cora Davis",
     "tags": ["family"],
     "appearances": [
-      { "url": "/people/robert-davis/#cora-davis", "label": "Second wife of Robert Abraham Lincoln Davis (unverified); marriage undocumented and unknown to his descendants" }
+      { "url": "/people/robert-davis/#cora-davis", "label": "Second wife of Robert Abraham Lincoln Davis; married 8 Jul 1931, Neosho, Missouri, per a marriage license located since this entry was first written \u2014 no longer unverified. Robert's own death certificate lists her as his wife at his 1943 death." },
+      { "url": "/writings/womans-love/", "label": "Almost certainly the \"Cora Dear\" named in Robert\u2019s poem \"Womans Love\" \u2014 per Robert\u2019s own note, written years earlier for a widow he was courting who didn\u2019t believe he\u2019d written it himself, and whom he went on to marry regardless." }
     ]
   },
   "charlotte-florella-lane": {
@@ -851,7 +853,9 @@
     "appearances": [
       { "url": "/writings/please-go-to-hell/mom-jo-and-grandma-lane/", "label": "Named as \"Lynn Davis\" in John Jackson's memoir \"Please Go to Hell\"; Anna Maud Woodruff's first husband, from whom she divorced in Creede before he returned to his native Missouri." },
       { "url": "/writings/once-around-the-thunder-mug/of-bagpipes-coasting-and-firemen/", "label": "Called \"Grandfather Davis\" in Chapter II of \"Once Around the Thunder Mug,\" in \"Long Green and Short Stuff\"; the reluctant Missouri host of a Jackson family road trip, and pictured with his sister Aunt Mary in a nighttime photograph captioned \"Aunt Mary and Grandfather Lynn Davis.\"" },
-      { "url": "/writings/echoes-from-the-thundermug/creede-boyhood-part-two/#ozark-adventures", "label": "Named as \"grandfather Davis\" in \"Echoes from the Thundermug,\" \"Ozark Adventures\" — the same Missouri road trip, differently detailed, as Chapter II of \"Once Around the Thunder Mug,\" \"Long Green and Short Stuff.\"" }
+      { "url": "/writings/echoes-from-the-thundermug/creede-boyhood-part-two/#ozark-adventures", "label": "Named as \"grandfather Davis\" in \"Echoes from the Thundermug,\" \"Ozark Adventures\" — the same Missouri road trip, differently detailed, as Chapter II of \"Once Around the Thunder Mug,\" \"Long Green and Short Stuff.\"" },
+      { "url": "/writings/womans-love/", "label": "Author of \"Womans Love,\" a poem enclosed in a letter to his daughter Jo, written years earlier for a widow he was courting \u2014 named in the poem itself as \"Cora Dear,\" and, per Shannon, the same Cora Martin he went on to marry in 1931." },
+      { "url": "/writings/we-will-see-and-know-our-boy-again/", "label": "Author of an untitled elegy, written after the 1918 death of his son Robert Lincoln Davis; recovered decades later by Shannon's mother from a now-lost book of poetry and confirmed by her as Robert's poem about his son." }
     ]
   },
   "claude-cecil-jackson": {

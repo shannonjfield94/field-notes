@@ -23,14 +23,35 @@ layout: layouts/base.njk
 
   <div class="source-doc-body">
 
-    {% if image %}
-    <figure class="source-doc-image{% if image.compact %} source-doc-image--compact{% endif %}">
-      <img src="{{ image.src }}" alt="{{ image.alt }}">
-      {% if image.caption %}<figcaption>{{ image.caption }}</figcaption>{% endif %}
-    </figure>
-    {% endif %}
+    {% if image and image.position == "side" %}
+    <div class="source-doc-image-side">
+      <figure class="source-doc-image{% if image.compact %} source-doc-image--compact{% endif %}">
+        <img src="{{ image.src }}" alt="{{ image.alt }}">
+        {% if image.caption %}<figcaption>{{ image.caption }}</figcaption>{% endif %}
+      </figure>
+      <div class="source-doc-image-side-content">
+        {{ content | safe }}
+      </div>
+    </div>
+    {% else %}
 
-    {{ content | safe }}
+      {% if image and image.position != "below" %}
+      <figure class="source-doc-image{% if image.compact %} source-doc-image--compact{% endif %}">
+        <img src="{{ image.src }}" alt="{{ image.alt }}">
+        {% if image.caption %}<figcaption>{{ image.caption }}</figcaption>{% endif %}
+      </figure>
+      {% endif %}
+
+      {{ content | safe }}
+
+      {% if image and image.position == "below" %}
+      <figure class="source-doc-image{% if image.compact %} source-doc-image--compact{% endif %}">
+        <img src="{{ image.src }}" alt="{{ image.alt }}">
+        {% if image.caption %}<figcaption>{{ image.caption }}</figcaption>{% endif %}
+      </figure>
+      {% endif %}
+
+    {% endif %}
 
   </div>
 
