@@ -2382,7 +2382,7 @@
     ]
   },
   "chuck-davlin": {
-    "name": "Chuck Davlin",
+    "name": "Charles Alfred \"Chuck\" Davlin",
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/once-around-the-thunder-mug/", "label": "Named in the Acknowledgments of John's book \"Once Around the Thunder Mug\", deceased at the time of publication; with his wife Toni, credited with giving Creede its first museum." },
@@ -2391,11 +2391,12 @@
     ]
   },
   "toni-davlin": {
-    "name": "Toni Davlin",
+    "name": "Eutana \"Toni\" Wolcott Davlin Shaw",
     "tags": ["creede-character"],
     "appearances": [
       { "url": "/writings/once-around-the-thunder-mug/", "label": "Named in the Acknowledgments of John's book \"Once Around the Thunder Mug\" with her husband Chuck, credited with giving Creede its first museum." },
-      { "url": "/writings/echoes-from-the-thundermug/married-life-and-mining-camps-part-one/#so-long-chuck", "label": "Named in \"Echoes from the Thundermug,\" \"Married Life and Mining Camps, Part One,\" in \"So Long Chuck!\"; Chuck Davlin's wife, who accompanies him to Cathedral Ranch before his last hunting trip with John." }
+      { "url": "/writings/echoes-from-the-thundermug/married-life-and-mining-camps-part-one/#so-long-chuck", "label": "Named in \"Echoes from the Thundermug,\" \"Married Life and Mining Camps, Part One,\" in \"So Long Chuck!\"; Chuck Davlin's wife, who accompanies him to Cathedral Ranch before his last hunting trip with John." },
+    { "url": "/writings/echoes-from-the-thundermug/married-life-and-mining-camps-part-four/#birthday-party-comes-on-the-wrong-day", "label": "Named as \"Toni Shaw\" in \"Echoes from the Thundermug,\" \"Birthday Party Comes on the Wrong Day\"; read the author's earlier article complaining that Mom Jo never gave the children birthday parties, and organized a surprise \"Happy Birthday\" party for the author and Inez in response; later credited as restoring the Wagon Wheel Gap Depot." }
     ]
   },
   "heinie-leonard": {
@@ -6360,25 +6361,18 @@
     { "url": "/writings/echoes-from-the-thundermug/married-life-and-mining-camps-part-four/#birthday-party-comes-on-the-wrong-day", "label": "Named in \"Echoes from the Thundermug,\" \"Birthday Party Comes on the Wrong Day\"; one of the young women helping at the McClures' Cebolla barbecue, the object of the author's joking one-glance infatuation. First name only." }
     ]
   },
-  "toni-shaw": {
-    "name": "Toni Shaw",
+  "doug-davlin": {
+    "name": "Douglas Wolcott \"Doug\" Davlin",
     "tags": ["creede-character"],
     "appearances": [
-    { "url": "/writings/echoes-from-the-thundermug/married-life-and-mining-camps-part-four/#birthday-party-comes-on-the-wrong-day", "label": "Named in \"Echoes from the Thundermug,\" \"Birthday Party Comes on the Wrong Day\"; read the author's earlier article complaining that Mom Jo never gave the children birthday parties, and organized a surprise \"Happy Birthday\" party for the author and Inez in response; later credited as restoring the Wagon Wheel Gap Depot." }
+    { "url": "/writings/echoes-from-the-thundermug/married-life-and-mining-camps-part-four/#birthday-party-comes-on-the-wrong-day", "label": "Named as \"Doug\" in \"Echoes from the Thundermug,\" \"Birthday Party Comes on the Wrong Day\"; son of Toni Davlin Shaw and her first husband, Chuck Davlin, part of the group that surprised the author and Inez with a birthday party." }
     ]
   },
-  "doug-shaw": {
-    "name": "Doug Shaw",
+  "ginny-davlin": {
+    "name": "Ginny Davlin",
     "tags": ["creede-character"],
     "appearances": [
-    { "url": "/writings/echoes-from-the-thundermug/married-life-and-mining-camps-part-four/#birthday-party-comes-on-the-wrong-day", "label": "Named in \"Echoes from the Thundermug,\" \"Birthday Party Comes on the Wrong Day\"; Toni Shaw's son, part of the group that surprised the author and Inez with a birthday party." }
-    ]
-  },
-  "ginny-shaw": {
-    "name": "Ginny Shaw",
-    "tags": ["creede-character"],
-    "appearances": [
-    { "url": "/writings/echoes-from-the-thundermug/married-life-and-mining-camps-part-four/#birthday-party-comes-on-the-wrong-day", "label": "Named in \"Echoes from the Thundermug,\" \"Birthday Party Comes on the Wrong Day\"; Doug Shaw's wife, part of the group that surprised the author and Inez with a birthday party. Not confirmed as related to the site's existing Ginny Thompson." }
+    { "url": "/writings/echoes-from-the-thundermug/married-life-and-mining-camps-part-four/#birthday-party-comes-on-the-wrong-day", "label": "Named as \"Ginny\" in \"Echoes from the Thundermug,\" \"Birthday Party Comes on the Wrong Day\"; Doug Davlin's wife, part of the group that surprised the author and Inez with a birthday party." }
     ]
   },
   "tina-cebolla-barbecue": {

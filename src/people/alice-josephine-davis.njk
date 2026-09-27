@@ -9,7 +9,7 @@ aka: "Alice Josephine Jackson, Jo Jackson, Josie"
 birth_year: "13 Mar 1904"
 birth_place: "Alma, Park County, Colorado"
 death_year: "7 Jul 1980"
-death_place: "Colorado Springs, El Paso County, Colorado"
+death_place: "Penrose Hospital, Colorado Springs, El Paso County, Colorado"
 research_status: "Active"
 
 portrait:
@@ -28,12 +28,26 @@ vitals:
       - "jackson-1930-census-creede"
       - "jackson-1950-census-creede"
       - "alice-jackson-ssdi-1980"
-    note: "Two data points disagree on year: the 1910 census (age 7) and 1920 census (age 16) are each consistent with a birth year of 1903, while the 1930 census (age 26), 1950 census (age 46), and the Social Security Death Index (which gives 2 Mar 1904, versus 13 Mar 1904 on Find a Grave and here) all agree on 1904. Childhood ages self-reported to census enumerators by a parent are among the more error-prone fields of this era, so the two later, adult-reported ages are given more weight here — but this has not been checked against a birth certificate, and the day (2nd vs. 13th) remains unresolved regardless of year."
+      - "alice-jackson-death-certificate-1980"
+    note: "Year: the 1910 census (age 7) and 1920 census (age 16) are each consistent with a birth year of 1903, while the 1930 census (age 26), 1950 census (age 46), the Social Security Death Index, and her 1980 death certificate (13 Mar 1904, age 76) all agree on 1904. Childhood ages reported to census enumerators by a parent are among the more error-prone fields of this era, so the later, adult-era sources are given more weight here. Day: the death certificate gives 13 March, against the SSDI's 2 March. The certificate's birth information is secondary, supplied by her son John as informant 76 years after the event, so it favors the 13th without settling it. Birthplace: the death certificate gives Colorado only; Alma, Park County, rests on family entries. No birth record has yet been checked."
   - event: Death
     date: "7 Jul 1980"
-    place: "Colorado Springs, El Paso County, Colorado"
+    place: "Penrose Hospital, Colorado Springs, El Paso County, Colorado"
+    status: "Proven"
+    source_key: "alice-jackson-death-certificate-1980"
+    note: "Died as an inpatient, age 76, widowed. Cause of death: septicemia and general sepsis (4 days), due to colon and small bowel obstructions (10 weeks), due to metastatic carcinoma from the left ureter (about 2½ years). Physician G. M. Lindeman, M.D., certified the death the same day; no autopsy. Usual residence given as Box 44, Creede, Mineral County, confirming Colorado Springs was the place of her final hospitalization and not a relocation. Informant: her son John Jackson, of Creede. The certificate names her father as \"Robert Lynn Davis\"; see his page for the \"Lynn\" alias."
+  - event: Cremation
+    date: "8 Jul 1980"
+    place: "Shrine of Rest Crematory, Colorado Springs, El Paso County, Colorado"
+    status: "Proven"
+    source_key: "alice-jackson-death-certificate-1980"
+    note: "Funeral director Charles R. Nolan Jr., Shrine of Rest. Her 1974 will asked her children to \"comply with my wishes regarding the cremation of my body as soon as practicable after my death,\" and added: \"I do not want any type of funeral service and request no flowers.\" She was cremated the day after she died."
+  - event: Interment of ashes
+    date: ""
+    place: "Creede Cemetery, Creede, Mineral County, Colorado"
     status: "Working Hypothesis"
-    source: "Per family knowledge, she died of cancer while hospitalized in Colorado Springs. Death certificate not yet in hand."
+    source_key: "alice-jackson-findagrave-memorial"
+    note: "Her will does not name a resting place for her ashes. Per family account, she made her wish known to the family many times: her ashes were to go in the grave of her brother Robert Lincoln \"Bob\" Davis (d. 1918). Shannon heard her say so herself, and the family's first act bears it out. Her ashes were first placed in Bob's grave, Creede Cemetery, at the graveside service following her July 1980 funeral; Shannon witnessed the placement (firsthand account). Many years later they were moved by her surviving children beneath a headstone they erected for her and her husband, Billy. Billy is not buried at Creede; he is interred at Prescott National Cemetery, Arizona (see his page), so the Creede stone is a memorial for him, not his grave. The move itself rests on family account, and its date is not yet documented. (The Find a Grave memorial text, which Shannon maintains, draws on the same family knowledge, so it is not independent support.)"
 
 family:
   parents:
@@ -127,26 +141,44 @@ timeline:
     description: "Enumerated with husband William (County Treasurer), son John Richard, and daughter Pauline, Creede."
     source_key: "jackson-1950-census-creede"
     type: "census"
+  - date: "29 Jul 1974"
+    description: "Signs her will at Creede, naming her son John R. Jackson executor. It leaves the family Bible, and a \"Notice of Appointment as Post Master\" belonging to her father and signed by Theodore Roosevelt, to her brother Arthur M. Davis (who died in October 1978, before her, so this bequest could not pass as written); her gemstones, rocks, and Indian artifacts to son Joel; her typewriter, radio, files, papers, and \"the old money that came to me from the Edwin L. Bennett estate\" to son John; jewelry, linens, and furniture to her daughter; and smaller personal bequests to two daughters-in-law, including a chest of silverware that had belonged to Edwin L. Bennett (husband of her aunt Florence Woodruff). The residue is divided among her four children, with the share of her late son, named in the will as \"William T. Jackson, deceased\" (evidently William Charles \"Scoot\" Jackson, d. 1969), passing to his two children. The will closes its first page: \"I trust that my children will comply with my wishes regarding the cremation of my body as soon as practicable after my death. I do not want any type of funeral service and request no flowers.\""
+    source_key: "alice-jackson-will-1974"
+    type: "general"
   - date: "7 Jul 1980"
-    description: "Dies, Colorado Springs, El Paso County, Colorado."
-    source: "Family entries"
+    description: "Dies at Penrose Hospital, Colorado Springs, age 76, of sepsis following bowel obstructions caused by cancer that had begun in the left ureter about two and a half years earlier."
+    source_key: "alice-jackson-death-certificate-1980"
     type: "vital"
+  - date: "8 Jul 1980"
+    description: "Cremated at Shrine of Rest Crematory, Colorado Springs."
+    source_key: "alice-jackson-death-certificate-1980"
+    type: "vital"
+  - date: "After Jul 1980"
+    description: "A large funeral is held for her in Creede, with a graveside service at Creede Cemetery, although her will had asked for no funeral service of any kind (firsthand account: Shannon attended). At that graveside service her ashes are placed, as she had asked, in her brother Bob's grave in Creede Cemetery (Shannon witnessed this); many years later her surviving children move them beneath a headstone they erected there for her and her husband Billy, who is buried in Arizona."
+    source_key: "alice-jackson-findagrave-memorial"
+    type: "general"
 
 open_questions:
-  - question: "Can Alice Josephine's birth be confirmed against a primary record (birth certificate or the 1980 death certificate, not yet in hand)?"
+  - question: "Can Alice Josephine's birth be confirmed against a primary record, such as a birth certificate or a delayed birth registration?"
     priority: "medium"
-    notes: "Census and SSDI evidence is mixed between 1903 and 1904; see note on Birth vital."
-  - question: "Can the circumstances of Alice Josephine's final illness and hospitalization in Colorado Springs be documented (e.g., type of cancer, hospital, length of treatment)?"
+    notes: "The 1980 death certificate gives 13 Mar 1904, but its birth details are secondary information from her son. The SSDI's 2 March and the 1910/1920 censuses' implied 1903 remain unresolved; see note on Birth vital."
+  - question: "Can the July 1980 funeral in Creede, and the first placement of her ashes in her brother Bob's grave, be documented in a contemporary record?"
     priority: "low"
-    notes: "Alice Josephine lived the majority of her life in Creede; Colorado Springs was the site of her hospitalization and death from cancer only, not a relocation."
+    notes: "Both currently rest on Shannon's firsthand account as an attendee. Colorado Historic Newspapers adds titles only after 50 years, so the Creede Candle for 1980 should become searchable there around 2030. Sooner options: printed or microfilm Candle runs in the Creede area, a Colorado Springs Gazette Telegraph death notice (she died there), the Del Norte and Monte Vista papers, funeral home records, and clippings in John Jackson's papers. The Gunnison paper carried no obituary (per Shannon, who lived there at the time)."
+  - question: "When were her ashes moved from Bob's grave to the shared headstone, and can the move be documented?"
+    priority: "low"
+    notes: "The first placement, in Bob's grave at the July 1980 graveside service, is Shannon's firsthand account. The later move rests on family account, and its date is unknown. Places to look: Creede Cemetery or Town of Creede interment records, the headstone itself (its style or a monument-company mark may help date it), family correspondence in John Jackson's papers, and the recollection of surviving family members."
 
 repositories:
   - name: "Colorado Department of Public Health and Environment / Park County records"
     record_types: "Birth record, Alice Josephine Davis, 1904"
     status: "Not yet searched"
-  - name: "Shannon's personal collection (mother's papers, parents' house)"
-    record_types: "Death certificate, Alice Josephine Davis Jackson, 1980"
-    status: "Known to exist; not yet scanned or in hand"
+  - name: "Shannon's personal collection (John Jackson's papers)"
+    record_types: "Death certificate, 1980 (uncertified photocopy of the certified copy), and will, 1974 (photocopy)"
+    status: "Scanned, 2026"
+  - name: "Mineral County District Court, Creede"
+    record_types: "Probate file, estate of Alice Josephine Jackson, 1980 (filed will, inventory, distribution)"
+    status: "Not yet searched"
 ---
 
 <p>Alice Josephine Davis — known to her family and friends throughout her life as Jo, was born in 1904 in the small mountain town of Alma, Park County, Colorado, the daughter of Robert Davis and Anna Maud Woodruff, and so a granddaughter, on her mother's side, of John Farney Woodruff and Annie E. Chaney. Her childhood moved through several of Colorado's mining towns: the 1910 census places the family in Florissant, Teller County, and a postcard her mother sent home in December 1913 puts them near St. Elmo, in the Chalk Creek country outside Buena Vista. By 1918, when Alice Josephine was fourteen, the family had moved on again, this time to Mineral County, settling in Creede — the same year her teenage brother, Robert Lincoln Davis, died in the influenza pandemic. Two years later, when Alice Josephine was sixteen, her parents' marriage ended in divorce, filed in that same county; her father left Colorado for Missouri not long after, and her mother remarried within weeks.</p>
@@ -154,3 +186,5 @@ repositories:
 <p>Alice Josephine herself married in 1921, at seventeen, a quiet wedding on Tuesday, July 5th, at her mother's home, performed by County Judge Clarence Y. Butler and witnessed by her own mother, Anna Maud, and by Mrs. A. M. Davis. Her husband, William Thomas Jackson, was a Creede-raised boy known to everyone as Billy; the local paper, reporting the marriage under the headline "Billy and Joe," noted that the bride was known to her own friends as "Joe." The couple remained in Creede, raising four children through the 1920s and 1930s - Joel, William Charles ("Scoot"), John Richard, and a daughter still living today. It was a marriage that knit together the family's two Mineral County threads: her own parents had divorced in that same county the year before, and Billy's family had mined and raised children in its camps for a generation before him.</p>
 
 <p>Billy died in 1957, after thirty-six years of marriage. Alice Josephine wrote a poem afterward, "<a href="/writings/the-empty-room/">The Empty Room</a>," which their son John later published under his own column heading, "Marriages Weather Storms with Love."</p>
+
+<p>She stayed on in Creede as a widow for more than twenty years. In July 1974 she signed a will there, leaving her father's Roosevelt-signed postmaster appointment and the family Bible to her brother Arthur, her gemstones and Indian artifacts to Joel, her typewriter and papers to John. It asked that she be cremated as soon as practicable and said plainly, "I do not want any type of funeral service and request no flowers." She died on 7 July 1980 at Penrose Hospital in Colorado Springs, at seventy-six, of complications from a cancer that had begun about two and a half years earlier, and was cremated the next day. Her ashes, by the family's account, now rest in Creede Cemetery beneath a stone her children raised for both of their parents.</p>
