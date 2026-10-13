@@ -25,7 +25,10 @@ title: "Writings"
     </div>
 
     <div class="journal-list">
-      {%- for entry in collections.writings | reverse %}
+      {#- Every piece needs a list_order number (1 = first). Pieces with a "group" (the Thundermug books) are listed on their group page instead. -#}
+      {%- set works = [] %}
+      {%- for e in collections.writings %}{% if e.data.kind == "work" and not e.data.group %}{% set _ = works.push(e) %}{% endif %}{% endfor %}
+      {%- for entry in works | sort(false, true, "data.list_order") %}
       {%- if entry.data.kind == "work" %}
       <article class="journal-card">
         <h2 class="journal-card__title">
